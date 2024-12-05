@@ -54,7 +54,7 @@ MonoBehaviour:
     startingPlayerStartID: 0
   players: []
   movementMethod: 0
-  inputMethod: 0
+  inputMethod: 2
   simulatedCursorMoveSpeed: 4
   interactionMethod: 0
   selectInteractions: 0
@@ -153,7 +153,21 @@ MonoBehaviour:
     axisThreshold: 0.2
     buttonType: 0
     hasUpgraded: 1
-  surfaces: []
+  surfaces:
+  - ID: 0
+    label: Surface0
+    walkSounds:
+    - {fileID: 8300000, guid: c52714c51d3dadf40a01e8ae0d37698f, type: 3}
+    - {fileID: 8300000, guid: 29ad5661294214b40876f3b6abb5e399, type: 3}
+    - {fileID: 8300000, guid: 0483ae5e93ae5a64b859bc3b92187dac, type: 3}
+    - {fileID: 8300000, guid: 3592a82222dfbaa438e44dfbfc830ce9, type: 3}
+    - {fileID: 8300000, guid: ed0e39900abbd8f4bac471abe83c4dc5, type: 3}
+    - {fileID: 8300000, guid: 3f5487a6d6c3c744bb360653514127c0, type: 3}
+    - {fileID: 8300000, guid: df15659f33758794a9709516ba3a5f3d, type: 3}
+    runSounds:
+    - {fileID: 8300000, guid: 50256be054b8b2b49bf18bcba400155d, type: 3}
+    - {fileID: 8300000, guid: adf366885d0985c4b8c5604e0433070e, type: 3}
+    - {fileID: 8300000, guid: 88bd601b6423a824eb104378a35bf75f, type: 3}
   freeAimTouchSpeed: 0.01
   dragWalkThreshold: 5
   dragRunThreshold: 20
@@ -161,7 +175,7 @@ MonoBehaviour:
   dragLineWidth: 3
   dragLineColor: {r: 1, g: 1, b: 1, a: 1}
   offsetTouchCursor: 0
-  touchScreenHotspotInput: 1
+  touchScreenHotspotInput: 2
   firstPersonTouchScreen: 1
   directTouchScreen: 0
   touchUpWhenPaused: 0
@@ -175,6 +189,7 @@ MonoBehaviour:
   cameraPerspective: 0
   cacheCameraMain: 0
   linearColorTextures: 0
+  relyOnSafeArea: 1
   movingTurning: 3
   hotspotDetection: 0
   closeInteractionMenusIfPlayerLeavesVicinity: 0
@@ -231,7 +246,12 @@ MonoBehaviour:
   playMusicWhilePaused: 0
   playAmbienceWhilePaused: 0
   musicStorages: []
-  ambienceStorages: []
+  ambienceStorages:
+  - ID: 0
+    label: Sad Theme
+    audioClip: {fileID: 8300000, guid: b7db97555b877c24f8a1e9fb906c5f56, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   loadAmbienceFadeTime: 0
   crossfadeAmbienceWhenLoading: 0
   restartAmbienceTrackWhenLoading: 0
