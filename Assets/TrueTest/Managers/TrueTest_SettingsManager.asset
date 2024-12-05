@@ -245,7 +245,17 @@ MonoBehaviour:
   autoCallUnloadUnusedAssets: 1
   playMusicWhilePaused: 0
   playAmbienceWhilePaused: 0
-  musicStorages: []
+  musicStorages:
+  - ID: 1
+    label: BG_Music
+    audioClip: {fileID: 8300000, guid: 6590952a501b21c4f8d0e4834e7043be, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 0
+    label: Sad Music
+    audioClip: {fileID: 8300000, guid: b7db97555b877c24f8a1e9fb906c5f56, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages:
   - ID: 0
     label: Sad Theme
@@ -257,7 +267,7 @@ MonoBehaviour:
   restartAmbienceTrackWhenLoading: 0
   loadMusicFadeTime: 0
   crossfadeMusicWhenLoading: 0
-  restartMusicTrackWhenLoading: 0
+  restartMusicTrackWhenLoading: 1
   autoEndOtherMusicWhenPlayed: 1
   musicPrefabOverride: {fileID: 0}
   ambiencePrefabOverride: {fileID: 0}
