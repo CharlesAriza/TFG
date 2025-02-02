@@ -328,10 +328,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 6.3683996
-    y: 93.642
-    width: 87.84
-    height: 15.45
+    x: 6.3104
+    y: 92.752
+    width: 87.04
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -1083,10 +1083,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 6.3683996
-    y: 50.0052
-    width: 87.84
-    height: 15.45
+    x: 6.3104
+    y: 49.531197
+    width: 87.04
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2537,8 +2537,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4.845
     y: 133.225
-    width: 87.84
-    height: 15.45
+    width: 87.04
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2934,10 +2934,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 6.3683996
-    y: 28.1868
-    width: 87.84
-    height: 15.45
+    x: 6.3104
+    y: 27.9208
+    width: 87.04
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -3005,10 +3005,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.115
-    y: 106.189995
-    width: 224.28
-    height: 17.5
+    x: 2.72
+    y: 92.81999
+    width: 195.84
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiToggle: {fileID: 0}
@@ -3205,10 +3205,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.115
-    y: 64.96
-    width: 224.28
-    height: 17.5
+    x: 2.72
+    y: 56.78
+    width: 195.84
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
@@ -3786,10 +3786,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.115
-    y: 126.80499
-    width: 224.28
-    height: 17.5
+    x: 2.72
+    y: 110.83999
+    width: 195.84
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -4447,10 +4447,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 6.3683996
-    y: 6.3683996
-    width: 87.84
-    height: 15.45
+    x: 6.3104
+    y: 6.3104
+    width: 87.04
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -4671,9 +4671,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 0
   title: Options
-  manualSize: {x: 37, y: 42.12}
+  manualSize: {x: 37, y: 42.111107}
   positionType: 0
-  manualPosition: {x: 311.5, y: 175}
+  manualPosition: {x: 272, y: 153}
   positionSmoothing: 0
   alignment: 0
   toggleKey: 
@@ -4755,13 +4755,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 227.395, y: 144.305}
+  biggestElementSize: {x: 198.56, y: 126.139984}
   rect:
     serializedVersion: 2
-    x: 196.245
-    y: 101.29
-    width: 230.51001
-    height: 147.42
+    x: 171.36
+    y: 88.57001
+    width: 201.28
+    height: 128.85999
 --- !u!114 &3020230906193552141
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5023,9 +5023,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 12
   title: Pause
-  manualSize: {x: 18.32, y: 37.365826}
+  manualSize: {x: 18.320002, y: 37.373333}
   positionType: 0
-  manualPosition: {x: 274.5, y: 154.5}
+  manualPosition: {x: 272, y: 153}
   positionSmoothing: 0
   alignment: 4
   toggleKey: Menu
@@ -5104,13 +5104,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 94.2084, y: 109.091995}
+  biggestElementSize: {x: 93.3504, y: 108.052}
   rect:
     serializedVersion: 2
-    x: 224.21161
-    y: 96.769806
-    width: 100.5768
-    height: 115.460396
+    x: 222.1696
+    y: 95.8188
+    width: 99.660805
+    height: 114.362404
 --- !u!114 &3569464254462341143
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5524,7 +5524,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 18
   title: BotonObjetivos
-  manualSize: {x: 11.100001, y: 19.877779}
+  manualSize: {x: 11.1, y: 19.877142}
   positionType: 2
   manualPosition: {x: 100, y: 100}
   positionSmoothing: 0
@@ -5561,9 +5561,9 @@ MonoBehaviour:
   sizeType: 0
   autoSizeEveryFrame: 0
   orientation: 1
-  transitionType: 4
+  transitionType: 0
   panDirection: 0
-  panMovement: 0
+  panMovement: 1
   timeCurve:
     serializedVersion: 2
     m_Curve:
@@ -5596,13 +5596,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 57.664005, y: 58.106003}
+  biggestElementSize: {x: 65.932, y: 66.46}
   rect:
     serializedVersion: 2
-    x: 483.616
-    y: 245.174
-    width: 60.384007
-    height: 60.826004
+    x: 552.958
+    y: 280.43
+    width: 69.042
+    height: 69.57
 --- !u!114 &5122415290530495345
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6208,10 +6208,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.115
-    y: 23.73
-    width: 224.28
-    height: 17.5
+    x: 2.72
+    y: 20.739998
+    width: 195.84
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
@@ -6408,10 +6408,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.115
-    y: 3.115
-    width: 224.28
-    height: 17.5
+    x: 2.72
+    y: 2.72
+    width: 195.84
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiTextTMP: {fileID: 0}
@@ -6593,10 +6593,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 6.3683996
-    y: 71.8236
-    width: 87.84
-    height: 15.45
+    x: 6.3104
+    y: 71.1416
+    width: 87.04
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -6859,10 +6859,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.115
-    y: 3.115
-    width: 39.249
-    height: 16.800001
+    x: 2.72
+    y: 2.72
+    width: 34.272003
+    height: 14.688001
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -7001,10 +7001,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.72
-    y: 2.72
-    width: 54.944004
-    height: 55.386
+    x: 3.11
+    y: 3.11
+    width: 62.822
+    height: 63.350002
   relativePosition: {x: 85.2, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -7356,7 +7356,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 4
   title: InGame
-  manualSize: {x: 7.3000007, y: 6.5800004}
+  manualSize: {x: 7.300001, y: 6.577778}
   positionType: 2
   manualPosition: {x: 19.6, y: 100}
   positionSmoothing: 0
@@ -7428,13 +7428,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 42.364002, y: 19.915}
+  biggestElementSize: {x: 36.992004, y: 17.408}
   rect:
     serializedVersion: 2
-    x: 99.36851
-    y: 326.97
-    width: 45.479004
-    height: 23.03
+    x: 86.768005
+    y: 285.872
+    width: 39.712006
+    height: 20.128
 --- !u!114 &8339126928394403376
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -7474,10 +7474,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.115
-    y: 44.345
-    width: 224.28
-    height: 17.5
+    x: 2.72
+    y: 38.76
+    width: 195.84
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
@@ -8001,10 +8001,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.115
-    y: 85.575
-    width: 224.28
-    height: 17.5
+    x: 2.72
+    y: 74.799995
+    width: 195.84
+    height: 15.299999
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
