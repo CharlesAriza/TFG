@@ -181,10 +181,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.115
-    y: 3.115
-    width: 218.05
-    height: 91
+    x: 2.88
+    y: 2.88
+    width: 201.6
+    height: 84.24
   relativePosition: {x: 0, y: 0}
   numSlots: 5
   uiSlots:
@@ -1474,7 +1474,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 5
   title: Conversation
-  manualSize: {x: 36.000004, y: 29.669998}
+  manualSize: {x: 36.000004, y: 29.666662}
   positionType: 2
   manualPosition: {x: 24, y: 69.7}
   positionSmoothing: 0
@@ -1548,13 +1548,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 221.16501, y: 100.729996}
+  biggestElementSize: {x: 204.48001, y: 93.23999}
   rect:
     serializedVersion: 2
-    x: 37.379997
-    y: 192.02748
-    width: 224.28001
-    height: 103.84499
+    x: 34.559982
+    y: 177.76799
+    width: 207.36002
+    height: 96.11999
 --- !u!114 &-5669609083688588258
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -4393,10 +4393,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.115
-    y: 97.229996
-    width: 218.05
-    height: 3.5
+    x: 2.88
+    y: 89.99999
+    width: 201.6
+    height: 3.24
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
