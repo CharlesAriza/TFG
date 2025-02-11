@@ -243,7 +243,7 @@ MonoBehaviour:
   blackOutWhenInitialising: 1
   spawnPersistentEnginePrefab: 1
   autoCallUnloadUnusedAssets: 1
-  playMusicWhilePaused: 0
+  playMusicWhilePaused: 1
   playAmbienceWhilePaused: 0
   musicStorages:
   - ID: 1
