@@ -256,6 +256,11 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: b7db97555b877c24f8a1e9fb906c5f56, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
+  - ID: 2
+    label: BG_Shop_Music
+    audioClip: {fileID: 8300000, guid: 7e5c2720e806fb846beff9b0d168e302, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages:
   - ID: 0
     label: Sad Theme
