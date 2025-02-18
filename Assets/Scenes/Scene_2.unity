@@ -6954,7 +6954,7 @@ MonoBehaviour:
   constrainHorizontal: {x: 0, y: 0}
   constrainVertical: {x: 0, y: 0}
   freedom: {x: 0, y: 0}
-  dampSpeed: 1
+  dampSpeed: 0.95
   directionInfluence: {x: 0, y: 0}
   afterOffset: {x: 0, y: 0}
   doSnapping: 0

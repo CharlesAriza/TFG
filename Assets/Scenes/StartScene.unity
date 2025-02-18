@@ -9359,7 +9359,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 1.7
+  orthographic size: 2.4
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -9412,7 +9412,7 @@ MonoBehaviour:
   constrainHorizontal: {x: 0, y: 0}
   constrainVertical: {x: 0, y: 0}
   freedom: {x: 0, y: 0}
-  dampSpeed: 1
+  dampSpeed: 0.95
   directionInfluence: {x: 0, y: 0}
   afterOffset: {x: 0, y: 0}
   doSnapping: 0
@@ -11267,9 +11267,9 @@ MonoBehaviour:
     invID: 0
     iconID: 0
     selectItemMode: 0
-    playerAction: 1
+    playerAction: 2
     doubleClickDoesNotSnapPlayerToMarker: 0
-    setProximity: 0
+    setProximity: 1
     proximity: 1
     faceAfter: 0
     isBlocking: 0
