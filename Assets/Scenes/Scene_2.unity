@@ -3079,7 +3079,7 @@ MonoBehaviour:
   freedom: {x: 0, y: 0}
   dampSpeed: 1
   directionInfluence: {x: 0, y: 0}
-  afterOffset: {x: 0, y: 0}
+  afterOffset: {x: 0, y: 0.3}
   doSnapping: 0
   unitSnap: 0.1
 --- !u!20 &768322938
@@ -4129,7 +4129,7 @@ MonoBehaviour:
   groupID: 0
   constantID: 0
   parameterID: -1
-  linkedCamera: {fileID: 1524324131843517871}
+  linkedCamera: {fileID: 768322937}
   transitionTime: 1
   transitionTimeParameterID: -1
   timeCurve:
@@ -6954,9 +6954,9 @@ MonoBehaviour:
   constrainHorizontal: {x: 0, y: 0}
   constrainVertical: {x: 0, y: 0}
   freedom: {x: 0, y: 0}
-  dampSpeed: 0.95
+  dampSpeed: 0.97
   directionInfluence: {x: 0, y: 0}
-  afterOffset: {x: 0, y: 0}
+  afterOffset: {x: 0, y: 0.2}
   doSnapping: 0
   unitSnap: 0.1
 --- !u!114 &246454463477992535
