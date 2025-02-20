@@ -16,7 +16,7 @@ MonoBehaviour:
   - label: Hacha de Principiante
     id: 0
     altLabel: "Hacha de Principiante (Com\xFAn)"
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []

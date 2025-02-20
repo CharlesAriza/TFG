@@ -5765,8 +5765,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "Oh, esto parece una armadura b\xE1sica\u2026 Supongo que es para
-    empezar bien equipado. Pero 250 de oro\u2026 \xBFEs mucho o poco?"
+  messageText: "Hmm\u2026 una espada, un escudo, una ca\xF1a de pescar y\u2026 \xBFun
+    cubo? Supongo que es para empezar con un poco de todo."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
