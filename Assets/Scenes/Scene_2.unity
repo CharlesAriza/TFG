@@ -575,7 +575,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -5
+  m_SortingOrder: -4
   m_Sprite: {fileID: -3400787031097969249, guid: d7a8e55f019ecf44f8c739a3f0baa735, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -947,7 +947,7 @@ Transform:
   m_GameObject: {fileID: 207043918}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.9585392, y: -0.803, z: 0.5490516}
+  m_LocalPosition: {x: -2.9585392, y: -0.79, z: 0.5490516}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -996,7 +996,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -5
+  m_SortingOrder: -4
   m_Sprite: {fileID: -1569794178406245262, guid: d7a8e55f019ecf44f8c739a3f0baa735, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4946,7 +4946,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -5
+  m_SortingOrder: -4
   m_Sprite: {fileID: -3367700804259611734, guid: d7a8e55f019ecf44f8c739a3f0baa735, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6047,7 +6047,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -5
+  m_SortingOrder: -4
   m_Sprite: {fileID: 8473746325416269405, guid: d7a8e55f019ecf44f8c739a3f0baa735, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6085,7 +6085,7 @@ Transform:
   m_GameObject: {fileID: 1226822935}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.8337567, y: -0.79903746, z: 0.5490516}
+  m_LocalPosition: {x: -3.8337567, y: -0.828, z: 0.5490516}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6134,7 +6134,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -5
+  m_SortingOrder: -4
   m_Sprite: {fileID: 5267361741218620780, guid: d7a8e55f019ecf44f8c739a3f0baa735, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8005,7 +8005,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -5
+  m_SortingOrder: -4
   m_Sprite: {fileID: -4101760059475998056, guid: d7a8e55f019ecf44f8c739a3f0baa735, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11618,26 +11618,26 @@ PolygonCollider2D:
       - {x: -0.7388902, y: 0.36886877}
       - {x: -3.6113532, y: 0.36968803}
       - {x: -3.616877, y: 1.7930417}
-    - - {x: 0.89277416, y: 4.302204}
-      - {x: 0.64306325, y: 4.2974358}
+    - - {x: 0.89277416, y: 4.266069}
+      - {x: 0.6502902, y: 4.268528}
       - {x: 0.6321879, y: 3.4095035}
       - {x: 3.383074, y: 3.4064085}
-      - {x: 3.3740864, y: 4.2743397}
-    - - {x: -3.199276, y: 4.302204}
-      - {x: -3.4489868, y: 4.2974358}
+      - {x: 3.3957675, y: 4.2884026}
+    - - {x: -3.2137299, y: 4.273296}
+      - {x: -3.4345329, y: 4.282982}
       - {x: -3.4598622, y: 3.4095035}
       - {x: -0.70897603, y: 3.4064085}
-      - {x: -0.7179637, y: 4.2743397}
-    - - {x: -2.5242863, y: 3.0205595}
-      - {x: -3.4216223, y: 3.015791}
-      - {x: -3.4142547, y: 1.33429}
-      - {x: -2.4511795, y: 1.3403165}
-      - {x: -2.4601672, y: 2.9288447}
-    - - {x: 3.265714, y: 3.0205595}
-      - {x: 2.368378, y: 3.015791}
-      - {x: 2.3757455, y: 1.33429}
-      - {x: 3.3388207, y: 1.3403165}
-      - {x: 3.329833, y: 2.9288447}
+      - {x: -0.7093399, y: 4.2570915}
+    - - {x: -2.517157, y: 3.0549355}
+      - {x: -3.449651, y: 3.0572965}
+      - {x: -3.4560535, y: 1.3200314}
+      - {x: -2.4161994, y: 1.3272595}
+      - {x: -2.4172616, y: 2.9202209}
+    - - {x: 3.2443264, y: 3.048002}
+      - {x: 2.3422167, y: 3.0004723}
+      - {x: 2.328407, y: 1.2923253}
+      - {x: 3.380717, y: 1.3116041}
+      - {x: 3.3718266, y: 2.9641979}
   m_UseDelaunayMesh: 0
 --- !u!1 &7180584360701319440
 GameObject:
