@@ -593,10 +593,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 604.31
-    y: 3.9699543
-    width: 15.575
-    height: 38.5
+    x: 357.93
+    y: 2.4336
+    width: 9.225
+    height: 22.88
   relativePosition: {x: 97, y: 9}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -1958,10 +1958,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 21.805
-    y: 3.115
-    width: 566.93
-    height: 38.5
+    x: 12.915001
+    y: 1.845
+    width: 335.79
+    height: 22.88
   relativePosition: {x: 0, y: 0}
   numSlots: 13
   uiSlots:
@@ -5275,9 +5275,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 3
   title: Inventory
-  manualSize: {x: 100, y: 12.60303}
+  manualSize: {x: 100, y: 13}
   positionType: 1
-  manualPosition: {x: 311.5, y: 22.055302}
+  manualPosition: {x: 184.5, y: 13.5199995}
   positionSmoothing: 0
   alignment: 0
   toggleKey: 
@@ -5351,13 +5351,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 0, y: 0}
+  biggestElementSize: {x: 367.155, y: 25.239286}
   rect:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 623
-    height: 44.110603
+    width: 369
+    height: 27.039999
 --- !u!114 &4604128548558077919
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5641,10 +5641,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.115
-    y: 3.115
-    width: 15.575
-    height: 38.5
+    x: 1.845
+    y: 1.845
+    width: 9.225
+    height: 22.88
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
