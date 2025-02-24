@@ -16760,6 +16760,10 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
+      propertyPath: doubleClickingHotspot
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: provideUseInteraction
       value: 1
       objectReference: {fileID: 0}
@@ -16777,7 +16781,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: useButtons.Array.data[0].proximity
-      value: 1.2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: useButtons.Array.data[0].isBlocking
@@ -19952,7 +19956,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodes:
   - {x: 17.73, y: 2.19, z: 0}
-  - {x: 15.903603, y: 2.202218, z: 1}
+  - {x: 16.544067, y: 2.18281, z: 1}
   nodeCommands:
   - cutscene: {fileID: 0}
     actionListAsset: {fileID: 0}
@@ -19967,7 +19971,7 @@ MonoBehaviour:
   pathSpeed: 0
   teleportToStart: 0
   affectY: 0
-  nodePause: 1
+  nodePause: 2
 --- !u!1001 &7442565457119998634
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19982,7 +19986,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1279762620226453090, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.33
+      value: -8.8
       objectReference: {fileID: 0}
     - target: {fileID: 1279762620226453090, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -20021,6 +20025,10 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
+      propertyPath: doubleClickingHotspot
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: provideUseInteraction
       value: 1
       objectReference: {fileID: 0}
@@ -20038,7 +20046,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: useButtons.Array.data[0].proximity
-      value: 1.3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: useButtons.Array.data[0].isBlocking
@@ -21080,8 +21088,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nodes:
-  - {x: 15.77, y: -8.35, z: 0}
-  - {x: 18.626852, y: -8.363338, z: 1}
+  - {x: 15.77, y: -8.77, z: 0}
+  - {x: 16.890053, y: -8.76803, z: 1}
   nodeCommands:
   - cutscene: {fileID: 0}
     actionListAsset: {fileID: 0}
@@ -21121,7 +21129,7 @@ Transform:
   m_GameObject: {fileID: 9042824185547872945}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.77, y: -8.35, z: 0}
+  m_LocalPosition: {x: 15.77, y: -8.77, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
