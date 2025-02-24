@@ -4809,8 +4809,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 24
-    skipActionActual: {fileID: 1265792548}
+    skipAction: 1
+    skipActionActual: {fileID: 1095897922}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
@@ -5780,7 +5780,7 @@ MonoBehaviour:
   movePathParameterID: -1
   charToMoveID: 0
   movePathID: 0
-  stopInstantly: 0
+  stopInstantly: 1
   movePath: {fileID: 0}
   isPlayer: 0
   playerID: -1
@@ -6572,7 +6572,7 @@ MonoBehaviour:
   movePathParameterID: -1
   charToMoveID: 0
   movePathID: 0
-  stopInstantly: 0
+  stopInstantly: 1
   movePath: {fileID: 0}
   isPlayer: 0
   playerID: -1
@@ -8617,8 +8617,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 12
-    skipActionActual: {fileID: 1447305057}
+    skipAction: 24
+    skipActionActual: {fileID: 1265792548}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -8627,7 +8627,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 526
+    y: 284
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -8639,7 +8639,7 @@ MonoBehaviour:
   movePathParameterID: -1
   charToMoveID: 0
   movePathID: 0
-  stopInstantly: 0
+  stopInstantly: 1
   movePath: {fileID: 0}
   isPlayer: 0
   playerID: -1
@@ -9933,8 +9933,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 1
-    skipActionActual: {fileID: 1095897922}
+    skipAction: 12
+    skipActionActual: {fileID: 1447305057}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -9943,7 +9943,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 284
+    y: 486
     width: 300
     height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -16781,7 +16781,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: useButtons.Array.data[0].proximity
-      value: 1
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: useButtons.Array.data[0].isBlocking
