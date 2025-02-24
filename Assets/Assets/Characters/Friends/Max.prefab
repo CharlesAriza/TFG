@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 593104862430963196}
   - component: {fileID: 7362270068933865942}
   - component: {fileID: 3903752762572461960}
+  - component: {fileID: 1530076978381921949}
   m_Layer: 0
   m_Name: Max
   m_TagString: Untagged
@@ -78,7 +79,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5616858621570712978, guid: 4ce0c4122b3a5804280462721be11ea0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -146,17 +147,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.0037884712, y: -0.14414722}
+  m_Offset: {x: -0.016691208, y: 0.3366049}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.65625, y: 1.03125}
+    pivot: {x: 0.5263158, y: 0.1666667}
+    oldSize: {x: 0.59375, y: 0.96875}
     newSize: {x: 0.65625, y: 1.03125}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.6287203, y: 0.71188724}
+  m_Size: {x: 0.78642464, y: 1.1760305}
   m_EdgeRadius: 0
 --- !u!114 &3903752762572461960
 MonoBehaviour:
@@ -179,7 +180,7 @@ MonoBehaviour:
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
   centrePointOverrides: 0
-  provideUseInteraction: 0
+  provideUseInteraction: 1
   useButton:
     interaction: {fileID: 0}
     assetFile: {fileID: 0}
@@ -198,7 +199,24 @@ MonoBehaviour:
     stopPlayer: 1
     parameterID: -1
     invParameterID: -1
-  useButtons: []
+  useButtons:
+  - interaction: {fileID: 0}
+    assetFile: {fileID: 0}
+    customScriptObject: {fileID: 0}
+    customScriptFunction: 
+    isDisabled: 0
+    invID: 0
+    iconID: 1
+    selectItemMode: 0
+    playerAction: 2
+    doubleClickDoesNotSnapPlayerToMarker: 0
+    setProximity: 1
+    proximity: 1.3
+    faceAfter: 1
+    isBlocking: 1
+    stopPlayer: 1
+    parameterID: -1
+    invParameterID: -1
   oneClick: 0
   provideLookInteraction: 0
   lookButton:
@@ -265,8 +283,26 @@ MonoBehaviour:
   displayLineID: -1
   iconSortingLayer: 
   iconSortingOrder: 0
-  doubleClickingHotspot: 0
+  doubleClickingHotspot: 2
   playerTurnsHead: 1
+--- !u!114 &1530076978381921949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5752753274433171137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c23c0cd1c274961a26f4e9cd5378d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lockSorting: 0
+  affectChildren: 1
+  followSortingMap: 1
+  customSortingMap: {fileID: 0}
+  offsetOriginal: 0
+  livePreview: 1
 --- !u!1 &7382036328512817780
 GameObject:
   m_ObjectHideFlags: 0
@@ -425,7 +461,6 @@ GameObject:
   - component: {fileID: 5655000067318510206}
   - component: {fileID: 2223076281533279999}
   - component: {fileID: 2253999499266135694}
-  - component: {fileID: 7242585479752326055}
   - component: {fileID: 6478647127581336681}
   - component: {fileID: 5390593526217101725}
   - component: {fileID: 9078742075411524714}
@@ -547,7 +582,7 @@ MonoBehaviour:
   idleAnimSprite: Max_Idle
   walkAnimSprite: Max_Walk
   runAnimSprite: 
-  talkAnimSprite: 
+  talkAnimSprite: talk
   lockScale: 0
   spriteScale: 1
   lockDirection: 0
@@ -582,7 +617,7 @@ MonoBehaviour:
       maxAngle: 315
     isUpgraded: 1
   angleSnapping: 0
-  walkSpeedScale: 2
+  walkSpeedScale: 1
   runSpeedScale: 6
   reverseSpeedFactor: 1
   canRunInReverse: 1
@@ -651,8 +686,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.33718252}
-  m_Radius: 0.16281748
+  m_Offset: {x: 0, y: 0.0038295984}
+  m_Radius: 0.16890681
 --- !u!50 &2253999499266135694
 Rigidbody2D:
   serializedVersion: 5
@@ -679,25 +714,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!114 &7242585479752326055
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8162592570304109090}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6c23c0cd1c274961a26f4e9cd5378d8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  lockSorting: 0
-  affectChildren: 1
-  followSortingMap: 1
-  customSortingMap: {fileID: 0}
-  offsetOriginal: 0
-  livePreview: 1
+  m_Constraints: 4
 --- !u!82 &6478647127581336681
 AudioSource:
   m_ObjectHideFlags: 0

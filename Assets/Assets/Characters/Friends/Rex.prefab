@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 382410568434146066}
   - component: {fileID: 5052227522731286222}
   - component: {fileID: 8189122195592661458}
+  - component: {fileID: 3213788723196803735}
   m_Layer: 0
   m_Name: Rex
   m_TagString: Untagged
@@ -78,7 +79,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: -8832143984498025570, guid: dbe7d9311b50419418ecb8e7cef41360, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -179,7 +180,7 @@ MonoBehaviour:
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
   centrePointOverrides: 0
-  provideUseInteraction: 0
+  provideUseInteraction: 1
   useButton:
     interaction: {fileID: 0}
     assetFile: {fileID: 0}
@@ -198,7 +199,24 @@ MonoBehaviour:
     stopPlayer: 1
     parameterID: -1
     invParameterID: -1
-  useButtons: []
+  useButtons:
+  - interaction: {fileID: 0}
+    assetFile: {fileID: 0}
+    customScriptObject: {fileID: 0}
+    customScriptFunction: 
+    isDisabled: 0
+    invID: 0
+    iconID: 1
+    selectItemMode: 0
+    playerAction: 2
+    doubleClickDoesNotSnapPlayerToMarker: 0
+    setProximity: 1
+    proximity: 1
+    faceAfter: 1
+    isBlocking: 1
+    stopPlayer: 1
+    parameterID: -1
+    invParameterID: -1
   oneClick: 0
   provideLookInteraction: 0
   lookButton:
@@ -265,8 +283,26 @@ MonoBehaviour:
   displayLineID: -1
   iconSortingLayer: 
   iconSortingOrder: 0
-  doubleClickingHotspot: 0
+  doubleClickingHotspot: 2
   playerTurnsHead: 1
+--- !u!114 &3213788723196803735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3366160766814134152}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c23c0cd1c274961a26f4e9cd5378d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lockSorting: 0
+  affectChildren: 1
+  followSortingMap: 1
+  customSortingMap: {fileID: 0}
+  offsetOriginal: 0
+  livePreview: 1
 --- !u!1 &7805850740289711950
 GameObject:
   m_ObjectHideFlags: 0
@@ -425,7 +461,6 @@ GameObject:
   - component: {fileID: 2246071963220665682}
   - component: {fileID: 7491597546203495028}
   - component: {fileID: 8068329071124221906}
-  - component: {fileID: 900527298548677935}
   - component: {fileID: 2371503726198907458}
   - component: {fileID: 690779586714337287}
   - component: {fileID: 2738213059431197493}
@@ -679,25 +714,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!114 &900527298548677935
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9123952828543931543}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6c23c0cd1c274961a26f4e9cd5378d8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  lockSorting: 0
-  affectChildren: 1
-  followSortingMap: 1
-  customSortingMap: {fileID: 0}
-  offsetOriginal: 0
-  livePreview: 0
+  m_Constraints: 4
 --- !u!82 &2371503726198907458
 AudioSource:
   m_ObjectHideFlags: 0

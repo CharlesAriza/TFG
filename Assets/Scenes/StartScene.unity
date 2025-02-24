@@ -1259,7 +1259,7 @@ MonoBehaviour:
   movePathParameterID: -1
   charToMoveID: 0
   movePathID: 0
-  stopInstantly: 0
+  stopInstantly: 1
   movePath: {fileID: 0}
   isPlayer: 0
   playerID: -1
@@ -5000,7 +5000,7 @@ MonoBehaviour:
   movePathParameterID: -1
   charToMoveID: 0
   movePathID: 0
-  stopInstantly: 0
+  stopInstantly: 1
   movePath: {fileID: 0}
   isPlayer: 0
   playerID: -1
@@ -5734,63 +5734,6 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!114 &773533751
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e752656cb115c483cb33f884771b28cd, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 30
-    skipActionActual: {fileID: 1705478799}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 284
-    width: 300
-    height: 172
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 5460532970028843854}
-  groupID: 0
-  movePathMethod: 1
-  charToMoveParameterID: -1
-  movePathParameterID: -1
-  charToMoveID: 0
-  movePathID: 0
-  stopInstantly: 1
-  movePath: {fileID: 0}
-  isPlayer: 0
-  playerID: -1
-  playerParameterID: -1
-  charToMove: {fileID: 1648878129}
-  doTeleport: 0
-  startRandom: 0
-  movePathNode: 0
-  nodeIndex: 0
-  nodeIndexParameterID: -1
 --- !u!1 &789963079
 GameObject:
   m_ObjectHideFlags: 0
@@ -10911,7 +10854,7 @@ MonoBehaviour:
   endings:
   - resultAction: 2
     skipAction: 28
-    skipActionActual: {fileID: 773533751}
+    skipActionActual: {fileID: 1753026138}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
@@ -13171,6 +13114,63 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1753026138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e752656cb115c483cb33f884771b28cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 30
+    skipActionActual: {fileID: 1705478799}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 284
+    width: 300
+    height: 172
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 5460532970028843854}
+  groupID: 0
+  movePathMethod: 1
+  charToMoveParameterID: -1
+  movePathParameterID: -1
+  charToMoveID: 0
+  movePathID: 0
+  stopInstantly: 1
+  movePath: {fileID: 0}
+  isPlayer: 0
+  playerID: -1
+  playerParameterID: -1
+  charToMove: {fileID: 1648878129}
+  doTeleport: 0
+  startRandom: 0
+  movePathNode: 0
+  nodeIndex: 0
+  nodeIndexParameterID: -1
 --- !u!114 &1755154627
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16709,11 +16709,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1724893225906585685, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.77
+      value: 16.59
       objectReference: {fileID: 0}
     - target: {fileID: 1724893225906585685, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.1
+      value: 2.194
       objectReference: {fileID: 0}
     - target: {fileID: 1724893225906585685, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -16747,94 +16747,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2223076281533279999, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: m_Radius
-      value: 0.16890681
-      objectReference: {fileID: 0}
-    - target: {fileID: 2223076281533279999, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: m_Offset.y
-      value: 0.0038295984
-      objectReference: {fileID: 0}
-    - target: {fileID: 2253999499266135694, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: m_Constraints
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: doubleClickingHotspot
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: provideUseInteraction
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: useButtons.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: useButtons.Array.data[0].iconID
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: useButtons.Array.data[0].faceAfter
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: useButtons.Array.data[0].proximity
-      value: 1.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: useButtons.Array.data[0].isBlocking
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: useButtons.Array.data[0].stopPlayer
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: useButtons.Array.data[0].interaction
       value: 
       objectReference: {fileID: 5350108144947901445}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: useButtons.Array.data[0].parameterID
-      value: -1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: useButtons.Array.data[0].playerAction
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: useButtons.Array.data[0].setProximity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: useButtons.Array.data[0].invParameterID
-      value: -1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5655000067318510206, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: talkAnimSprite
-      value: talk
-      objectReference: {fileID: 0}
-    - target: {fileID: 5655000067318510206, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: walkSpeedScale
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7362270068933865942, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: m_Size.x
-      value: 0.78642464
-      objectReference: {fileID: 0}
-    - target: {fileID: 7362270068933865942, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: m_Size.y
-      value: 1.1760305
-      objectReference: {fileID: 0}
-    - target: {fileID: 7362270068933865942, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: m_Offset.x
-      value: -0.016691208
-      objectReference: {fileID: 0}
-    - target: {fileID: 7362270068933865942, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
-      propertyPath: m_Offset.y
-      value: 0.3366049
-      objectReference: {fileID: 0}
     - target: {fileID: 8162592570304109090, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: m_Name
       value: Max
@@ -18468,7 +18384,7 @@ MonoBehaviour:
   - {fileID: 682673603}
   - {fileID: 179557642}
   - {fileID: 1402588676}
-  - {fileID: 773533751}
+  - {fileID: 1753026138}
   - {fileID: 618711087}
   - {fileID: 1705478799}
   - {fileID: 1012413668}
@@ -18859,7 +18775,7 @@ Transform:
   m_GameObject: {fileID: 6760963419723852139}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 1.8, y: 1.02, z: 0}
+  m_LocalPosition: {x: 17.7, y: 9.34, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -18896,9 +18812,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   affectSorting: 1
   mapType: 1
-  sortingAreas: []
-  affectScale: 1
-  affectSpeed: 1
+  sortingAreas:
+  - z: 7.0886936
+    order: -1
+    layer: 
+    color: {r: 0.40960842, g: 0.7933165, b: 0.1685698, a: 1}
+    scale: 100
+  - z: 15.921921
+    order: 1
+    layer: 
+    color: {r: 0.1695112, g: 0.13243055, b: 0.98014724, a: 1}
+    scale: 100
+  - z: 17.715958
+    order: -1
+    layer: 
+    color: {r: 0.7263031, g: 0.8672031, b: 0.4805364, a: 1}
+    scale: 100
+  - z: 23.58868
+    order: 1
+    layer: 
+    color: {r: 0.10206461, g: 0.32388908, b: 0.34850723, a: 1}
+    scale: 100
+  affectScale: 0
+  affectSpeed: 0
   originScale: 100
   sortingMapScaleType: 0
   scalingAnimationCurve:
@@ -19982,11 +19918,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1279762620226453090, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 15.84
+      value: 15.49
       objectReference: {fileID: 0}
     - target: {fileID: 1279762620226453090, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.8
+      value: -8.3
       objectReference: {fileID: 0}
     - target: {fileID: 1279762620226453090, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -20020,62 +19956,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8068329071124221906, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: m_Constraints
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: doubleClickingHotspot
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: provideUseInteraction
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: useButtons.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: useButtons.Array.data[0].iconID
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: useButtons.Array.data[0].faceAfter
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: useButtons.Array.data[0].proximity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: useButtons.Array.data[0].isBlocking
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: useButtons.Array.data[0].stopPlayer
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: useButtons.Array.data[0].interaction
       value: 
       objectReference: {fileID: 5460532970028843854}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: useButtons.Array.data[0].parameterID
-      value: -1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: useButtons.Array.data[0].playerAction
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: useButtons.Array.data[0].setProximity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
-      propertyPath: useButtons.Array.data[0].invParameterID
-      value: -1
-      objectReference: {fileID: 0}
     - target: {fileID: 9123952828543931543, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: m_Name
       value: Rex
@@ -21088,8 +20972,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nodes:
-  - {x: 15.77, y: -8.77, z: 0}
-  - {x: 16.890053, y: -8.76803, z: 1}
+  - {x: 15.45, y: -8.364, z: 0}
+  - {x: 16.71568, y: -8.380692, z: 1}
   nodeCommands:
   - cutscene: {fileID: 0}
     actionListAsset: {fileID: 0}
@@ -21129,7 +21013,7 @@ Transform:
   m_GameObject: {fileID: 9042824185547872945}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.77, y: -8.77, z: 0}
+  m_LocalPosition: {x: 15.45, y: -8.364, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

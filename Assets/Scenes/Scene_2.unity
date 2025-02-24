@@ -1146,6 +1146,7 @@ Transform:
   m_Children:
   - {fileID: 8525482162082759057}
   - {fileID: 8815725500333127406}
+  - {fileID: 952112662946015259}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &316420031
@@ -7624,6 +7625,44 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1961502189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9289eb0ca58ef471f9062a5f77161403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings: []
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 300
+    height: 60
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 952112662956179931}
+  groupID: 0
+  parameterID: -1
+  timeToPause: 0
 --- !u!114 &1973641727
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8111,6 +8150,29 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &2094218903 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4067709298047921162, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
+  m_PrefabInstance: {fileID: 312676394555503023}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2094218909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094218903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c23c0cd1c274961a26f4e9cd5378d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lockSorting: 0
+  affectChildren: 1
+  followSortingMap: 1
+  customSortingMap: {fileID: 0}
+  offsetOriginal: 0
+  livePreview: 1
 --- !u!1 &2147120702
 GameObject:
   m_ObjectHideFlags: 0
@@ -8502,7 +8564,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3775861303108845299, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.926
+      value: 2.671
       objectReference: {fileID: 0}
     - target: {fileID: 3775861303108845299, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8656,6 +8718,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Comerciante
       objectReference: {fileID: 0}
+    - target: {fileID: 8046100421219770160, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 8220508662899508640, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
       propertyPath: m_BodyType
       value: 0
@@ -8676,10 +8742,14 @@ PrefabInstance:
       propertyPath: m_CollisionDetection
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3466534990082687776, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4067709298047921162, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2094218909}
   m_SourcePrefab: {fileID: 100100000, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
 --- !u!1 &473881486174069885
 GameObject:
@@ -8747,6 +8817,66 @@ MonoBehaviour:
       Pero 250 de oro\u2026 \xBFEs mucho o poco?\",\"lineID\":-1,\"multiLineIDs\":[],\"isBackground\":false,\"noAnimation\":true,\"headClip\":{\"instanceID\":0},\"mouthClip\":{\"instanceID\":0},\"play2DHeadAnim\":false,\"headClip2D\":\"\",\"headLayer\":0,\"play2DMouthAnim\":false,\"mouthClip2D\":\"\",\"mouthLayer\":0,\"waitTimeOffset\":0.0}"
     endingReferencesBuffer: 00
     endingOverrideIndex: 00000000
+--- !u!1 &952112662945985595
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 952112662946015259}
+  - component: {fileID: 952112662956179931}
+  m_Layer: 2
+  m_Name: Path_Comerciante_OnReachNode_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &952112662946015259
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952112662945985595}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 219378180}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &952112662956179931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952112662945985595}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adbc08fa3d5641d4bf0544d11b7fb59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 1961502189}
+  isSkippable: 1
+  triggerTime: 0
+  autosaveAfter: 0
+  actionListType: 0
+  conversation: {fileID: 0}
+  assetFile: {fileID: 0}
+  source: 0
+  unfreezePauseMenus: 1
+  useParameters: 0
+  parameters: []
+  tagID: 0
+  syncParamValues: 1
+  groups: []
+  backupData: []
 --- !u!1 &1108063599891520197
 GameObject:
   m_ObjectHideFlags: 0
@@ -9851,7 +9981,7 @@ Transform:
   m_GameObject: {fileID: 3610460721799116039}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.045, y: 2.938, z: 0}
+  m_LocalPosition: {x: -0.8, y: 2.64, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9903,28 +10033,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nodes:
-  - {x: -0.045, y: 2.938, z: 0}
-  - {x: 0.68120944, y: 2.9229143, z: 1}
-  - {x: 0.69914746, y: 1.4969947, z: 1.4737223}
-  - {x: -0.7082058, y: 1.5047183, z: 1.8998454}
-  - {x: -0.699938, y: 2.9326143, z: 2.0058415}
+  - {x: -0.8, y: 2.64, z: 0}
+  - {x: 1.1901134, y: 2.643385, z: 1}
   nodeCommands:
   - cutscene: {fileID: 0}
     actionListAsset: {fileID: 0}
     parameterID: -1
-    pausesCharacter: 1
-  - cutscene: {fileID: 0}
-    actionListAsset: {fileID: 0}
-    parameterID: -1
-    pausesCharacter: 1
-  - cutscene: {fileID: 0}
-    actionListAsset: {fileID: 0}
-    parameterID: -1
-    pausesCharacter: 1
-  - cutscene: {fileID: 0}
-    actionListAsset: {fileID: 0}
-    parameterID: -1
-    pausesCharacter: 1
+    pausesCharacter: 0
   - cutscene: {fileID: 0}
     actionListAsset: {fileID: 0}
     parameterID: -1
@@ -10247,7 +10362,7 @@ Transform:
   m_GameObject: {fileID: 6760963419723852139}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 1.8, y: 1.02, z: 0}
+  m_LocalPosition: {x: 0.38, y: 5.16, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10284,9 +10399,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   affectSorting: 1
   mapType: 1
-  sortingAreas: []
-  affectScale: 1
-  affectSpeed: 1
+  sortingAreas:
+  - z: 2.4952333
+    order: -1
+    layer: 
+    color: {r: 0.79422355, g: 0.757427, b: 0.7382997, a: 1}
+    scale: 100
+  - z: 7.7117996
+    order: 1
+    layer: 
+    color: {r: 0.41750842, g: 0.29658443, b: 0.36896235, a: 1}
+    scale: 100
+  affectScale: 0
+  affectSpeed: 0
   originScale: 100
   sortingMapScaleType: 0
   scalingAnimationCurve:

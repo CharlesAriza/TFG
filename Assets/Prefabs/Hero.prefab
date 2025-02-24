@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 2033937102367174612}
   - component: {fileID: 1503067111783982250}
   - component: {fileID: 4964929002609710168}
-  - component: {fileID: 1457503088160792783}
   - component: {fileID: 6308072806358789302}
   - component: {fileID: 8977112549400200840}
   - component: {fileID: 436396350671408320}
@@ -280,24 +279,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &1457503088160792783
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2140360553683382678}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6c23c0cd1c274961a26f4e9cd5378d8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  lockSorting: 0
-  affectChildren: 1
-  followSortingMap: 1
-  customSortingMap: {fileID: 0}
-  offsetOriginal: 0
-  livePreview: 0
 --- !u!82 &6308072806358789302
 AudioSource:
   m_ObjectHideFlags: 0
@@ -666,7 +647,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 9138555137054584332, guid: d65ecc42c36d57240b1ede00b55b8c90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
