@@ -16777,7 +16777,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: useButtons.Array.data[0].proximity
-      value: 1.5
+      value: 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 3903752762572461960, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: useButtons.Array.data[0].isBlocking
@@ -20038,7 +20038,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: useButtons.Array.data[0].proximity
-      value: 1.5
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 8189122195592661458, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: useButtons.Array.data[0].isBlocking
