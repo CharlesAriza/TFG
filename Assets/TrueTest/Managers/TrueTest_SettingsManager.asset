@@ -248,7 +248,7 @@ MonoBehaviour:
   musicStorages:
   - ID: 1
     label: BG_Music
-    audioClip: {fileID: 8300000, guid: 6590952a501b21c4f8d0e4834e7043be, type: 3}
+    audioClip: {fileID: 8300000, guid: 01063a74267f2ed499a950fbbfaed5ad, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
   - ID: 0

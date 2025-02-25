@@ -121,8 +121,8 @@ MonoBehaviour:
   - ID: 1
     title: Hablar con el Mercader
     titleLineID: -1
-    description: "El mercader podr\xEDa ayudarme a conseguir equipo. Tengo que hablar
-      con \xE9l en la tienda."
+    description: "El mercader sabe c\xF3mo ganar oro y conseguir equipo. Deber\xEDa
+      hablar con \xE9l en la tienda."
     descriptionLineID: -1
     perPlayer: 0
     texture: {fileID: 0}
