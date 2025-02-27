@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: a71ad7988e50900498c990a93cebd0e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5069845078607280593
+    second: Brugo_emotes_0
+  - first:
+      213: 1459156822287344649
+    second: Brugo_emotes_1
+  - first:
+      213: -4819782601178804311
+    second: Brugo_emotes_2
+  - first:
+      213: 1219645957619563904
+    second: Brugo_emotes_3
+  - first:
+      213: 3401070171896795694
+    second: Brugo_emotes_4
+  - first:
+      213: 4778717479273898479
+    second: Brugo_emotes_5
+  - first:
+      213: 7680800984451854112
+    second: Brugo_emotes_6
+  - first:
+      213: -6362804538606022375
+    second: Brugo_emotes_7
+  - first:
+      213: 9054953325477225717
+    second: Brugo_emotes_8
+  - first:
+      213: 5168244705091424871
+    second: Brugo_emotes_9
+  - first:
+      213: -5905824185458853004
+    second: Brugo_emotes_10
+  - first:
+      213: -3568581504140751216
+    second: Brugo_emotes_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brugo_emotes_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 111
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d936a0ec35bb5640800000000000000
+      internalID: 5069845078607280593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_emotes_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 111
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90466002667ff3410800000000000000
+      internalID: 1459156822287344649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_emotes_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 111
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af0122b241bc1db0800000000000000
+      internalID: -4819782601178804311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_emotes_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 75
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08db7a7598d0de010800000000000000
+      internalID: 1219645957619563904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_emotes_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 75
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22d51c3d47033f20800000000000000
+      internalID: 3401070171896795694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_emotes_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 75
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1221a8a3a615240800000000000000
+      internalID: 4778717479273898479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_emotes_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 39
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f29bcfccfa79a60800000000000000
+      internalID: 7680800984451854112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_emotes_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 39
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9111525dbf6c2b7a0800000000000000
+      internalID: -6362804538606022375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_emotes_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 39
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4efc60318a9ad70800000000000000
+      internalID: 9054953325477225717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_emotes_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762944f3d2b49b740800000000000000
+      internalID: 5168244705091424871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_emotes_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b70d7913c4a0ea0800000000000000
+      internalID: -5905824185458853004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_emotes_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e49a5770ad97ec0800000000000000
+      internalID: -3568581504140751216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0757d07ca848b844bbc2beed4acdadbf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brugo_emotes_0: 5069845078607280593
+      Brugo_emotes_1: 1459156822287344649
+      Brugo_emotes_10: -5905824185458853004
+      Brugo_emotes_11: -3568581504140751216
+      Brugo_emotes_2: -4819782601178804311
+      Brugo_emotes_3: 1219645957619563904
+      Brugo_emotes_4: 3401070171896795694
+      Brugo_emotes_5: 4778717479273898479
+      Brugo_emotes_6: 7680800984451854112
+      Brugo_emotes_7: -6362804538606022375
+      Brugo_emotes_8: 9054953325477225717
+      Brugo_emotes_9: 5168244705091424871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

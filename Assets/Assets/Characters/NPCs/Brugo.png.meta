@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 18c206b75659e87478f58dced71e0f00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6201169886536794969
+    second: Brugo_0
+  - first:
+      213: 9181342839093590992
+    second: Brugo_1
+  - first:
+      213: -3336392395843486209
+    second: Brugo_2
+  - first:
+      213: 6131811620916735670
+    second: Brugo_3
+  - first:
+      213: 7384887696818722311
+    second: Brugo_4
+  - first:
+      213: -5421710368572854339
+    second: Brugo_5
+  - first:
+      213: 213318711743502691
+    second: Brugo_6
+  - first:
+      213: 5253254098872205876
+    second: Brugo_7
+  - first:
+      213: -3081220142928917266
+    second: Brugo_8
+  - first:
+      213: 6922406129127840479
+    second: Brugo_9
+  - first:
+      213: 5671818034303651864
+    second: Brugo_10
+  - first:
+      213: -5496066554802636546
+    second: Brugo_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brugo_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 111
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acff19e7d401f9a0800000000000000
+      internalID: -6201169886536794969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 111
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbff35daaeaa6f70800000000000000
+      internalID: 9181342839093590992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 111
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd3f6efac0c2b1d0800000000000000
+      internalID: -3336392395843486209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 75
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beaa567e22981550800000000000000
+      internalID: 6131811620916735670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 75
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7065803cb346c7660800000000000000
+      internalID: 7384887696818722311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 75
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfa92e252732c4b0800000000000000
+      internalID: -5421710368572854339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 39
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3695a65fc3cd5f200800000000000000
+      internalID: 213318711743502691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 39
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432842e15ce47e840800000000000000
+      internalID: 5253254098872205876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 39
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec81f1ea9e4d35d0800000000000000
+      internalID: -3081220142928917266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdad6ada2b3511060800000000000000
+      internalID: 6922406129127840479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810d25d937856be40800000000000000
+      internalID: 5671818034303651864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brugo_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8751b769c0ab3b0800000000000000
+      internalID: -5496066554802636546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b4ea2da8b77b14040a2f443897fd19c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brugo_0: -6201169886536794969
+      Brugo_1: 9181342839093590992
+      Brugo_10: 5671818034303651864
+      Brugo_11: -5496066554802636546
+      Brugo_2: -3336392395843486209
+      Brugo_3: 6131811620916735670
+      Brugo_4: 7384887696818722311
+      Brugo_5: -5421710368572854339
+      Brugo_6: 213318711743502691
+      Brugo_7: 5253254098872205876
+      Brugo_8: -3081220142928917266
+      Brugo_9: 6922406129127840479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
