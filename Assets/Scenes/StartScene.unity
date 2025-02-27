@@ -6872,6 +6872,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6760963419723756875}
+  - {fileID: 2022263971834158262}
   m_Father: {fileID: 631159839}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &501971148
@@ -9752,7 +9753,7 @@ MonoBehaviour:
   m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
-  m_ApplyToSortingLayers: 000000000f55b2a4
+  m_ApplyToSortingLayers: 000000000f55b2a4c14a3927
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
@@ -23085,6 +23086,49 @@ MonoBehaviour:
   lookUpDown: 0
   stopLooking: 0
   lookAtHead: 0
+--- !u!114 &1423819572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9289eb0ca58ef471f9062a5f77161403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 1
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 1
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 13
+    y: 1706.1888
+    width: 300
+    height: 92
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 9100990151697346025}
+  groupID: 0
+  parameterID: -1
+  timeToPause: 1
 --- !u!114 &1428786374
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25130,9 +25174,9 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 1
+  - resultAction: 2
     skipAction: 34
-    skipActionActual: {fileID: 0}
+    skipActionActual: {fileID: 1423819572}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -25143,7 +25187,7 @@ MonoBehaviour:
     x: 14
     y: 1477.1
     width: 300
-    height: 172
+    height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 9100990151697346025}
@@ -34320,9 +34364,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2077353418360987482, guid: df4106695579f954f8a479ee66267b15, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2077353418360987482, guid: df4106695579f954f8a479ee66267b15, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2077353418360987482, guid: df4106695579f954f8a479ee66267b15, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3823066428905333255, guid: df4106695579f954f8a479ee66267b15, type: 3}
       propertyPath: m_Name
       value: Leo
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130601541569281290, guid: df4106695579f954f8a479ee66267b15, type: 3}
+      propertyPath: livePreview
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130601541569281290, guid: df4106695579f954f8a479ee66267b15, type: 3}
+      propertyPath: customSortingMap
+      value: 
+      objectReference: {fileID: 2022263971839817078}
+    - target: {fileID: 6130601541569281290, guid: df4106695579f954f8a479ee66267b15, type: 3}
+      propertyPath: followSortingMap
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6620732205357071222, guid: df4106695579f954f8a479ee66267b15, type: 3}
       propertyPath: doubleClickingHotspot
@@ -34382,7 +34450,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9146578424889756727, guid: df4106695579f954f8a479ee66267b15, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.307
+      value: 2.333
       objectReference: {fileID: 0}
     - target: {fileID: 9146578424889756727, guid: df4106695579f954f8a479ee66267b15, type: 3}
       propertyPath: m_LocalPosition.z
@@ -35549,6 +35617,93 @@ MonoBehaviour:
   constantID: 4510
   retainInPrefab: 0
   autoManual: 0
+--- !u!1 &2022263971833790614
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2022263971834158262}
+  - component: {fileID: 2022263971839817078}
+  m_Layer: 2
+  m_Name: NPC_SortingMap
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2022263971834158262
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022263971833790614}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 18.77, y: 9.307, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 499230377}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2022263971839817078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022263971833790614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a3e59ff200454d0d99af22e268613f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  affectSorting: 1
+  mapType: 1
+  sortingAreas:
+  - z: 4.7223682
+    order: -1
+    layer: 
+    color: {r: 0.40264553, g: 0.333479, b: 0.30856782, a: 1}
+    scale: 100
+  - z: 5.5911045
+    order: 1
+    layer: 
+    color: {r: 0.23642111, g: 0.7955251, b: 0.31323248, a: 1}
+    scale: 100
+  - z: 7.009
+    order: -1
+    layer: 
+    color: {r: 0.18749869, g: 0.9688839, b: 0.867131, a: 1}
+    scale: 100
+  - z: 14.785446
+    order: 1
+    layer: 
+    color: {r: 0.087687135, g: 0.026266336, b: 0.37768036, a: 1}
+    scale: 100
+  - z: 17.682394
+    order: -1
+    layer: 
+    color: {r: 0.7645792, g: 0.1646353, b: 0.7314967, a: 1}
+    scale: 100
+  - z: 23.613462
+    order: 1
+    layer: 
+    color: {r: 0.39661616, g: 0.107577205, b: 0.36701947, a: 1}
+    scale: 100
+  affectScale: 0
+  affectSpeed: 0
+  originScale: 100
+  sortingMapScaleType: 0
+  scalingAnimationCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &2047518476691207015
 GameObject:
   m_ObjectHideFlags: 0
@@ -36055,6 +36210,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1530076978381921949, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
+      propertyPath: customSortingMap
+      value: 
+      objectReference: {fileID: 2022263971839817078}
+    - target: {fileID: 1530076978381921949, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
+      propertyPath: followSortingMap
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1724893225906585685, guid: 4777c373c40ff9045b4d5770ef4cd19e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 16.59
@@ -36516,7 +36679,7 @@ Transform:
   m_GameObject: {fileID: 3501014946493589721}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 20.225, y: 4.64, z: 0}
+  m_LocalPosition: {x: 20.225, y: 4.667, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -36553,8 +36716,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nodes:
-  - {x: 20.225, y: 4.64, z: 0}
-  - {x: 21.727835, y: 4.6508965, z: 1}
+  - {x: 20.225, y: 4.667, z: 0}
+  - {x: 21.306011, y: 4.6625338, z: 1}
   nodeCommands:
   - cutscene: {fileID: 0}
     actionListAsset: {fileID: 0}
@@ -37638,6 +37801,10 @@ PrefabInstance:
       propertyPath: m_BodyType
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3991624521310773492, guid: f2ac82b782ae5c04cbaa51c1a05281f1, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 4583820412518235212, guid: f2ac82b782ae5c04cbaa51c1a05281f1, type: 3}
       propertyPath: m_IsTrigger
       value: 0
@@ -37649,6 +37816,18 @@ PrefabInstance:
     - target: {fileID: 7343614555822501868, guid: f2ac82b782ae5c04cbaa51c1a05281f1, type: 3}
       propertyPath: useButtons.Array.data[0].playerAction
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8726978484665500616, guid: f2ac82b782ae5c04cbaa51c1a05281f1, type: 3}
+      propertyPath: livePreview
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8726978484665500616, guid: f2ac82b782ae5c04cbaa51c1a05281f1, type: 3}
+      propertyPath: customSortingMap
+      value: 
+      objectReference: {fileID: 2022263971839817078}
+    - target: {fileID: 8726978484665500616, guid: f2ac82b782ae5c04cbaa51c1a05281f1, type: 3}
+      propertyPath: followSortingMap
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38683,7 +38862,7 @@ MonoBehaviour:
   affectSorting: 1
   mapType: 1
   sortingAreas:
-  - z: 4.5627007
+  - z: 4.740384
     order: -1
     layer: 
     color: {r: 0.40960842, g: 0.7933165, b: 0.1685698, a: 1}
@@ -38693,10 +38872,10 @@ MonoBehaviour:
     layer: 
     color: {r: 0.58197695, g: 0.030107737, b: 0.44776994, a: 1}
     scale: 100
-  - z: 6.924344
-    order: -1
+  - z: 7.00765
+    order: -2
     layer: 
-    color: {r: 0.9625691, g: 0.37244326, b: 0.20412469, a: 1}
+    color: {r: 0.92474425, g: 0.83079696, b: 0.57574624, a: 1}
     scale: 100
   - z: 14.817767
     order: 1
@@ -39962,6 +40141,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 558729557454582461, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 1279762620226453090, guid: e922b7462df24a74ba0a0007c782b8e2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 15.49
@@ -41306,6 +41489,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Milo
       objectReference: {fileID: 0}
+    - target: {fileID: 4223364692548487243, guid: 50904568319f22b46b59a1e2ce3b16bc, type: 3}
+      propertyPath: livePreview
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4223364692548487243, guid: 50904568319f22b46b59a1e2ce3b16bc, type: 3}
+      propertyPath: customSortingMap
+      value: 
+      objectReference: {fileID: 2022263971839817078}
+    - target: {fileID: 4223364692548487243, guid: 50904568319f22b46b59a1e2ce3b16bc, type: 3}
+      propertyPath: followSortingMap
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795854130754168256, guid: 50904568319f22b46b59a1e2ce3b16bc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.192
+      objectReference: {fileID: 0}
     - target: {fileID: 7024585827794413406, guid: 50904568319f22b46b59a1e2ce3b16bc, type: 3}
       propertyPath: doubleClickingHotspot
       value: 2
@@ -41358,13 +41557,17 @@ PrefabInstance:
       propertyPath: useButtons.Array.data[0].invParameterID
       value: -1
       objectReference: {fileID: 0}
+    - target: {fileID: 7257610577802936735, guid: 50904568319f22b46b59a1e2ce3b16bc, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 8116105278568141975, guid: 50904568319f22b46b59a1e2ce3b16bc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 20.37
       objectReference: {fileID: 0}
     - target: {fileID: 8116105278568141975, guid: 50904568319f22b46b59a1e2ce3b16bc, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.675
+      value: 4.84
       objectReference: {fileID: 0}
     - target: {fileID: 8116105278568141975, guid: 50904568319f22b46b59a1e2ce3b16bc, type: 3}
       propertyPath: m_LocalPosition.z
@@ -41450,6 +41653,7 @@ MonoBehaviour:
   - {fileID: 1556768795}
   - {fileID: 1822234434}
   - {fileID: 217642028}
+  - {fileID: 1423819572}
   isSkippable: 1
   triggerTime: 0
   autosaveAfter: 0

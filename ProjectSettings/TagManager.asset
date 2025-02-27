@@ -45,5 +45,8 @@ TagManager:
   - name: Collider
     uniqueID: 2763150607
     locked: 0
+  - name: NPCs
+    uniqueID: 658066113
+    locked: 0
   m_RenderingLayers:
   - Default
