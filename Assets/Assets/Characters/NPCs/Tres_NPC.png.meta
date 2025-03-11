@@ -162,12 +162,12 @@ TextureImporter:
       name: Tres_NPC_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 107
-        width: 19
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4
+        y: 108
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +184,12 @@ TextureImporter:
       name: Tres_NPC_1
       rect:
         serializedVersion: 2
-        x: 29
-        y: 107
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 30
+        y: 108
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: Tres_NPC_2
       rect:
         serializedVersion: 2
-        x: 55
-        y: 107
-        width: 19
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 56
+        y: 108
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +228,12 @@ TextureImporter:
       name: Tres_NPC_3
       rect:
         serializedVersion: 2
-        x: 4
-        y: 71
-        width: 17
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5
+        y: 72
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,12 +250,12 @@ TextureImporter:
       name: Tres_NPC_4
       rect:
         serializedVersion: 2
-        x: 30
-        y: 71
-        width: 17
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 31
+        y: 72
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -272,12 +272,12 @@ TextureImporter:
       name: Tres_NPC_5
       rect:
         serializedVersion: 2
-        x: 56
-        y: 71
-        width: 17
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 57
+        y: 72
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -294,12 +294,12 @@ TextureImporter:
       name: Tres_NPC_6
       rect:
         serializedVersion: 2
-        x: 4
-        y: 35
-        width: 17
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5
+        y: 36
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -316,12 +316,12 @@ TextureImporter:
       name: Tres_NPC_7
       rect:
         serializedVersion: 2
-        x: 30
-        y: 35
-        width: 17
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 31
+        y: 36
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -338,12 +338,12 @@ TextureImporter:
       name: Tres_NPC_8
       rect:
         serializedVersion: 2
-        x: 56
-        y: 35
-        width: 17
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 57
+        y: 36
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -360,12 +360,12 @@ TextureImporter:
       name: Tres_NPC_9
       rect:
         serializedVersion: 2
-        x: 3
+        x: 4
         y: 0
-        width: 19
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -382,12 +382,12 @@ TextureImporter:
       name: Tres_NPC_10
       rect:
         serializedVersion: 2
-        x: 29
+        x: 30
         y: 0
-        width: 19
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -404,12 +404,12 @@ TextureImporter:
       name: Tres_NPC_11
       rect:
         serializedVersion: 2
-        x: 55
+        x: 56
         y: 0
-        width: 19
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1935484}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -426,7 +426,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5ce0d9a2eed79774bab05ed61f820052
     internalID: 0
     vertices: []
     indices: 
