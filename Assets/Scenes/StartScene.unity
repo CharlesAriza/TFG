@@ -823,6 +823,68 @@ MonoBehaviour:
   variables: {fileID: 0}
   variablesConstantID: 0
   spawnedObjectParameterID: -1
+--- !u!114 &99006780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 37
+    skipActionActual: {fileID: 543382112}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 364
+    y: 4154.24
+    width: 300
+    height: 240.57
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 2003427419891307987}
+  groupID: 0
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 0
+  playerID: -1
+  speaker: {fileID: 542407867}
+  messageText: "Viendo caras nuevas, viendo c\xF3mo vienen y van... Algunos con m\xE1s
+    \xE9xito que otros, jejeje."
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 1
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
 --- !u!1 &103222130
 GameObject:
   m_ObjectHideFlags: 0
@@ -3811,7 +3873,7 @@ MonoBehaviour:
     x: 714
     y: 2182.77
     width: 300
-    height: 249.62
+    height: 235.1
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2003427419891307987}
@@ -3822,9 +3884,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 542407867}
-  messageText: "\xA1Por supuesto! Es f\xE1cil, tranquilo, no te perder\xE1s\u2026
-    probablemente. Solo sigue recto por tu derecha, pasa todas las tiendas y ah\xED
-    los encontrar\xE1s."
+  messageText: "\xA1Por supuesto! Solo sigue recto, pasa la tienda del herrero y
+    luego la del mercader, que est\xE1 pegada a la mazmorra."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -20340,7 +20401,7 @@ MonoBehaviour:
     x: 714
     y: 1701.15
     width: 300
-    height: 249.62
+    height: 220.57
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2003427419891307987}
@@ -20351,9 +20412,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 542407867}
-  messageText: "\xA1Ah, s\xED! Hace un momento pasaron por aqu\xED, muy emocionados.
-    Parec\xEDan con prisa\u2026 qu\xE9 raro, \xBFno? Seguro que te estaban esperando
-    con ansias."
+  messageText: "\xA1Ah, s\xED! Hace un momento pasaron por aqu\xED, muy emocionados."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -35467,7 +35526,7 @@ MonoBehaviour:
   - {fileID: 1018291775}
   - {fileID: 400017913}
   - {fileID: 532653110}
-  - {fileID: 1994630982}
+  - {fileID: 99006780}
   isSkippable: 1
   triggerTime: 0
   autosaveAfter: 0
