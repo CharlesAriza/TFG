@@ -806,7 +806,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: "Sets de Armaduras \xC9picas        "
+  hotspotName: "Sets de Armaduras \xC9picas - 900 de Oro       "
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -3516,7 +3516,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: Sets de Hachas Imbuidas
+  hotspotName: Sets de Hachas Imbuidas - 800 de Oro
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -8419,7 +8419,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: "Pack del Guardi\xE1n de la Mazmorra"
+  hotspotName: "Pack del Guardi\xE1n de la Mazmorra - 400 de Oro"
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -9444,7 +9444,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: Pack del Aventurero Independiente
+  hotspotName: Pack del Aventurero Independiente - 500 de Oro
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
