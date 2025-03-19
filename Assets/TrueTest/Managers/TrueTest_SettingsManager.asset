@@ -23,7 +23,7 @@ MonoBehaviour:
   useProfiles: 0
   maxSaves: 5
   orderSavesByUpdateTime: 0
-  reloadSceneWhenLoading: 0
+  reloadSceneWhenLoading: 1
   saveWithThreading: 0
   saveCompression: 0
   saveAssetReferencesWithAddressables: 0
@@ -83,7 +83,7 @@ MonoBehaviour:
   dragThreshold: 0
   maxInventorySlots: 0
   shareInventory: 0
-  inventoryDragDrop: 0
+  inventoryDragDrop: 1
   dragDropThreshold: 0
   allowInventoryInteractionsDuringConversations: 0
   inventoryDropLook: 0
@@ -232,11 +232,11 @@ MonoBehaviour:
   navMeshLayer: NavMesh
   backgroundImageLayer: BackgroundImage
   deactivatedLayer: Ignore Raycast
-  useLoadingScreen: 0
+  useLoadingScreen: 1
   manualSceneActivation: 0
-  loadingSceneIs: 0
+  loadingSceneIs: 1
   loadScenesFromAddressable: 0
-  loadingSceneName: 
+  loadingSceneName: Loading_Scene
   loadingScene: 0
   useAsyncLoading: 0
   loadingDelay: 0
