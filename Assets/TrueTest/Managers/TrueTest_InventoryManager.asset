@@ -351,6 +351,61 @@ MonoBehaviour:
     lockStateWhenFail: 1
     binID: -1
     vars: []
+  - ID: 4
+    title: La Manzana Dorada
+    titleLineID: -1
+    description: "Don Pomar ha tra\xEDdo la codiciada Manzana Dorada. \xBFProbar\xE1s
+      suerte o tomar\xE1s otro camino?"
+    descriptionLineID: -1
+    perPlayer: 0
+    texture: {fileID: 0}
+    states:
+    - ID: 0
+      label: Started
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 1
+      actionListOnEnter: {fileID: 0}
+      autoStartSubObjectives: 0
+      texture: {fileID: 0}
+      autoStateIDOnAllSubObsCompletePlusOne: 0
+      autoStateIDOnAnySubObsCompletePlusOne: 0
+      autoStateIDOnAllSubObsFailPlusOne: 0
+      autoStateIDOnAnySubObsFailPlusOne: 0
+      linkedCategoryIDPlusOne: 0
+    - ID: 1
+      label: Completed
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 2
+      actionListOnEnter: {fileID: 0}
+      autoStartSubObjectives: 0
+      texture: {fileID: 0}
+      autoStateIDOnAllSubObsCompletePlusOne: 0
+      autoStateIDOnAnySubObsCompletePlusOne: 0
+      autoStateIDOnAllSubObsFailPlusOne: 0
+      autoStateIDOnAnySubObsFailPlusOne: 0
+      linkedCategoryIDPlusOne: 0
+    - ID: 2
+      label: Bloqueado
+      labelLineID: -1
+      description: "No tienes suficientes recursos para acceder a esta misi\xF3n."
+      descriptionLineID: -1
+      stateType: 3
+      actionListOnEnter: {fileID: 0}
+      autoStartSubObjectives: 0
+      texture: {fileID: 0}
+      autoStateIDOnAllSubObsCompletePlusOne: 0
+      autoStateIDOnAnySubObsCompletePlusOne: 0
+      autoStateIDOnAllSubObsFailPlusOne: 0
+      autoStateIDOnAnySubObsFailPlusOne: 0
+      linkedCategoryIDPlusOne: 0
+    lockStateWhenComplete: 1
+    lockStateWhenFail: 1
+    binID: -1
+    vars: []
   objectiveStateActiveLabel:
     label: Activo
     lineID: -1
@@ -358,5 +413,5 @@ MonoBehaviour:
     label: Completado
     lineID: -1
   objectiveStateFailLabel:
-    label: Fallado
+    label: Bloqueado
     lineID: -1
