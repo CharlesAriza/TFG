@@ -24933,7 +24933,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 7171916600645620917}
   groupID: 0
   parameterID: -1
-  timeToPause: 0.7
+  timeToPause: 0.6
 --- !u!114 &1088067284
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26216,7 +26216,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_Sprite: {fileID: 6854961030724020257, guid: 809f010406fc7674aa304e61783c96e7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -44991,7 +44991,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 7171916600645620917}
   groupID: 0
   parameterID: -1
-  timeToPause: 0.7
+  timeToPause: 0.6
 --- !u!114 &1980819183
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54919,7 +54919,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: Gastar Gemas
+  hotspotName: Gastar Gemas DEBUG
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
