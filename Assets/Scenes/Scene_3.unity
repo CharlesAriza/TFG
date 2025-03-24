@@ -22359,7 +22359,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1125068629}
   messageText: "Bueno... yo a\xFAn tengo un par de intentos, a ver si esta vez me
-    toca algo decente."
+    toca."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
