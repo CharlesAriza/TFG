@@ -233,12 +233,12 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.28340155}
-  m_Radius: 0.21659845
+  m_Offset: {x: 0, y: -0.008820295}
+  m_Radius: 0.22016454
 --- !u!50 &3160035196318141208
 Rigidbody2D:
   serializedVersion: 5
@@ -558,17 +558,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.0037117004}
+  m_Offset: {x: 0, y: 0.27116096}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.59375, y: 1.03125}
+    pivot: {x: 0.5263158, y: 0.2121212}
+    oldSize: {x: 0.53125, y: 0.96875}
     newSize: {x: 0.59375, y: 1.03125}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1.1956434}
+  m_Size: {x: 1, y: 1.1599834}
   m_EdgeRadius: 0
 --- !u!114 &7033576686128117328
 MonoBehaviour:
@@ -677,7 +677,7 @@ MonoBehaviour:
   displayLineID: -1
   iconSortingLayer: 
   iconSortingOrder: 0
-  doubleClickingHotspot: 0
+  doubleClickingHotspot: 2
   playerTurnsHead: 1
 --- !u!114 &777975252881868011
 MonoBehaviour:
@@ -693,7 +693,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockSorting: 0
   affectChildren: 1
-  followSortingMap: 0
+  followSortingMap: 1
   customSortingMap: {fileID: 0}
   offsetOriginal: 0
   livePreview: 0
