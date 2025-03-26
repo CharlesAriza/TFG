@@ -133,6 +133,66 @@ MonoBehaviour:
     textValLineID: -1
     popUpsLineID: -1
     description: "Cuantas veces has talado el \xC1rbol."
+  - label: Hotspot_Rex_Primera_Escena
+    id: 6
+    type: 0
+    val: 0
+    floatVal: 0
+    textVal: 
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    ignorePresets: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: Has hablado con Rex en la primera escena.
+  - label: Has_Food
+    id: 7
+    type: 0
+    val: 0
+    floatVal: 0
+    textVal: 
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    ignorePresets: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: El personaje tiene comida en el inventario.
+  - label: PulgasHaComido
+    id: 8
+    type: 0
+    val: 0
+    floatVal: 0
+    textVal: 
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    ignorePresets: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: "Se\xF1or Pulgas ha sido alimentado."
   varPresets: []
   updateRuntime: 1
   popUpLabelData: []
