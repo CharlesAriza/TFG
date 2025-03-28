@@ -216,7 +216,7 @@ MonoBehaviour:
   - label: Tres_Ha_Ganado
     id: 10
     type: 0
-    val: 1
+    val: 0
     floatVal: 0
     textVal: 
     gameObjectVal: {fileID: 0}
