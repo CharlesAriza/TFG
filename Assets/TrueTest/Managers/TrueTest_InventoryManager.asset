@@ -793,7 +793,7 @@ MonoBehaviour:
     canCarryMultiple: 1
     count: 1
     canBeLowerCase: 0
-    maxCount: 999
+    maxCount: 9999
     itemStackingMode: 0
     tex: {fileID: 2800000, guid: 903d1ace798944c4881b6c1a34dee57c, type: 3}
     activeTex: {fileID: 2800000, guid: 26880233b86d5844b8dbd805fdd1e058, type: 3}
