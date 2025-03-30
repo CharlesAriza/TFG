@@ -806,7 +806,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: "Sets de Armaduras \xC9picas - 900 de Oro       "
+  hotspotName: "Sets de Armaduras \xC9picas"
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -3516,7 +3516,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: Sets de Hachas Imbuidas - 800 de Oro
+  hotspotName: Sets de Hachas Imbuidas
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -8419,7 +8419,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: "Pack del Guardi\xE1n de la Mazmorra - 400 de Oro"
+  hotspotName: "Pack del Guardi\xE1n de la Mazmorra"
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -9215,6 +9215,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6459219377478693120, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
+      propertyPath: textScrollClip
+      value: 
+      objectReference: {fileID: 8300000, guid: d6e5d94279631d0448af54ef4aff73ee, type: 3}
+    - target: {fileID: 6459219377478693120, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
       propertyPath: walkSpeedScale
       value: 1
       objectReference: {fileID: 0}
@@ -9444,7 +9448,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: Pack del Aventurero Independiente - 500 de Oro
+  hotspotName: Pack del Aventurero Independiente
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -10516,7 +10520,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: "\xBFC\xF3mo puedo conseguir oro?"
+  - label: "\u25B6 \xBFC\xF3mo puedo conseguir oro?"
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -10545,7 +10549,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: "\xBFQu\xE9 m\xE1s puedo hacer en este pueblo?"
+  - label: "\u25B6 \xBFQu\xE9 m\xE1s puedo hacer?"
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -10574,7 +10578,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: Tengo que irme.
+  - label: "\u25B6 Tengo que irme."
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -10604,7 +10608,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: "\xBFC\xF3mo puedo conseguir oro?"
+    label: "\u25B6 \xBFQu\xE9 m\xE1s puedo hacer?"
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -10620,16 +10624,16 @@ MonoBehaviour:
       clickOffset: {x: 0, y: 0}
       frameSpeeds: []
       alwaysAnimate: 0
-    isOn: 1
+    isOn: 0
     isLocked: 0
     conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 1
+    ID: 2
     hasBeenChosen: 0
     autoTurnOff: 0
     linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 4867599496186452966}
+    dialogueOption: {fileID: 8776186729701149059}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 

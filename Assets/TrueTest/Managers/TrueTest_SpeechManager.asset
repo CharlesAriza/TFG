@@ -24,11 +24,11 @@ MonoBehaviour:
   displayNarrationForever: 0
   playAnimationForever: 1
   canSkipWithMouseClicks: 1
-  minimumDisplayTime: 2
+  minimumDisplayTime: 0.5
   screenTimeFactor: 0.1
   allowSpeechSkipping: 1
   allowGameplaySpeechSkipping: 0
-  skipThresholdTime: 1
+  skipThresholdTime: 0.5
   endScrollBeforeSkip: 0
   ifSkipWhileScrolling: 0
   scrollingTextFactorsLength: 1
