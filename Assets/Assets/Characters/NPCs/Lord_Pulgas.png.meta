@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 7689a4c875f8ece47bfd55b206f26501
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2486318613997517297
+    second: Lord_Pulgas_0
+  - first:
+      213: -6756639666617013441
+    second: Lord_Pulgas_1
+  - first:
+      213: 5957079086659618955
+    second: Lord_Pulgas_2
+  - first:
+      213: -690415783896877874
+    second: Lord_Pulgas_3
+  - first:
+      213: -7142151935355860258
+    second: Lord_Pulgas_4
+  - first:
+      213: -3138365506868513333
+    second: Lord_Pulgas_5
+  - first:
+      213: -5062826760197631722
+    second: Lord_Pulgas_6
+  - first:
+      213: -3736813064425360481
+    second: Lord_Pulgas_7
+  - first:
+      213: -7012918466937293335
+    second: Lord_Pulgas_8
+  - first:
+      213: -7751108738220864353
+    second: Lord_Pulgas_9
+  - first:
+      213: 781879245639584527
+    second: Lord_Pulgas_10
+  - first:
+      213: -3849316506032431291
+    second: Lord_Pulgas_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lord_Pulgas_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 198
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f068c36c462de7dd0800000000000000
+      internalID: -2486318613997517297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Pulgas_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 198
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3baafb75089b32a0800000000000000
+      internalID: -6756639666617013441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Pulgas_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 198
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88414b0edbcba250800000000000000
+      internalID: 5957079086659618955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Pulgas_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 132
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4f085a0862b66f0800000000000000
+      internalID: -690415783896877874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Pulgas_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 132
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edace31d7aaf1ec90800000000000000
+      internalID: -7142151935355860258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Pulgas_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 49
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc573c303394274d0800000000000000
+      internalID: -3138365506868513333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Pulgas_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 49
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111417b2e93db9b0800000000000000
+      internalID: -5062826760197631722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Pulgas_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 66
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9333eef05c242cc0800000000000000
+      internalID: -3736813064425360481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Pulgas_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 66
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5fc637fcb1dae90800000000000000
+      internalID: -7012918466937293335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Pulgas_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 31
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c4be27ba78e6490800000000000000
+      internalID: -7751108738220864353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Pulgas_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b0995080bc9da00800000000000000
+      internalID: 781879245639584527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Pulgas_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 31
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f93e5480b749ac0800000000000000
+      internalID: -3849316506032431291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 114bdc8e86702a7428b97f6a8ee426f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lord_Pulgas_0: -2486318613997517297
+      Lord_Pulgas_1: -6756639666617013441
+      Lord_Pulgas_10: 781879245639584527
+      Lord_Pulgas_11: -3849316506032431291
+      Lord_Pulgas_2: 5957079086659618955
+      Lord_Pulgas_3: -690415783896877874
+      Lord_Pulgas_4: -7142151935355860258
+      Lord_Pulgas_5: -3138365506868513333
+      Lord_Pulgas_6: -5062826760197631722
+      Lord_Pulgas_7: -3736813064425360481
+      Lord_Pulgas_8: -7012918466937293335
+      Lord_Pulgas_9: -7751108738220864353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
