@@ -345,7 +345,7 @@ MonoBehaviour:
     selectSingle: 0
   - label: Botas de Velocidad
     id: 6
-    altLabel: 
+    altLabel: Botas de Velocidad (Rotas)
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -893,6 +893,61 @@ MonoBehaviour:
     carryOnStartID: -1
     useSeparateSlots: 0
     selectSingle: 0
+  - label: "Ca\xF1a de Pescar"
+    id: 16
+    altLabel: "Ca\xF1a de Pescar (Com\xFAn)"
+    carryOnStart: 0
+    carryOnStartNotDefault: 0
+    carryOnStartIDs: 00000000
+    vars: []
+    canCarryMultiple: 0
+    count: 1
+    canBeLowerCase: 0
+    maxCount: 999
+    itemStackingMode: 0
+    tex: {fileID: 2800000, guid: 11caf2248ecb3a34389fec8b5491fd16, type: 3}
+    activeTex: {fileID: 2800000, guid: 7d1b4f49967b79246ae5a783b16d0c64, type: 3}
+    selectedTex: {fileID: 0}
+    linkedPrefab: {fileID: 0}
+    cursorIcon:
+      texture: {fileID: 2800000, guid: 7d1b4f49967b79246ae5a783b16d0c64, type: 3}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.07
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+      dontCycle: 0
+      label: Icon 1
+      lineID: -1
+      id: 0
+    lineID: -1
+    useIconID: 0
+    binID: -1
+    overrideUseSyntax: 0
+    hotspotPrefix1:
+      label: Use
+      lineID: -1
+    hotspotPrefix2:
+      label: on
+      lineID: -1
+    useActionList: {fileID: 0}
+    lookActionList: {fileID: 0}
+    interactions: []
+    combineInteractions: []
+    combineActionList: []
+    combineID: 
+    unhandledActionList: {fileID: 0}
+    unhandledGiveActionList: {fileID: 0}
+    unhandledCombineActionList: {fileID: 0}
+    carryOnStartID: -1
+    useSeparateSlots: 0
+    selectSingle: 0
   bins: []
   invVars: []
   unhandledCombine: {fileID: 0}
@@ -1190,6 +1245,20 @@ MonoBehaviour:
       description: 
       descriptionLineID: -1
       stateType: 2
+      actionListOnEnter: {fileID: 0}
+      autoStartSubObjectives: 0
+      texture: {fileID: 0}
+      autoStateIDOnAllSubObsCompletePlusOne: 0
+      autoStateIDOnAnySubObsCompletePlusOne: 0
+      autoStateIDOnAllSubObsFailPlusOne: 0
+      autoStateIDOnAnySubObsFailPlusOne: 0
+      linkedCategoryIDPlusOne: 0
+    - ID: 2
+      label: Abandonado
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 3
       actionListOnEnter: {fileID: 0}
       autoStartSubObjectives: 0
       texture: {fileID: 0}
