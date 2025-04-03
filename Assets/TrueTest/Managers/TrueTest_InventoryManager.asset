@@ -343,7 +343,7 @@ MonoBehaviour:
     carryOnStartID: -1
     useSeparateSlots: 0
     selectSingle: 0
-  - label: Botas de Velocidad
+  - label: Botas de Velocidad (Rotas)
     id: 6
     altLabel: Botas de Velocidad (Rotas)
     carryOnStart: 0
@@ -355,12 +355,12 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 2800000, guid: a9107856f4be52b44968fcf4593cd151, type: 3}
-    activeTex: {fileID: 2800000, guid: 48692e115a0f7e54983962e93ef71946, type: 3}
+    tex: {fileID: 2800000, guid: 027d387328b287b4f8e50421b30855ea, type: 3}
+    activeTex: {fileID: 2800000, guid: 7660e95973d84794ab7e1f9f132464a7, type: 3}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
     cursorIcon:
-      texture: {fileID: 2800000, guid: 48692e115a0f7e54983962e93ef71946, type: 3}
+      texture: {fileID: 2800000, guid: 7660e95973d84794ab7e1f9f132464a7, type: 3}
       isAnimated: 0
       numFrames: 1
       numRows: 1
@@ -398,9 +398,9 @@ MonoBehaviour:
     carryOnStartID: -1
     useSeparateSlots: 0
     selectSingle: 0
-  - label: Botas de Velocidad (reforzadas)
+  - label: Botas de Velocidad
     id: 7
-    altLabel: 
+    altLabel: Botas de Velocidad
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -911,6 +911,61 @@ MonoBehaviour:
     linkedPrefab: {fileID: 0}
     cursorIcon:
       texture: {fileID: 2800000, guid: 7d1b4f49967b79246ae5a783b16d0c64, type: 3}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.07
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+      dontCycle: 0
+      label: Icon 1
+      lineID: -1
+      id: 0
+    lineID: -1
+    useIconID: 0
+    binID: -1
+    overrideUseSyntax: 0
+    hotspotPrefix1:
+      label: Use
+      lineID: -1
+    hotspotPrefix2:
+      label: on
+      lineID: -1
+    useActionList: {fileID: 0}
+    lookActionList: {fileID: 0}
+    interactions: []
+    combineInteractions: []
+    combineActionList: []
+    combineID: 
+    unhandledActionList: {fileID: 0}
+    unhandledGiveActionList: {fileID: 0}
+    unhandledCombineActionList: {fileID: 0}
+    carryOnStartID: -1
+    useSeparateSlots: 0
+    selectSingle: 0
+  - label: "Ca\xF1a de la amistad"
+    id: 17
+    altLabel: "Ca\xF1a de la amistad"
+    carryOnStart: 0
+    carryOnStartNotDefault: 0
+    carryOnStartIDs: 00000000
+    vars: []
+    canCarryMultiple: 0
+    count: 1
+    canBeLowerCase: 0
+    maxCount: 999
+    itemStackingMode: 0
+    tex: {fileID: 2800000, guid: a12cb92ce84e031478ad1308aa0a17aa, type: 3}
+    activeTex: {fileID: 2800000, guid: 38ef14fa0b7bc5f4983fc6515f899e23, type: 3}
+    selectedTex: {fileID: 0}
+    linkedPrefab: {fileID: 0}
+    cursorIcon:
+      texture: {fileID: 2800000, guid: 38ef14fa0b7bc5f4983fc6515f899e23, type: 3}
       isAnimated: 0
       numFrames: 1
       numRows: 1

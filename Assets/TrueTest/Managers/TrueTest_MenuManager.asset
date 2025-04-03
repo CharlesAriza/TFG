@@ -181,12 +181,12 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 19.783
-    y: 19.783
-    width: 275.336
-    height: 53.07
+    x: 15.987
+    y: 15.987
+    width: 222.504
+    height: 176.628
   relativePosition: {x: 0, y: 0}
-  numSlots: 3
+  numSlots: 11
   uiSlots:
   - uiButton: {fileID: 0}
     uiButtonID: 14180912
@@ -211,7 +211,7 @@ MonoBehaviour:
   anchor: 3
   fixedOption: 0
   optionToShow: 1
-  maxSlots: 3
+  maxSlots: 11
   markAlreadyChosen: 0
   alreadyChosenFontColour: {r: 1, g: 1, b: 1, a: 0.5882353}
   alreadyChosenFontHighlightedColour: {r: 1, g: 1, b: 1, a: 1}
@@ -664,10 +664,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 514.9
-    y: 2.71
-    width: 13.55
-    height: 33.55
+    x: 416.1
+    y: 2.19
+    width: 10.950001
+    height: 27.060001
   relativePosition: {x: 96.5, y: 5.5}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -1474,7 +1474,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 5
   title: Conversation
-  manualSize: {x: 58.099995, y: 37.85869}
+  manualSize: {x: 58.1, y: 92.29635}
   positionType: 2
   manualPosition: {x: 34, y: 72}
   positionSmoothing: 0
@@ -1548,13 +1548,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 295.119, y: 95.686}
+  biggestElementSize: {x: 238.491, y: 211.06201}
   rect:
     serializedVersion: 2
-    x: 26.82901
-    y: 161.86551
-    width: 314.90198
-    height: 115.468994
+    x: 21.681
+    y: 18.950989
+    width: 254.478
+    height: 227.04901
 --- !u!114 &-5669609083688588258
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1958,10 +1958,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 18.97
-    y: 2.71
-    width: 493.22
-    height: 33.55
+    x: 15.33
+    y: 2.19
+    width: 398.58002
+    height: 27.060001
   relativePosition: {x: 0, y: 0}
   numSlots: 13
   uiSlots:
@@ -4496,10 +4496,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 19.783
-    y: 92.635994
-    width: 189.7
-    height: 3.05
+    x: 15.987
+    y: 208.602
+    width: 153.3
+    height: 2.46
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
@@ -5309,7 +5309,7 @@ MonoBehaviour:
   title: Inventory
   manualSize: {x: 100, y: 14}
   positionType: 1
-  manualPosition: {x: 271, y: 21.35}
+  manualPosition: {x: 219, y: 17.22}
   positionSmoothing: 0
   alignment: 0
   toggleKey: 
@@ -5388,8 +5388,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 542
-    height: 42.7
+    width: 438
+    height: 34.44
 --- !u!114 &4604128548558077919
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5673,10 +5673,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.71
-    y: 2.71
-    width: 13.55
-    height: 33.55
+    x: 2.19
+    y: 2.19
+    width: 10.950001
+    height: 27.060001
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
