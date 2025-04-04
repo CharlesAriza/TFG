@@ -265,14 +265,14 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3.035
     y: 347.07
-    width: 436
-    height: 245
+    width: 1593
+    height: 896
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiImage: {fileID: 0}
   graphicType: 0
   graphic:
-    texture: {fileID: 2800000, guid: 5950c3c38a9f858438b51c8eec44cca1, type: 3}
+    texture: {fileID: 2800000, guid: e402a857577710a4b8c66ad06ac0e3f1, type: 3}
     isAnimated: 0
     numFrames: 1
     numRows: 1
@@ -3133,16 +3133,16 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.18
-    y: 2.18
-    width: 436
-    height: 245
+    x: 7.965
+    y: 7.965
+    width: 1593
+    height: 896
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiImage: {fileID: 0}
   graphicType: 0
   graphic:
-    texture: {fileID: 2800000, guid: a04ff1868332e644da82d230dd44c41d, type: 3}
+    texture: {fileID: 2800000, guid: e154dac045c63454caec48e2df221fcb, type: 3}
     isAnimated: 0
     numFrames: 1
     numRows: 1
@@ -7797,9 +7797,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 17
   title: Intro
-  manualSize: {x: 101, y: 101.77959}
+  manualSize: {x: 100.99999, y: 101.77791}
   positionType: 0
-  manualPosition: {x: 218, y: 122.5}
+  manualPosition: {x: 796.5, y: 448}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -7870,13 +7870,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 438.18, y: 247.18}
+  biggestElementSize: {x: 1600.965, y: 903.965}
   rect:
     serializedVersion: 2
-    x: -2.1799927
-    y: -2.1799927
-    width: 440.36
-    height: 249.35999
+    x: -7.964966
+    y: -7.965027
+    width: 1608.9299
+    height: 911.93005
 --- !u!114 &8853010218870589456
 MonoBehaviour:
   m_ObjectHideFlags: 1
