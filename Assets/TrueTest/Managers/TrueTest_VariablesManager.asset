@@ -253,8 +253,28 @@ MonoBehaviour:
     textValLineID: -1
     popUpsLineID: -1
     description: Has intentado apostar pero no tenias nada.
+  - label: Ha_Visto_Rex
+    id: 12
+    type: 0
+    val: 0
+    floatVal: 0
+    textVal: 
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    ignorePresets: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: Ha visto ha Rex.
   varPresets: []
   updateRuntime: 1
   popUpLabelData: []
   timers: []
-  scrollPos: {x: 0, y: 270}
+  scrollPos: {x: 0, y: 333}
