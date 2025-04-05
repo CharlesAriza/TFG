@@ -920,7 +920,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 6419.4604
+    y: 6561.4604
     width: 300
     height: 187
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -2336,7 +2336,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 10000.279
+    y: 10142.279
     width: 300
     height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -2807,7 +2807,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 11312.279
+    y: 11454.279
     width: 300
     height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -3968,7 +3968,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 7135.4604
+    y: 7277.4604
     width: 300
     height: 220.57
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -4199,7 +4199,7 @@ MonoBehaviour:
   varID: 0
   varParameterID: -1
   selectedObjectiveLabelType: 0
-  newTexture: {fileID: 2800000, guid: 42c9f62afdca73b4bbd734bf9a0586b8, type: 3}
+  newTexture: {fileID: 2800000, guid: ca96a6e114bf6744f8a7122d30e00434, type: 3}
   newTextureParameterID: -1
 --- !u!1 &328631744
 GameObject:
@@ -4860,7 +4860,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 12672.279
+    y: 12814.279
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -4980,7 +4980,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 4836.8906
+    y: 4978.8906
     width: 300
     height: 220.57
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -5370,7 +5370,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 9838.279
+    y: 9980.279
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -7435,8 +7435,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 43
-    skipActionActual: {fileID: 352149584}
+    skipAction: 57
+    skipActionActual: {fileID: 1477722023}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -7799,7 +7799,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 10666.279
+    y: 10808.279
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -10288,7 +10288,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 6758.4604
+    y: 6900.4604
     width: 300
     height: 165
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -12596,7 +12596,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 7804.08
+    y: 7946.08
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -13282,7 +13282,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 9098.2295
+    y: 9240.2295
     width: 300
     height: 246.05
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -13400,7 +13400,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 8006.08
+    y: 8148.08
     width: 300
     height: 206.05
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -16373,7 +16373,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 6636.4604
+    y: 6778.4604
     width: 300
     height: 92
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -16416,7 +16416,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 7386.0303
+    y: 7528.0303
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -17784,7 +17784,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 5753.4604
+    y: 5895.4604
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -20197,7 +20197,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 5511.4604
+    y: 5653.4604
     width: 300
     height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -22619,7 +22619,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 11090.279
+    y: 11232.279
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -23880,7 +23880,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 6953.4604
+    y: 7095.4604
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -23930,7 +23930,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 9374.279
+    y: 9516.279
     width: 300
     height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -24089,7 +24089,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 6237.4604
+    y: 6379.4604
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -26375,6 +26375,49 @@ MonoBehaviour:
   mouthClip2D: 
   mouthLayer: 0
   waitTimeOffset: 0
+--- !u!114 &1477722023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9289eb0ca58ef471f9062a5f77161403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 2
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 43
+    skipActionActual: {fileID: 352149584}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 4836.8906
+    width: 300
+    height: 112
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 8525482162075773009}
+  groupID: 0
+  parameterID: -1
+  timeToPause: 1
 --- !u!114 &1482887964
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27403,7 +27446,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 6015.4604
+    y: 6157.4604
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -28142,7 +28185,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 10888.279
+    y: 11030.279
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -30835,7 +30878,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 5087.4604
+    y: 5229.4604
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -31571,7 +31614,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 11756.279
+    y: 11898.279
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -31769,7 +31812,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 7548.0303
+    y: 7690.0303
     width: 300
     height: 226.05
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -31830,7 +31873,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 11554.279
+    y: 11696.279
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -32004,7 +32047,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 8464.13
+    y: 8606.13
     width: 300
     height: 206.05
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -32660,7 +32703,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 5309.4604
+    y: 5451.4604
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -32970,7 +33013,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 12442.279
+    y: 12584.279
     width: 300
     height: 200
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -33624,7 +33667,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 11978.279
+    y: 12120.279
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -35196,7 +35239,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 8700.18
+    y: 8842.18
     width: 300
     height: 206.05
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -35268,7 +35311,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 9616.279
+    y: 9758.279
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -35397,7 +35440,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 8936.2295
+    y: 9078.2295
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -36081,7 +36124,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 12200.279
+    y: 12342.279
     width: 300
     height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -36659,7 +36702,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 8242.13
+    y: 8384.13
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -36720,7 +36763,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 10464.279
+    y: 10606.279
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -37390,7 +37433,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 10242.279
+    y: 10384.279
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -48032,6 +48075,7 @@ MonoBehaviour:
   - {fileID: 1978277012}
   - {fileID: 1542452392}
   - {fileID: 2070007163}
+  - {fileID: 1477722023}
   isSkippable: 1
   triggerTime: 0
   autosaveAfter: 0
