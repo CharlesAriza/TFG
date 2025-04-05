@@ -273,8 +273,48 @@ MonoBehaviour:
     textValLineID: -1
     popUpsLineID: -1
     description: Ha visto ha Rex.
+  - label: HotspotDialogState_Nia
+    id: 13
+    type: 0
+    val: 0
+    floatVal: 0
+    textVal: 
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    ignorePresets: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: Has hablado con Nia.
+  - label: HotspotDialogState_Leo
+    id: 14
+    type: 0
+    val: 0
+    floatVal: 0
+    textVal: 
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    ignorePresets: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: Has hablado con Leo.
   varPresets: []
   updateRuntime: 1
   popUpLabelData: []
   timers: []
-  scrollPos: {x: 0, y: 459}
+  scrollPos: {x: 0, y: 0}
