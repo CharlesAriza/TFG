@@ -76,7 +76,7 @@ MonoBehaviour:
     carryOnStartIDs: 00000000
     vars: []
     canCarryMultiple: 1
-    count: 90
+    count: 100
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0

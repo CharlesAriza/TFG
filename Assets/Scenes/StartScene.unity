@@ -32672,7 +32672,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "*\xA1Bonificaci\xF3n por inicio de sesi\xF3n!\nRecibido: 90 gemas*"
+  messageText: "*\xA1Bonificaci\xF3n por inicio de sesi\xF3n!\nRecibido: 100 Gemas*"
   lineID: -1
   multiLineIDs: 
   isBackground: 0
