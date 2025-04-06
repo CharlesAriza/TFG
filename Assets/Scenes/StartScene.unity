@@ -16294,7 +16294,7 @@ MonoBehaviour:
     selectItemMode: 0
     playerAction: 2
     doubleClickDoesNotSnapPlayerToMarker: 0
-    setProximity: 0
+    setProximity: 1
     proximity: 1
     faceAfter: 1
     isBlocking: 1
@@ -44045,7 +44045,7 @@ MonoBehaviour:
     selectItemMode: 0
     playerAction: 2
     doubleClickDoesNotSnapPlayerToMarker: 0
-    setProximity: 0
+    setProximity: 1
     proximity: 1
     faceAfter: 1
     isBlocking: 1
