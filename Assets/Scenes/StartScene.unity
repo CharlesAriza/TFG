@@ -16292,12 +16292,12 @@ MonoBehaviour:
     invID: 0
     iconID: 0
     selectItemMode: 0
-    playerAction: 1
+    playerAction: 2
     doubleClickDoesNotSnapPlayerToMarker: 0
     setProximity: 0
     proximity: 1
-    faceAfter: 0
-    isBlocking: 0
+    faceAfter: 1
+    isBlocking: 1
     stopPlayer: 1
     parameterID: -1
     invParameterID: -1
@@ -44043,12 +44043,12 @@ MonoBehaviour:
     invID: 0
     iconID: 0
     selectItemMode: 0
-    playerAction: 1
+    playerAction: 2
     doubleClickDoesNotSnapPlayerToMarker: 0
     setProximity: 0
     proximity: 1
-    faceAfter: 0
-    isBlocking: 0
+    faceAfter: 1
+    isBlocking: 1
     stopPlayer: 1
     parameterID: -1
     invParameterID: -1
@@ -44118,7 +44118,7 @@ MonoBehaviour:
   displayLineID: -1
   iconSortingLayer: 
   iconSortingOrder: 0
-  doubleClickingHotspot: 0
+  doubleClickingHotspot: 2
   playerTurnsHead: 1
 --- !u!114 &3597876366053758806
 MonoBehaviour:
