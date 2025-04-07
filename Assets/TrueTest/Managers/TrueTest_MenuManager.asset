@@ -41,8 +41,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3.035
     y: 347.07
-    width: 459
-    height: 258
+    width: 496.99997
+    height: 280
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiImage: {fileID: 0}
@@ -311,9 +311,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 24
   title: Pantalla Inicio
-  manualSize: {x: 101.00001, y: 101.77908}
+  manualSize: {x: 100.999985, y: 101.77499}
   positionType: 0
-  manualPosition: {x: 229.5, y: 129}
+  manualPosition: {x: 248.5, y: 140}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -384,13 +384,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 461.295, y: 260.295}
+  biggestElementSize: {x: 499.48495, y: 282.485}
   rect:
     serializedVersion: 2
-    x: -2.2950134
-    y: -2.2950134
-    width: 463.59003
-    height: 262.59003
+    x: -2.48497
+    y: -2.4849854
+    width: 501.96994
+    height: 284.96997
 --- !u!114 &-8822679267210617375
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -432,8 +432,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3.035
     y: 347.07
-    width: 546
-    height: 307
+    width: 496.99997
+    height: 280
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiImage: {fileID: 0}
@@ -1521,10 +1521,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.295
-    y: 2.295
-    width: 459
-    height: 258
+    x: 2.485
+    y: 2.485
+    width: 496.99997
+    height: 280
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiImage: {fileID: 0}
@@ -3753,10 +3753,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.73
-    y: 2.73
-    width: 546
-    height: 307
+    x: 2.485
+    y: 2.485
+    width: 496.99997
+    height: 280
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiImage: {fileID: 0}
@@ -9016,9 +9016,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 17
   title: Intro
-  manualSize: {x: 100.99999, y: 101.77851}
+  manualSize: {x: 100.999985, y: 101.77499}
   positionType: 0
-  manualPosition: {x: 273, y: 153.5}
+  manualPosition: {x: 248.5, y: 140}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -9089,13 +9089,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 548.73, y: 309.73}
+  biggestElementSize: {x: 499.48495, y: 282.485}
   rect:
     serializedVersion: 2
-    x: -2.7299805
-    y: -2.730011
-    width: 551.45996
-    height: 312.46002
+    x: -2.48497
+    y: -2.4849854
+    width: 501.96994
+    height: 284.96997
 --- !u!114 &8853010218870589456
 MonoBehaviour:
   m_ObjectHideFlags: 1
