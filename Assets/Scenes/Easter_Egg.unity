@@ -4810,14 +4810,14 @@ MonoBehaviour:
     x: 14
     y: 216
     width: 300
-    height: 212
+    height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8525482162075773009}
   groupID: 0
   charToMoveParameterID: -1
   charToMoveID: 0
-  isInstant: 0
+  isInstant: 1
   direction: 1
   directionParameterID: -1
   charToMove: {fileID: 507395773}

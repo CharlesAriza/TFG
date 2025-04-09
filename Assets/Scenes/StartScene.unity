@@ -31707,7 +31707,7 @@ MonoBehaviour:
   isDisplayed: 1
   showComment: 0
   comment: 
-  willWait: 1
+  willWait: 0
   endAction: 0
   skipAction: -1
   skipActionActual: {fileID: 0}
@@ -31734,7 +31734,7 @@ MonoBehaviour:
   groupID: 0
   fadeType: 1
   isInstant: 0
-  fadeSpeed: 3
+  fadeSpeed: 2
   fadeSpeedParameterID: -1
   setTexture: 0
   tempTexture: {fileID: 0}
