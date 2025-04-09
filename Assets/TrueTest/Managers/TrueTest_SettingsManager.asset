@@ -266,6 +266,16 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: df88c2a191b9e40448ced88bf413247c, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
+  - ID: 4
+    label: Horror
+    audioClip: {fileID: 8300000, guid: 4278481b3746c93499c7d53f9e5d5f79, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 5
+    label: God_Calls
+    audioClip: {fileID: 8300000, guid: 362814c2eb2c7fa46869a2f3b0bf356a, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages:
   - ID: 0
     label: Sad Theme

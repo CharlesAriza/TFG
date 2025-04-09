@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/End_Of_Test.unity
     guid: 9ef7601c267e21b4190c78c3ad058203
+  - enabled: 1
+    path: Assets/Scenes/Easter_Egg.unity
+    guid: 6271286dfa362db4d8b4da418ebb6642
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
