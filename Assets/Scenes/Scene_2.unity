@@ -8967,7 +8967,7 @@ MonoBehaviour:
   charToMoveID: 0
   movePathID: 0
   stopInstantly: 0
-  movePath: {fileID: 3610460721809866979}
+  movePath: {fileID: 0}
   isPlayer: 0
   playerID: -1
   playerParameterID: -1
