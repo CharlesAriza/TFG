@@ -286,6 +286,21 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 6f4a4738a41004c4e8df9f117fae6a4d, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
+  - ID: 8
+    label: Emotive_Piano
+    audioClip: {fileID: 8300000, guid: 59a7631a8aad0a94aa37b2e5bab2f612, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 9
+    label: Emotive
+    audioClip: {fileID: 8300000, guid: 54dde666f9b913f409896a3378ef7055, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 10
+    label: Rex Path
+    audioClip: {fileID: 8300000, guid: d4c41af580539894eb0244c7a577620f, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages:
   - ID: 0
     label: Sad Theme
