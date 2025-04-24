@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 9cdae18abe1ee6344af0f6e2e4b9f440
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 470885006835540170
+    second: Evil_Hero_0
+  - first:
+      213: 6111168026960752543
+    second: Evil_Hero_1
+  - first:
+      213: 6033989485465610173
+    second: Evil_Hero_2
+  - first:
+      213: 4466932426813767186
+    second: Evil_Hero_3
+  - first:
+      213: 5328092109705267483
+    second: Evil_Hero_4
+  - first:
+      213: -1214050869218661122
+    second: Evil_Hero_5
+  - first:
+      213: -5916338491875428358
+    second: Evil_Hero_6
+  - first:
+      213: -3831630845888103427
+    second: Evil_Hero_7
+  - first:
+      213: 759463572003516039
+    second: Evil_Hero_8
+  - first:
+      213: -364015849031464878
+    second: Evil_Hero_9
+  - first:
+      213: 8191742594398332130
+    second: Evil_Hero_10
+  - first:
+      213: 8354611013919777348
+    second: Evil_Hero_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Evil_Hero_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac06d7a3b6be88600800000000000000
+      internalID: 470885006835540170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Hero_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 108
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f68b131fa3fc450800000000000000
+      internalID: 6111168026960752543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Hero_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7ae93b7790db350800000000000000
+      internalID: 6033989485465610173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Hero_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 17
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e78e7106bbdfd30800000000000000
+      internalID: 4466932426813767186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Hero_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 72
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b194b895b8f21f940800000000000000
+      internalID: 5328092109705267483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Hero_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 72
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efca7f0ba23d62fe0800000000000000
+      internalID: -1214050869218661122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Hero_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 36
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af77bccdc71f4eda0800000000000000
+      internalID: -5916338491875428358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Hero_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 36
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbf868eb0053dac0800000000000000
+      internalID: -3831630845888103427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Hero_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 17
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e6e1d48182a8a00800000000000000
+      internalID: 759463572003516039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Hero_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2580ed19381c2faf0800000000000000
+      internalID: -364015849031464878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Hero_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4ac86ec7aeea170800000000000000
+      internalID: 8191742594398332130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil_Hero_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4422149d37a81f370800000000000000
+      internalID: 8354611013919777348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d94bf92ca564ada4a80898aba41e1af8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Evil_Hero_0: 470885006835540170
+      Evil_Hero_1: 6111168026960752543
+      Evil_Hero_10: 8191742594398332130
+      Evil_Hero_11: 8354611013919777348
+      Evil_Hero_2: 6033989485465610173
+      Evil_Hero_3: 4466932426813767186
+      Evil_Hero_4: 5328092109705267483
+      Evil_Hero_5: -1214050869218661122
+      Evil_Hero_6: -5916338491875428358
+      Evil_Hero_7: -3831630845888103427
+      Evil_Hero_8: 759463572003516039
+      Evil_Hero_9: -364015849031464878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
