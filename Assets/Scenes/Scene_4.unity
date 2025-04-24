@@ -2540,7 +2540,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 2270521631481739788}
   groupID: 0
   parameterID: -1
-  timeToPause: 0.8
+  timeToPause: 0.7
 --- !u!114 &172852080
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25666,53 +25666,6 @@ MonoBehaviour:
   mouthClip2D: 
   mouthLayer: 0
   waitTimeOffset: 0
---- !u!114 &1244515894
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a20a14d7555494a439c838ed9465bb15, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -99
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings: []
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 19
-    y: 1702
-    width: 300
-    height: 124
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 7750171738511194127}
-  groupID: 0
-  parameterID: -1
-  constantID: 0
-  conversation: {fileID: 7163991587509427515}
-  overrideOptionSocketIDs: 
-  overrideOptions: 0
-  setElement: 0
-  menuName: 
-  containerElementName: 
-  menuParameterID: -1
-  elementParameterID: -1
-  numSockets: 0
 --- !u!114 &1246659762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26648,7 +26601,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 2270521631481739788}
   groupID: 0
   parameterID: -1
-  timeToPause: 0.8
+  timeToPause: 0.7
 --- !u!1 &1320452513
 GameObject:
   m_ObjectHideFlags: 0
@@ -29975,9 +29928,9 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 0
+  - resultAction: 2
     skipAction: 92
-    skipActionActual: {fileID: 0}
+    skipActionActual: {fileID: 1719484615}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -29988,7 +29941,7 @@ MonoBehaviour:
     x: 14
     y: 17320.74
     width: 300
-    height: 192
+    height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2270521631481739788}
@@ -34463,7 +34416,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 17542.74
+    y: 17562.74
     width: 300
     height: 124
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -48673,7 +48626,6 @@ MonoBehaviour:
   - {fileID: 263228883}
   - {fileID: 1216501732}
   - {fileID: 18988782}
-  - {fileID: 1244515894}
   isSkippable: 1
   triggerTime: 0
   autosaveAfter: 0
