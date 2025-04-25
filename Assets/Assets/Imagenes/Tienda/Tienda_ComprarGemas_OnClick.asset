@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8231809544064537107
+--- !u!114 &-7683977339501948094
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Script: {fileID: 11500000, guid: 98cbf837c7ba24dda959b0c08f753c33, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
   id: 0
@@ -24,8 +24,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 4
-    skipActionActual: {fileID: 4499255363556256219}
+    skipAction: 18
+    skipActionActual: {fileID: -5056012273923743224}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -34,33 +34,22 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 176
+    y: 580
     width: 300
-    height: 206.05
+    height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   groupID: 0
   constantID: 0
   parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: "M\xE1s vale prevenir\u2026 un par de gemas no hacen da\xF1o."
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 1
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
+  origin: {fileID: 0}
+  playFromDefaultSound: 1
+  audioSource: {fileID: 0}
+  audioSourceConstantID: 0
+  audioSourceParameterID: -1
+  audioClip: {fileID: 8300000, guid: 18d8392555f58b84e86f0200577c53a2, type: 3}
+  audioClipParameterID: -1
 --- !u!114 &-5981658136550786787
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85,7 +74,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 13
+    skipAction: 12
     skipActionActual: {fileID: -2352339461910262262}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -94,8 +83,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 890.2999
-    y: 1080
+    x: 364
+    y: 2756
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -135,12 +124,12 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 8
+    skipAction: 7
     skipActionActual: {fileID: -5833617020216894314}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
-    skipAction: 3
+    skipAction: 2
     skipActionActual: {fileID: 2784711744263075827}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -149,8 +138,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 46
-    y: 1331.05
+    x: 364
+    y: 2142
     width: 300
     height: 240
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -215,7 +204,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 7
+    skipAction: 6
     skipActionActual: {fileID: 8839875158393625599}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -224,8 +213,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 14
-    y: 1558.05
+    x: 364
+    y: 2412
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -241,6 +230,128 @@ MonoBehaviour:
   audioSourceParameterID: -1
   audioClip: {fileID: 8300000, guid: ce2439d0436c204438fa7929ed0068c9, type: 3}
   audioClipParameterID: -1
+--- !u!114 &-5056012273923743224
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 15
+    skipActionActual: {fileID: -332659374135309777}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 762
+    width: 300
+    height: 232
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  groupID: 0
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 0
+  playerID: -1
+  speaker: {fileID: 0}
+  messageText: '*Has recibido 1.000 gemas.*'
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
+--- !u!114 &-4094375625618128446
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 196
+    width: 300
+    height: 212
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  groupID: 0
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 0
+  playerID: -1
+  speaker: {fileID: 0}
+  messageText: '*Compra de gemas completada.*'
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
 --- !u!114 &-2352339461910262262
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -264,9 +375,9 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
+  - resultAction: 2
+    skipAction: 5
+    skipActionActual: {fileID: -5854593006255059327}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -274,10 +385,10 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 626
-    y: 1221
+    x: 364
+    y: 2938
     width: 300
-    height: 226.05
+    height: 246.05
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -335,8 +446,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 293
-    y: 959.05005
+    x: 14
+    y: 2142
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -357,6 +468,62 @@ MonoBehaviour:
   journalPageIndex: -1
   journalPageIndexParameterID: -1
   preprocessTextTokens: 0
+--- !u!114 &-332659374135309777
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aac25eb7cbe8345d6baaf5efb8fc62e8, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 3
+    skipActionActual: {fileID: 4499255363556256219}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 1024
+    width: 300
+    height: 192
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  groupID: 0
+  invAction: 0
+  parameterID: -1
+  invID: 1
+  replaceParameterID: -1
+  invIDReplace: 0
+  setAmount: 1
+  amountParameterID: -1
+  amount: 1000
+  setPlayer: 0
+  playerID: 0
+  addToFront: 0
+  removeLast: 0
+  itemRemoveMethod: 0
+  categoryID: 0
+  categoryIDParameterID: -1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -371,7 +538,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   actions:
   - {fileID: 4186320045783274207}
-  - {fileID: -8231809544064537107}
   - {fileID: 2840436887434064613}
   - {fileID: 2784711744263075827}
   - {fileID: 4499255363556256219}
@@ -384,9 +550,13 @@ MonoBehaviour:
   - {fileID: 8462132297012088485}
   - {fileID: 4736860584587190419}
   - {fileID: -2352339461910262262}
-  - {fileID: 510550485282526945}
   - {fileID: -5981658136550786787}
   - {fileID: 7562565737058178789}
+  - {fileID: -332659374135309777}
+  - {fileID: -4094375625618128446}
+  - {fileID: 920718956948225520}
+  - {fileID: -5056012273923743224}
+  - {fileID: -7683977339501948094}
   isSkippable: 1
   actionListType: 0
   unfreezePauseMenus: 1
@@ -398,7 +568,7 @@ MonoBehaviour:
   tagID: 0
   groups: []
   backupData: []
---- !u!114 &510550485282526945
+--- !u!114 &920718956948225520
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -408,9 +578,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9289eb0ca58ef471f9062a5f77161403, type: 3}
-  m_Name: (Clone)
+  m_Name: 
   m_EditorClassIdentifier: 
-  id: 1
+  id: 2
   isDisplayed: 1
   showComment: 0
   comment: 
@@ -422,8 +592,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 6
-    skipActionActual: {fileID: -5854593006255059327}
+    skipAction: 19
+    skipActionActual: {fileID: -7683977339501948094}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -431,8 +601,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 607
-    y: 1457
+    x: 14
+    y: 438
     width: 300
     height: 112
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -440,7 +610,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 0}
   groupID: 0
   parameterID: -1
-  timeToPause: 2
+  timeToPause: 1
 --- !u!114 &1854199321899836296
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -465,7 +635,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 9
+    skipAction: 8
     skipActionActual: {fileID: 8165432210811381546}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -474,8 +644,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 12
-    y: 794.05
+    x: 14
+    y: 1650
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -536,7 +706,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 2
+    skipAction: 1
     skipActionActual: {fileID: 2840436887434064613}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -545,8 +715,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 364
-    y: 1558.05
+    x: 714
+    y: 2412
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -595,8 +765,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 364
-    y: 1740.05
+    x: 714
+    y: 2594
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -640,9 +810,9 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
+  - resultAction: 2
+    skipAction: 16
+    skipActionActual: {fileID: -4094375625618128446}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -653,7 +823,7 @@ MonoBehaviour:
     x: 14
     y: 14
     width: 300
-    height: 132
+    height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -696,7 +866,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 12
+    skipAction: 11
     skipActionActual: {fileID: 4736860584587190419}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -706,7 +876,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 412.05
+    y: 1246
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -767,7 +937,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 5
+    skipAction: 4
     skipActionActual: {fileID: 1854199321899836296}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -777,7 +947,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 614.05
+    y: 1448
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -838,12 +1008,12 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 6
+    skipAction: 5
     skipActionActual: {fileID: -5854593006255059327}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
-    skipAction: 15
+    skipAction: 13
     skipActionActual: {fileID: -5981658136550786787}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -852,8 +1022,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 770.43787
-    y: 709.2081
+    x: 14
+    y: 2486
     width: 300
     height: 240
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -918,12 +1088,12 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 10
+    skipAction: 9
     skipActionActual: {fileID: -1141873919390526829}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
-    skipAction: 6
+    skipAction: 5
     skipActionActual: {fileID: -5854593006255059327}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -933,7 +1103,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1038.05
+    y: 1872
     width: 300
     height: 240
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -998,7 +1168,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 16
+    skipAction: 14
     skipActionActual: {fileID: 7562565737058178789}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1007,8 +1177,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 504
-    y: 800.05005
+    x: 14
+    y: 2304
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1062,8 +1232,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 14
-    y: 1740.05
+    x: 364
+    y: 2594
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
