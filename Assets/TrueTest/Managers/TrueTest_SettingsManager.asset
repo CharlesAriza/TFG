@@ -301,6 +301,21 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: d4c41af580539894eb0244c7a577620f, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
+  - ID: 11
+    label: Rex Ending
+    audioClip: {fileID: 8300000, guid: f071b52b46af93a46a721d255dfcdabb, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 12
+    label: Escena 6
+    audioClip: {fileID: 8300000, guid: 60bcce99a597e4e4b90c5b21ad02f8ce, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 13
+    label: Dungeon
+    audioClip: {fileID: 8300000, guid: d17df873b31eb074eace568c9ed0ea48, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages:
   - ID: 0
     label: Sad Theme

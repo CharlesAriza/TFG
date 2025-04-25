@@ -29809,7 +29809,7 @@ MonoBehaviour:
   chooseSceneBy: 1
   sceneNumber: 0
   sceneNumberParameterID: -1
-  sceneName: End_Of_Test
+  sceneName: Scene_6A
   sceneNameParameterID: -1
   assignScreenOverlay: 1
   onlyPreload: 0
