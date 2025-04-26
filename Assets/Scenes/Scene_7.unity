@@ -18548,7 +18548,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1365345751}
-  messageText: "S\xED... aguanta... en cuanto se descuiden, entramos a la vez."
+  messageText: "S\xED... aguanta... en cuanto se descuide, entramos a la vez."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
