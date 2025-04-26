@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 1f2b424239e460e4fb4541964a78ac46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4398142388794652846
+    second: Super Milo_0
+  - first:
+      213: 2365929210049321126
+    second: Super Milo_1
+  - first:
+      213: -7800595052799458321
+    second: Super Milo_2
+  - first:
+      213: -2875054231385686947
+    second: Super Milo_3
+  - first:
+      213: -860828693403509951
+    second: Super Milo_4
+  - first:
+      213: -1751209350688899711
+    second: Super Milo_5
+  - first:
+      213: 3984739297404435418
+    second: Super Milo_6
+  - first:
+      213: -6471427578219515441
+    second: Super Milo_7
+  - first:
+      213: -2166050601922906884
+    second: Super Milo_8
+  - first:
+      213: 2075460697708497029
+    second: Super Milo_9
+  - first:
+      213: 6841020878610235687
+    second: Super Milo_10
+  - first:
+      213: 4055800216582182623
+    second: Super Milo_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super Milo_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 150
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2578e4cbcc8a6f2c0800000000000000
+      internalID: -4398142388794652846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Milo_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 150
+        width: 34
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8d5b0d41875d020800000000000000
+      internalID: 2365929210049321126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Milo_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe30839f028beb390800000000000000
+      internalID: -7800595052799458321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Milo_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 100
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cb544c861c918d0800000000000000
+      internalID: -2875054231385686947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Milo_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 100
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b583d3dd8bd04f0800000000000000
+      internalID: -860828693403509951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Milo_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 100
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d78d4bf5472b7e0800000000000000
+      internalID: -1751209350688899711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Milo_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 50
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbb4586743ac4730800000000000000
+      internalID: 3984739297404435418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Milo_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 50
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc13f8a97eed036a0800000000000000
+      internalID: -6471427578219515441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Milo_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf43dda2474a0f1e0800000000000000
+      internalID: -2166050601922906884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Milo_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588033022848dcc10800000000000000
+      internalID: 2075460697708497029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Milo_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 34
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721089a6e3030fe50800000000000000
+      internalID: 6841020878610235687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Milo_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd65555fec8194830800000000000000
+      internalID: 4055800216582182623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7fbfb899d1e97f241b4e8f3773d37644
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Super Milo_0: -4398142388794652846
+      Super Milo_1: 2365929210049321126
+      Super Milo_10: 6841020878610235687
+      Super Milo_11: 4055800216582182623
+      Super Milo_2: -7800595052799458321
+      Super Milo_3: -2875054231385686947
+      Super Milo_4: -860828693403509951
+      Super Milo_5: -1751209350688899711
+      Super Milo_6: 3984739297404435418
+      Super Milo_7: -6471427578219515441
+      Super Milo_8: -2166050601922906884
+      Super Milo_9: 2075460697708497029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

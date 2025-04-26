@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: edfd8c0f32483e94b895f4ac7cc62854
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4603663353446180743
+    second: Malgor el Rojo_0
+  - first:
+      213: -3421491907368633684
+    second: Malgor el Rojo_1
+  - first:
+      213: 4972832535726206077
+    second: Malgor el Rojo_2
+  - first:
+      213: 2304682682296208052
+    second: Malgor el Rojo_3
+  - first:
+      213: 2260353845564024755
+    second: Malgor el Rojo_4
+  - first:
+      213: -8327001388940588660
+    second: Malgor el Rojo_5
+  - first:
+      213: -2203549722539584155
+    second: Malgor el Rojo_6
+  - first:
+      213: 1897874166801349010
+    second: Malgor el Rojo_7
+  - first:
+      213: 484186918036821910
+    second: Malgor el Rojo_8
+  - first:
+      213: -2046301138822523676
+    second: Malgor el Rojo_9
+  - first:
+      213: 1975676286431338208
+    second: Malgor el Rojo_10
+  - first:
+      213: -6314198439838036415
+    second: Malgor el Rojo_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Malgor el Rojo_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 150
+        width: 27
+        height: 45
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9785b5042908c10c0800000000000000
+      internalID: -4603663353446180743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malgor el Rojo_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 150
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa3b63fc3b6480d0800000000000000
+      internalID: -3421491907368633684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malgor el Rojo_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 150
+        width: 27
+        height: 45
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c277318dc030540800000000000000
+      internalID: 4972832535726206077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malgor el Rojo_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 100
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba824650b0ebff10800000000000000
+      internalID: 2304682682296208052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malgor el Rojo_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 100
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7288fb8d36e5f10800000000000000
+      internalID: 2260353845564024755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malgor el Rojo_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c890308ea5c807c80800000000000000
+      internalID: -8327001388940588660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malgor el Rojo_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 50
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5651e17c33b6b61e0800000000000000
+      internalID: -2203549722539584155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malgor el Rojo_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 50
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299b594df7a965a10800000000000000
+      internalID: 1897874166801349010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malgor el Rojo_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697d976cf6d28b600800000000000000
+      internalID: 484186918036821910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malgor el Rojo_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 27
+        height: 45
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4910db4f31a93e0800000000000000
+      internalID: -2046301138822523676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malgor el Rojo_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee17eb6d130b6b10800000000000000
+      internalID: 1975676286431338208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malgor el Rojo_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 27
+        height: 45
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ec02819f57f58a0800000000000000
+      internalID: -6314198439838036415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 44bfb3a7f0a94b643b509ce9d1e6edfb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Malgor el Rojo_0: -4603663353446180743
+      Malgor el Rojo_1: -3421491907368633684
+      Malgor el Rojo_10: 1975676286431338208
+      Malgor el Rojo_11: -6314198439838036415
+      Malgor el Rojo_2: 4972832535726206077
+      Malgor el Rojo_3: 2304682682296208052
+      Malgor el Rojo_4: 2260353845564024755
+      Malgor el Rojo_5: -8327001388940588660
+      Malgor el Rojo_6: -2203549722539584155
+      Malgor el Rojo_7: 1897874166801349010
+      Malgor el Rojo_8: 484186918036821910
+      Malgor el Rojo_9: -2046301138822523676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

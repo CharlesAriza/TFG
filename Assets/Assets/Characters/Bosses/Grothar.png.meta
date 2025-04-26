@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 3ebc7942be0698440b9d741e7f9ef4d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1070159571296598895
+    second: Grothar_0
+  - first:
+      213: 934692457726573892
+    second: Grothar_1
+  - first:
+      213: 5153525318204601861
+    second: Grothar_2
+  - first:
+      213: 7712943715588358961
+    second: Grothar_3
+  - first:
+      213: 5796813513228658761
+    second: Grothar_4
+  - first:
+      213: 2988414572046733288
+    second: Grothar_5
+  - first:
+      213: 7201484718309977339
+    second: Grothar_6
+  - first:
+      213: 4747774581399986536
+    second: Grothar_7
+  - first:
+      213: 2180435512214183483
+    second: Grothar_8
+  - first:
+      213: 3292432878786185297
+    second: Grothar_9
+  - first:
+      213: 4559228600991128835
+    second: Grothar_10
+  - first:
+      213: -5671739352830366311
+    second: Grothar_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grothar_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 150
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b3e1cc578f9de00800000000000000
+      internalID: 1070159571296598895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grothar_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 150
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d770d86d1b8fc00800000000000000
+      internalID: 934692457726573892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grothar_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 150
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506319ce8fff48740800000000000000
+      internalID: 5153525318204601861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grothar_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 40
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133c934c171e90b60800000000000000
+      internalID: 7712943715588358961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grothar_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 100
+        width: 40
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948ad2d6d2b627050800000000000000
+      internalID: 5796813513228658761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grothar_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 40
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef4270583bf87920800000000000000
+      internalID: 2988414572046733288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grothar_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 40
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc254a3230d0f360800000000000000
+      internalID: 7201484718309977339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grothar_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 40
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861a9f5b3db73e140800000000000000
+      internalID: 4747774581399986536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grothar_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 40
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e5c21cb86724e10800000000000000
+      internalID: 2180435512214183483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grothar_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1580eda524211bd20800000000000000
+      internalID: 3292432878786185297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grothar_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d90ebb142a54f30800000000000000
+      internalID: 4559228600991128835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grothar_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5172414, y: 0.3225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d21f7db1fe941b0800000000000000
+      internalID: -5671739352830366311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: feb39840c206bf5408f02782829396c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grothar_0: 1070159571296598895
+      Grothar_1: 934692457726573892
+      Grothar_10: 4559228600991128835
+      Grothar_11: -5671739352830366311
+      Grothar_2: 5153525318204601861
+      Grothar_3: 7712943715588358961
+      Grothar_4: 5796813513228658761
+      Grothar_5: 2988414572046733288
+      Grothar_6: 7201484718309977339
+      Grothar_7: 4747774581399986536
+      Grothar_8: 2180435512214183483
+      Grothar_9: 3292432878786185297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
