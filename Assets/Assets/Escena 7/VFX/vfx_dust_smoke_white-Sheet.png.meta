@@ -1,0 +1,3272 @@
+fileFormatVersion: 2
+guid: fdd998375f59fab4dbe6e8ea9d11bbd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5634000298053163032
+    second: vfx_dust_smoke_white-Sheet_0
+  - first:
+      213: 6790262053291667746
+    second: vfx_dust_smoke_white-Sheet_1
+  - first:
+      213: 2483433410373647951
+    second: vfx_dust_smoke_white-Sheet_2
+  - first:
+      213: 8356832263609162153
+    second: vfx_dust_smoke_white-Sheet_3
+  - first:
+      213: 8039019266088602224
+    second: vfx_dust_smoke_white-Sheet_4
+  - first:
+      213: -2055839839603751040
+    second: vfx_dust_smoke_white-Sheet_5
+  - first:
+      213: -4636065606466686230
+    second: vfx_dust_smoke_white-Sheet_6
+  - first:
+      213: 4168586393751746703
+    second: vfx_dust_smoke_white-Sheet_7
+  - first:
+      213: -3228467403020262319
+    second: vfx_dust_smoke_white-Sheet_8
+  - first:
+      213: 2551103414555749881
+    second: vfx_dust_smoke_white-Sheet_9
+  - first:
+      213: 4278868981871956654
+    second: vfx_dust_smoke_white-Sheet_10
+  - first:
+      213: -165647017945604639
+    second: vfx_dust_smoke_white-Sheet_11
+  - first:
+      213: -3314995364808827265
+    second: vfx_dust_smoke_white-Sheet_12
+  - first:
+      213: -1024811044108028990
+    second: vfx_dust_smoke_white-Sheet_13
+  - first:
+      213: -9193367518308497779
+    second: vfx_dust_smoke_white-Sheet_14
+  - first:
+      213: 977171747047444087
+    second: vfx_dust_smoke_white-Sheet_15
+  - first:
+      213: 8264308736850485375
+    second: vfx_dust_smoke_white-Sheet_16
+  - first:
+      213: -7485114639981823358
+    second: vfx_dust_smoke_white-Sheet_17
+  - first:
+      213: -5053193529704036613
+    second: vfx_dust_smoke_white-Sheet_18
+  - first:
+      213: -6137813137037355541
+    second: vfx_dust_smoke_white-Sheet_19
+  - first:
+      213: 7526162706346174088
+    second: vfx_dust_smoke_white-Sheet_20
+  - first:
+      213: 2189521792983312455
+    second: vfx_dust_smoke_white-Sheet_21
+  - first:
+      213: 2117780240979444157
+    second: vfx_dust_smoke_white-Sheet_22
+  - first:
+      213: -5678931333034373393
+    second: vfx_dust_smoke_white-Sheet_23
+  - first:
+      213: 1640808160679142025
+    second: vfx_dust_smoke_white-Sheet_24
+  - first:
+      213: -6862491401298450594
+    second: vfx_dust_smoke_white-Sheet_25
+  - first:
+      213: -3548768852044085150
+    second: vfx_dust_smoke_white-Sheet_26
+  - first:
+      213: 1230289220997959037
+    second: vfx_dust_smoke_white-Sheet_27
+  - first:
+      213: 8194321859573129293
+    second: vfx_dust_smoke_white-Sheet_28
+  - first:
+      213: 9183502391411156296
+    second: vfx_dust_smoke_white-Sheet_29
+  - first:
+      213: -6741454433517699366
+    second: vfx_dust_smoke_white-Sheet_30
+  - first:
+      213: 3708495797769016851
+    second: vfx_dust_smoke_white-Sheet_31
+  - first:
+      213: -6645973596447004228
+    second: vfx_dust_smoke_white-Sheet_32
+  - first:
+      213: -5399024113952822111
+    second: vfx_dust_smoke_white-Sheet_33
+  - first:
+      213: -8495666343489254732
+    second: vfx_dust_smoke_white-Sheet_34
+  - first:
+      213: -195133802973821598
+    second: vfx_dust_smoke_white-Sheet_35
+  - first:
+      213: 607816217261865560
+    second: vfx_dust_smoke_white-Sheet_36
+  - first:
+      213: 8797688676121808245
+    second: vfx_dust_smoke_white-Sheet_37
+  - first:
+      213: 3352590574178892377
+    second: vfx_dust_smoke_white-Sheet_38
+  - first:
+      213: 2750241106429970321
+    second: vfx_dust_smoke_white-Sheet_39
+  - first:
+      213: 7430887827678646481
+    second: vfx_dust_smoke_white-Sheet_40
+  - first:
+      213: 2496449681858481296
+    second: vfx_dust_smoke_white-Sheet_41
+  - first:
+      213: -3857120631466144006
+    second: vfx_dust_smoke_white-Sheet_42
+  - first:
+      213: 5714499817697394496
+    second: vfx_dust_smoke_white-Sheet_43
+  - first:
+      213: -6648760252995242738
+    second: vfx_dust_smoke_white-Sheet_44
+  - first:
+      213: -5439118972041105972
+    second: vfx_dust_smoke_white-Sheet_45
+  - first:
+      213: 2804776931389507038
+    second: vfx_dust_smoke_white-Sheet_46
+  - first:
+      213: 6891106355345472342
+    second: vfx_dust_smoke_white-Sheet_47
+  - first:
+      213: -2159502248950942190
+    second: vfx_dust_smoke_white-Sheet_48
+  - first:
+      213: -2897770983287225127
+    second: vfx_dust_smoke_white-Sheet_49
+  - first:
+      213: 1471240523860548915
+    second: vfx_dust_smoke_white-Sheet_50
+  - first:
+      213: 8797613548581035675
+    second: vfx_dust_smoke_white-Sheet_51
+  - first:
+      213: -2999134218185811234
+    second: vfx_dust_smoke_white-Sheet_52
+  - first:
+      213: -4089551325038404853
+    second: vfx_dust_smoke_white-Sheet_53
+  - first:
+      213: -2694222639119140266
+    second: vfx_dust_smoke_white-Sheet_54
+  - first:
+      213: 131887878022990981
+    second: vfx_dust_smoke_white-Sheet_55
+  - first:
+      213: -7693527454867160324
+    second: vfx_dust_smoke_white-Sheet_56
+  - first:
+      213: 4545468495128448163
+    second: vfx_dust_smoke_white-Sheet_57
+  - first:
+      213: 7052479482922143345
+    second: vfx_dust_smoke_white-Sheet_58
+  - first:
+      213: -7239115315902642178
+    second: vfx_dust_smoke_white-Sheet_59
+  - first:
+      213: -3121613794986170342
+    second: vfx_dust_smoke_white-Sheet_60
+  - first:
+      213: 6626265559229249265
+    second: vfx_dust_smoke_white-Sheet_61
+  - first:
+      213: 4974747713352438890
+    second: vfx_dust_smoke_white-Sheet_62
+  - first:
+      213: 4623512633312445889
+    second: vfx_dust_smoke_white-Sheet_63
+  - first:
+      213: 1688507146018894306
+    second: vfx_dust_smoke_white-Sheet_64
+  - first:
+      213: 4083510583502142983
+    second: vfx_dust_smoke_white-Sheet_65
+  - first:
+      213: -4338522414599760262
+    second: vfx_dust_smoke_white-Sheet_66
+  - first:
+      213: -1707004246639143537
+    second: vfx_dust_smoke_white-Sheet_67
+  - first:
+      213: 348122798490682493
+    second: vfx_dust_smoke_white-Sheet_68
+  - first:
+      213: 4987789962499669116
+    second: vfx_dust_smoke_white-Sheet_69
+  - first:
+      213: 5497601688449712653
+    second: vfx_dust_smoke_white-Sheet_70
+  - first:
+      213: -8292608134450830675
+    second: vfx_dust_smoke_white-Sheet_71
+  - first:
+      213: -2924928834330554780
+    second: vfx_dust_smoke_white-Sheet_72
+  - first:
+      213: 4902743495092831887
+    second: vfx_dust_smoke_white-Sheet_73
+  - first:
+      213: 7641837718732941543
+    second: vfx_dust_smoke_white-Sheet_74
+  - first:
+      213: -2414524505960801141
+    second: vfx_dust_smoke_white-Sheet_75
+  - first:
+      213: -3355180579520349492
+    second: vfx_dust_smoke_white-Sheet_76
+  - first:
+      213: 8003814815545748494
+    second: vfx_dust_smoke_white-Sheet_77
+  - first:
+      213: 2784893766055069496
+    second: vfx_dust_smoke_white-Sheet_78
+  - first:
+      213: 6964583378212400714
+    second: vfx_dust_smoke_white-Sheet_79
+  - first:
+      213: 3328677940321563821
+    second: vfx_dust_smoke_white-Sheet_80
+  - first:
+      213: 5055404895658995261
+    second: vfx_dust_smoke_white-Sheet_81
+  - first:
+      213: 9140352938229772773
+    second: vfx_dust_smoke_white-Sheet_82
+  - first:
+      213: -3896036641959219318
+    second: vfx_dust_smoke_white-Sheet_83
+  - first:
+      213: -2415639255624153304
+    second: vfx_dust_smoke_white-Sheet_84
+  - first:
+      213: 1969063625821752412
+    second: vfx_dust_smoke_white-Sheet_85
+  - first:
+      213: -1268025355518776028
+    second: vfx_dust_smoke_white-Sheet_86
+  - first:
+      213: -8305090130329378528
+    second: vfx_dust_smoke_white-Sheet_87
+  - first:
+      213: 5083660017050707701
+    second: vfx_dust_smoke_white-Sheet_88
+  - first:
+      213: -4703880495443265899
+    second: vfx_dust_smoke_white-Sheet_89
+  - first:
+      213: -3595649444713531816
+    second: vfx_dust_smoke_white-Sheet_90
+  - first:
+      213: -4686180924894632565
+    second: vfx_dust_smoke_white-Sheet_91
+  - first:
+      213: -1361565799296414023
+    second: vfx_dust_smoke_white-Sheet_92
+  - first:
+      213: 8548537589769503084
+    second: vfx_dust_smoke_white-Sheet_93
+  - first:
+      213: 7751089256791459981
+    second: vfx_dust_smoke_white-Sheet_94
+  - first:
+      213: -1184016968309845557
+    second: vfx_dust_smoke_white-Sheet_95
+  - first:
+      213: 8074195357388697453
+    second: vfx_dust_smoke_white-Sheet_96
+  - first:
+      213: -11347581988298044
+    second: vfx_dust_smoke_white-Sheet_97
+  - first:
+      213: -6894112287796042558
+    second: vfx_dust_smoke_white-Sheet_98
+  - first:
+      213: 6664679859128202131
+    second: vfx_dust_smoke_white-Sheet_99
+  - first:
+      213: 1274125937468843316
+    second: vfx_dust_smoke_white-Sheet_100
+  - first:
+      213: 25083984870715251
+    second: vfx_dust_smoke_white-Sheet_101
+  - first:
+      213: 3521557001856710087
+    second: vfx_dust_smoke_white-Sheet_102
+  - first:
+      213: -4123814699047098249
+    second: vfx_dust_smoke_white-Sheet_103
+  - first:
+      213: 6411667933790082706
+    second: vfx_dust_smoke_white-Sheet_104
+  - first:
+      213: -3116242975033039477
+    second: vfx_dust_smoke_white-Sheet_105
+  - first:
+      213: 7818470501425310193
+    second: vfx_dust_smoke_white-Sheet_106
+  - first:
+      213: 3761249413522024937
+    second: vfx_dust_smoke_white-Sheet_107
+  - first:
+      213: 5487501769445225892
+    second: vfx_dust_smoke_white-Sheet_108
+  - first:
+      213: 7437496340366154375
+    second: vfx_dust_smoke_white-Sheet_109
+  - first:
+      213: 5702156479126437002
+    second: vfx_dust_smoke_white-Sheet_110
+  - first:
+      213: 2667697627231591946
+    second: vfx_dust_smoke_white-Sheet_111
+  - first:
+      213: 7697427662475588005
+    second: vfx_dust_smoke_white-Sheet_112
+  - first:
+      213: -2548116044093450039
+    second: vfx_dust_smoke_white-Sheet_113
+  - first:
+      213: 3737256614182029215
+    second: vfx_dust_smoke_white-Sheet_114
+  - first:
+      213: 2136321999383944585
+    second: vfx_dust_smoke_white-Sheet_115
+  - first:
+      213: -225322898846508565
+    second: vfx_dust_smoke_white-Sheet_116
+  - first:
+      213: 1911582903460894823
+    second: vfx_dust_smoke_white-Sheet_117
+  - first:
+      213: -4094683837958461378
+    second: vfx_dust_smoke_white-Sheet_118
+  - first:
+      213: -1177869875286884057
+    second: vfx_dust_smoke_white-Sheet_119
+  - first:
+      213: 7722318350889712317
+    second: vfx_dust_smoke_white-Sheet_120
+  - first:
+      213: -6769845689996648054
+    second: vfx_dust_smoke_white-Sheet_121
+  - first:
+      213: -1263236310369467944
+    second: vfx_dust_smoke_white-Sheet_122
+  - first:
+      213: 5768651439257477068
+    second: vfx_dust_smoke_white-Sheet_123
+  - first:
+      213: 454635949853230098
+    second: vfx_dust_smoke_white-Sheet_124
+  - first:
+      213: 4030414758548441736
+    second: vfx_dust_smoke_white-Sheet_125
+  - first:
+      213: 4582616795028972430
+    second: vfx_dust_smoke_white-Sheet_126
+  - first:
+      213: 8624412283346873100
+    second: vfx_dust_smoke_white-Sheet_127
+  - first:
+      213: 3025191958312707050
+    second: vfx_dust_smoke_white-Sheet_128
+  - first:
+      213: -3115551763812700305
+    second: vfx_dust_smoke_white-Sheet_129
+  - first:
+      213: -5074981868871341719
+    second: vfx_dust_smoke_white-Sheet_130
+  - first:
+      213: -4926528649416898351
+    second: vfx_dust_smoke_white-Sheet_131
+  - first:
+      213: 4985336154842988107
+    second: vfx_dust_smoke_white-Sheet_132
+  - first:
+      213: -7119396189153373496
+    second: vfx_dust_smoke_white-Sheet_133
+  - first:
+      213: 1393976580252420585
+    second: vfx_dust_smoke_white-Sheet_134
+  - first:
+      213: 6344226969315124261
+    second: vfx_dust_smoke_white-Sheet_135
+  - first:
+      213: 1259614987088668492
+    second: vfx_dust_smoke_white-Sheet_136
+  - first:
+      213: -3045085025893626897
+    second: vfx_dust_smoke_white-Sheet_137
+  - first:
+      213: -8772033205031594080
+    second: vfx_dust_smoke_white-Sheet_138
+  - first:
+      213: 3550172697399381146
+    second: vfx_dust_smoke_white-Sheet_139
+  - first:
+      213: -849907526186518130
+    second: vfx_dust_smoke_white-Sheet_140
+  - first:
+      213: -1606129837875093181
+    second: vfx_dust_smoke_white-Sheet_141
+  - first:
+      213: 1267190188584596099
+    second: vfx_dust_smoke_white-Sheet_142
+  - first:
+      213: -2038215245184902338
+    second: vfx_dust_smoke_white-Sheet_143
+  - first:
+      213: -3156601214508445683
+    second: vfx_dust_smoke_white-Sheet_144
+  - first:
+      213: -2993112070513982173
+    second: vfx_dust_smoke_white-Sheet_145
+  - first:
+      213: -1592308598797738201
+    second: vfx_dust_smoke_white-Sheet_146
+  - first:
+      213: -7945825060564233881
+    second: vfx_dust_smoke_white-Sheet_147
+  - first:
+      213: -6195903703707876952
+    second: vfx_dust_smoke_white-Sheet_148
+  - first:
+      213: 1700076302273741643
+    second: vfx_dust_smoke_white-Sheet_149
+  - first:
+      213: 1326335475695995757
+    second: vfx_dust_smoke_white-Sheet_150
+  - first:
+      213: 5268786788425760078
+    second: vfx_dust_smoke_white-Sheet_151
+  - first:
+      213: 1513406701629517307
+    second: vfx_dust_smoke_white-Sheet_152
+  - first:
+      213: 7834651914951906387
+    second: vfx_dust_smoke_white-Sheet_153
+  - first:
+      213: -7143142173478723516
+    second: vfx_dust_smoke_white-Sheet_154
+  - first:
+      213: 1320751889367138294
+    second: vfx_dust_smoke_white-Sheet_155
+  - first:
+      213: 5846135334818176499
+    second: vfx_dust_smoke_white-Sheet_156
+  - first:
+      213: -3411728945261444832
+    second: vfx_dust_smoke_white-Sheet_157
+  - first:
+      213: -762563734948864979
+    second: vfx_dust_smoke_white-Sheet_158
+  - first:
+      213: -6826902355318482827
+    second: vfx_dust_smoke_white-Sheet_159
+  - first:
+      213: 5933092404345842716
+    second: vfx_dust_smoke_white-Sheet_160
+  - first:
+      213: 6380717625615981141
+    second: vfx_dust_smoke_white-Sheet_161
+  - first:
+      213: -4709615044520671136
+    second: vfx_dust_smoke_white-Sheet_162
+  - first:
+      213: -7360927230776605481
+    second: vfx_dust_smoke_white-Sheet_163
+  - first:
+      213: 1323487568171405840
+    second: vfx_dust_smoke_white-Sheet_164
+  - first:
+      213: 5686765559219880458
+    second: vfx_dust_smoke_white-Sheet_165
+  - first:
+      213: -7375215376631123158
+    second: vfx_dust_smoke_white-Sheet_166
+  - first:
+      213: -3913452521733978553
+    second: vfx_dust_smoke_white-Sheet_167
+  - first:
+      213: 2109026741313010926
+    second: vfx_dust_smoke_white-Sheet_168
+  - first:
+      213: 8662162566418235614
+    second: vfx_dust_smoke_white-Sheet_169
+  - first:
+      213: 3778012064590356721
+    second: vfx_dust_smoke_white-Sheet_170
+  - first:
+      213: 4334939374700651395
+    second: vfx_dust_smoke_white-Sheet_171
+  - first:
+      213: 6578739412711814514
+    second: vfx_dust_smoke_white-Sheet_172
+  - first:
+      213: -8922003339821114245
+    second: vfx_dust_smoke_white-Sheet_173
+  - first:
+      213: 6308192552269324961
+    second: vfx_dust_smoke_white-Sheet_174
+  - first:
+      213: 1594209581216969124
+    second: vfx_dust_smoke_white-Sheet_175
+  - first:
+      213: -9085030250983783694
+    second: vfx_dust_smoke_white-Sheet_176
+  - first:
+      213: 3159282410481246839
+    second: vfx_dust_smoke_white-Sheet_177
+  - first:
+      213: 6739102431279803811
+    second: vfx_dust_smoke_white-Sheet_178
+  - first:
+      213: -8115826053904458842
+    second: vfx_dust_smoke_white-Sheet_179
+  - first:
+      213: -2369556169337338078
+    second: vfx_dust_smoke_white-Sheet_180
+  - first:
+      213: -6197205192591444871
+    second: vfx_dust_smoke_white-Sheet_181
+  - first:
+      213: -1763347504637646179
+    second: vfx_dust_smoke_white-Sheet_182
+  - first:
+      213: 8831464101152118787
+    second: vfx_dust_smoke_white-Sheet_183
+  - first:
+      213: -6343891994839685403
+    second: vfx_dust_smoke_white-Sheet_184
+  - first:
+      213: -6767951258414229119
+    second: vfx_dust_smoke_white-Sheet_185
+  - first:
+      213: 9206006310551112446
+    second: vfx_dust_smoke_white-Sheet_186
+  - first:
+      213: -1880809002146349225
+    second: vfx_dust_smoke_white-Sheet_187
+  - first:
+      213: 5911226645376381696
+    second: vfx_dust_smoke_white-Sheet_188
+  - first:
+      213: -8392256329916048230
+    second: vfx_dust_smoke_white-Sheet_189
+  - first:
+      213: 2684220503947218014
+    second: vfx_dust_smoke_white-Sheet_190
+  - first:
+      213: 5908899431810793116
+    second: vfx_dust_smoke_white-Sheet_191
+  - first:
+      213: 1157859446629342651
+    second: vfx_dust_smoke_white-Sheet_192
+  - first:
+      213: -606467299499340601
+    second: vfx_dust_smoke_white-Sheet_193
+  - first:
+      213: 2383204562270722653
+    second: vfx_dust_smoke_white-Sheet_194
+  - first:
+      213: 3898759392761581617
+    second: vfx_dust_smoke_white-Sheet_195
+  - first:
+      213: 1208174459763335379
+    second: vfx_dust_smoke_white-Sheet_196
+  - first:
+      213: 6750805528944498185
+    second: vfx_dust_smoke_white-Sheet_197
+  - first:
+      213: 1718990731558490298
+    second: vfx_dust_smoke_white-Sheet_198
+  - first:
+      213: 2363209980099027118
+    second: vfx_dust_smoke_white-Sheet_199
+  - first:
+      213: -7117209175376081828
+    second: vfx_dust_smoke_white-Sheet_200
+  - first:
+      213: -847272953769778163
+    second: vfx_dust_smoke_white-Sheet_201
+  - first:
+      213: 6845295383528371989
+    second: vfx_dust_smoke_white-Sheet_202
+  - first:
+      213: -3093771346237219711
+    second: vfx_dust_smoke_white-Sheet_203
+  - first:
+      213: -7437302495725983145
+    second: vfx_dust_smoke_white-Sheet_204
+  - first:
+      213: -9007519987269683599
+    second: vfx_dust_smoke_white-Sheet_205
+  - first:
+      213: -6555952172217404095
+    second: vfx_dust_smoke_white-Sheet_206
+  - first:
+      213: 558850446496491074
+    second: vfx_dust_smoke_white-Sheet_207
+  - first:
+      213: -5641905122132464882
+    second: vfx_dust_smoke_white-Sheet_208
+  - first:
+      213: 2144586608388952305
+    second: vfx_dust_smoke_white-Sheet_209
+  - first:
+      213: 7561515612130519621
+    second: vfx_dust_smoke_white-Sheet_210
+  - first:
+      213: 4518337884874029349
+    second: vfx_dust_smoke_white-Sheet_211
+  - first:
+      213: -7350314841613628948
+    second: vfx_dust_smoke_white-Sheet_212
+  - first:
+      213: -1316863276182749062
+    second: vfx_dust_smoke_white-Sheet_213
+  - first:
+      213: -3722458601445045085
+    second: vfx_dust_smoke_white-Sheet_214
+  - first:
+      213: -9088828659938438155
+    second: vfx_dust_smoke_white-Sheet_215
+  - first:
+      213: -3647217000257440857
+    second: vfx_dust_smoke_white-Sheet_216
+  - first:
+      213: 4857735747388431363
+    second: vfx_dust_smoke_white-Sheet_217
+  - first:
+      213: -6359099506543051826
+    second: vfx_dust_smoke_white-Sheet_218
+  - first:
+      213: 8560973594868734217
+    second: vfx_dust_smoke_white-Sheet_219
+  - first:
+      213: 486260913613576566
+    second: vfx_dust_smoke_white-Sheet_220
+  - first:
+      213: 1969588766965682744
+    second: vfx_dust_smoke_white-Sheet_221
+  - first:
+      213: 5875173043658148213
+    second: vfx_dust_smoke_white-Sheet_222
+  - first:
+      213: -8814385008644380072
+    second: vfx_dust_smoke_white-Sheet_223
+  - first:
+      213: 2172811999070753524
+    second: vfx_dust_smoke_white-Sheet_224
+  - first:
+      213: -2534387495947230178
+    second: vfx_dust_smoke_white-Sheet_225
+  - first:
+      213: 4254431108778081585
+    second: vfx_dust_smoke_white-Sheet_226
+  - first:
+      213: -530010274649601131
+    second: vfx_dust_smoke_white-Sheet_227
+  - first:
+      213: -4937532726262715364
+    second: vfx_dust_smoke_white-Sheet_228
+  - first:
+      213: -513087657325916080
+    second: vfx_dust_smoke_white-Sheet_229
+  - first:
+      213: -9055602689762442010
+    second: vfx_dust_smoke_white-Sheet_230
+  - first:
+      213: 5709578861067171683
+    second: vfx_dust_smoke_white-Sheet_231
+  - first:
+      213: 9173310594079404014
+    second: vfx_dust_smoke_white-Sheet_232
+  - first:
+      213: 2408698589064883380
+    second: vfx_dust_smoke_white-Sheet_233
+  - first:
+      213: -8376194997937177796
+    second: vfx_dust_smoke_white-Sheet_234
+  - first:
+      213: 1466583594268475513
+    second: vfx_dust_smoke_white-Sheet_235
+  - first:
+      213: -5330143033508430129
+    second: vfx_dust_smoke_white-Sheet_236
+  - first:
+      213: 910968762474586911
+    second: vfx_dust_smoke_white-Sheet_237
+  - first:
+      213: -759643913937593152
+    second: vfx_dust_smoke_white-Sheet_238
+  - first:
+      213: 4819020086315400369
+    second: vfx_dust_smoke_white-Sheet_239
+  - first:
+      213: 6288890481769530123
+    second: vfx_dust_smoke_white-Sheet_240
+  - first:
+      213: 6006857405287184575
+    second: vfx_dust_smoke_white-Sheet_241
+  - first:
+      213: 2039003575087075215
+    second: vfx_dust_smoke_white-Sheet_242
+  - first:
+      213: -3625353231254626364
+    second: vfx_dust_smoke_white-Sheet_243
+  - first:
+      213: -4187312161265425998
+    second: vfx_dust_smoke_white-Sheet_244
+  - first:
+      213: -7977141239534172714
+    second: vfx_dust_smoke_white-Sheet_245
+  - first:
+      213: -7328784807757254129
+    second: vfx_dust_smoke_white-Sheet_246
+  - first:
+      213: -5407263250566582753
+    second: vfx_dust_smoke_white-Sheet_247
+  - first:
+      213: -7402355516869949016
+    second: vfx_dust_smoke_white-Sheet_248
+  - first:
+      213: 1845573270995107728
+    second: vfx_dust_smoke_white-Sheet_249
+  - first:
+      213: 7280432437917352294
+    second: vfx_dust_smoke_white-Sheet_250
+  - first:
+      213: -4340037015463391092
+    second: vfx_dust_smoke_white-Sheet_251
+  - first:
+      213: 8204861962269443763
+    second: vfx_dust_smoke_white-Sheet_252
+  - first:
+      213: 2327491699070609532
+    second: vfx_dust_smoke_white-Sheet_253
+  - first:
+      213: 7335340389310843516
+    second: vfx_dust_smoke_white-Sheet_254
+  - first:
+      213: -4805466973187649737
+    second: vfx_dust_smoke_white-Sheet_255
+  - first:
+      213: 7580049492904664470
+    second: vfx_dust_smoke_white-Sheet_256
+  - first:
+      213: 8469789958600248508
+    second: vfx_dust_smoke_white-Sheet_257
+  - first:
+      213: -5382681217281132293
+    second: vfx_dust_smoke_white-Sheet_258
+  - first:
+      213: 435170703091437844
+    second: vfx_dust_smoke_white-Sheet_259
+  - first:
+      213: -8816723072407484633
+    second: vfx_dust_smoke_white-Sheet_260
+  - first:
+      213: 8142460986774811298
+    second: vfx_dust_smoke_white-Sheet_261
+  - first:
+      213: 8491149672998762528
+    second: vfx_dust_smoke_white-Sheet_262
+  - first:
+      213: -8481279271588032033
+    second: vfx_dust_smoke_white-Sheet_263
+  - first:
+      213: -5933463168194158292
+    second: vfx_dust_smoke_white-Sheet_264
+  - first:
+      213: -3108597923826528378
+    second: vfx_dust_smoke_white-Sheet_265
+  - first:
+      213: -1651249164486428983
+    second: vfx_dust_smoke_white-Sheet_266
+  - first:
+      213: -438159824453498629
+    second: vfx_dust_smoke_white-Sheet_267
+  - first:
+      213: -8311448250121192430
+    second: vfx_dust_smoke_white-Sheet_268
+  - first:
+      213: -2409914923584275373
+    second: vfx_dust_smoke_white-Sheet_269
+  - first:
+      213: 6924633966922377789
+    second: vfx_dust_smoke_white-Sheet_270
+  - first:
+      213: -1218056947589104176
+    second: vfx_dust_smoke_white-Sheet_271
+  - first:
+      213: 8258350819131839173
+    second: vfx_dust_smoke_white-Sheet_272
+  - first:
+      213: 3512448437173141987
+    second: vfx_dust_smoke_white-Sheet_273
+  - first:
+      213: -4079694075847921625
+    second: vfx_dust_smoke_white-Sheet_274
+  - first:
+      213: -576681641807633157
+    second: vfx_dust_smoke_white-Sheet_275
+  - first:
+      213: 4773459678853625531
+    second: vfx_dust_smoke_white-Sheet_276
+  - first:
+      213: 724189726219406305
+    second: vfx_dust_smoke_white-Sheet_277
+  - first:
+      213: -7784430578623410188
+    second: vfx_dust_smoke_white-Sheet_278
+  - first:
+      213: 7203018755950463548
+    second: vfx_dust_smoke_white-Sheet_279
+  - first:
+      213: 3571129244363392400
+    second: vfx_dust_smoke_white-Sheet_280
+  - first:
+      213: -9101282328770974407
+    second: vfx_dust_smoke_white-Sheet_281
+  - first:
+      213: 5124241650656564493
+    second: vfx_dust_smoke_white-Sheet_282
+  - first:
+      213: 1932437206074554118
+    second: vfx_dust_smoke_white-Sheet_283
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 96
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065bdeebf4b2f0d4097ba2bf414db67c
+      internalID: 789100227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53d72c70ce8ac9439ce21f5e4071830
+      internalID: 775375216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e0f88081583c64ea79a6259cdf4c9c
+      internalID: 1387398185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f101b6d5653834c8b6c39964791cba
+      internalID: -1139910478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba54fde018ab1bb4aaba913218c5db1f
+      internalID: -1796128051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4554a03fe48bce4c893c3f58dc8602d
+      internalID: 911399524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb187e02c7fe5145b5b55856e4bbad8
+      internalID: 1533606265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331b0dbf3b7a9f946a894454742107f4
+      internalID: -1028392435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aef467d22c41945bc01e40bad32bdb
+      internalID: -1089927598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34806d85e465450449d3b91117707c32
+      internalID: 1228783996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57fb04eff36a6f46ba7bb4959cddf5c
+      internalID: -1894496563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6df5cd10afcc274bb72800d48f2b27e
+      internalID: -1817722811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fa8989278d2c6459bb452067a41f60
+      internalID: -352142137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74448693f5d34b0438bf28ba7ffdabe0
+      internalID: -188627460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5affa195ac7f02848b5345bdd33e9231
+      internalID: -262962538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84de6033732076448e416f68bbcf8f8
+      internalID: -357462948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d546ca5dd18f94995ff4326472f4ba
+      internalID: 1255015538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf672af502b5344915fbdbd09dcaa0
+      internalID: -1024707243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e860d2d7af7b440ab08c8925e18515
+      internalID: -1271269881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b14e128e718d044ab6af179bf15258
+      internalID: -1560347911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73f4ee716efbe24bb99177a9d763ea9
+      internalID: -1807054791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb795851c00bad4c96ff8b147e76dbf
+      internalID: -692865507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184b03bd7f8bf3f46b5520b36aa52a7f
+      internalID: 633678482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea54d645d29ab64d993f44f5b229021
+      internalID: -823731373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483c44a697818f947a0a95e95458eedd
+      internalID: -1239690829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c2489d717949e4a8fd0bf04c005354
+      internalID: 1822632674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779ca8618f068a04da064d6b5b5e40f5
+      internalID: 918644487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131e35ade626274fad204bf9b0ccdc0
+      internalID: -1860025196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae0858397e648645b7b1ea5ef26f9ca
+      internalID: 1428268229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a102e9633e5c489fe04a14b044460
+      internalID: 22386852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc04eade9344b5041825e8dc9ff63b48
+      internalID: -1743718994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ab27ffce337b74a8cd0bc7120a1d2b
+      internalID: -2039443672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab622f6231e9984bb09f1300103fe1d
+      internalID: 999330445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e53d732d99b27f4d9e44d13f16520fd
+      internalID: 1131113707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6ca785fc475d349a8b7c3842e961f8
+      internalID: -95105542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef3d7f0d58441f44be06223c82189b3
+      internalID: 1273919910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0433b9750a75b6241ba73df5ea1a5fac
+      internalID: 1971825587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadf6bc6b6ac53d40b90d185d76aeaac
+      internalID: -128092283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51ef9182905834439fa9e75491ba719
+      internalID: 1702601062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd651d38172970f40950f9534dea8bff
+      internalID: -1437556106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161334c6c45d4b84b918ee023e647ed8
+      internalID: 85859549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb55ff65c8b364242be0752422bf66eb
+      internalID: 951689007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146e49fc6ee4bf4faebd9b45681ea09
+      internalID: 1944180163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625955f4da48e0044bacf1e8adeeed74
+      internalID: -1442427283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb8d50fe9357c46aaeca9f09088d75
+      internalID: 697749211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e817802bfea9b044cb9a1d09a5f6dbf2
+      internalID: -880807617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85200a0421e08814f93cf4f791a886a8
+      internalID: -871905984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d329d03f71cb46458674c626c117ee2
+      internalID: 1566347661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ed373c3a3cb2d49a913dd2c9ab029a
+      internalID: -237476723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31f39b25371b2f4e8eacc05e09540fd
+      internalID: 1901861535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d5c922fd18dad4bbdb5f1b815bd617
+      internalID: 1831296638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bab07ba5a40c6740aacd8af8a37881e
+      internalID: 1577191131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432ec269496d141429a4f995f6665232
+      internalID: 1786530837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b885594ca0fc74a9c569503b0b71f4
+      internalID: -1644912619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3fdb1be63d8b74a92c00ef16648398
+      internalID: 2084817156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635e6eb05b6b1941aae673fddb90ec5
+      internalID: -404275130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91144887142d6e646a8a9f0f57145989
+      internalID: -1874265697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e395d6e3a6b5e6e4fa5e0e5ceb94c6bb
+      internalID: 564482537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f0d9db7692d648905b77b0f496736
+      internalID: -1854798204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246993338e931b44b408640cfb55165
+      internalID: -1050046033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bb3d575f27f234c8463ae6567372c0
+      internalID: 465030077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da38533e0c1d37c4194a95c6fa246df4
+      internalID: 404619579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e4d3537be9e4d4aa6f5ba325f9f199
+      internalID: 514641430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c8152e2e296ac4b8c3d585d676b613
+      internalID: 129249758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac03f0ad6076bc409c868ad0a2cd109
+      internalID: -1169074104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59ffdcb160ccb04ebb9dd4fc37970b9
+      internalID: -1087135336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010f0e60da86a5f47a2daa9c32d29c59
+      internalID: 1144616773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742775240d67fdd4da82cfa4c1b41140
+      internalID: -1919974170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0d55760b8e6814894c56e3a9cfb53c
+      internalID: 1338640818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd2abf3caf665a4aa890a2dc008e72e
+      internalID: -894115321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d57aa9fed348d44d8402ce7542592f6
+      internalID: 1462327485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2bf82e707002149b2f17438117b29f
+      internalID: -631841768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea348ea20f4fa4594766e4d22373f3
+      internalID: 2001349570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a6a429a1133e74f8035226ec08a2e0
+      internalID: -1050734464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d552e04f614f31c4296e76bde6a1380e
+      internalID: 1938376787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c70a9a9beaf0149b74186742e61ca5
+      internalID: 618482082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65cf77c980006449661424a134c391
+      internalID: -134008050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73b82f38e5f6f8478bafe29dc2022d1
+      internalID: -210884132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2e864969c108c45b6a944c12a6b6f9
+      internalID: 908356781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8505b303558ae448323f736bfe1d92
+      internalID: 1447681431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6cc4a9a55160d469b6d854d5fb56d5
+      internalID: -417885246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92747bb6e705b6943b3d9f20ce89b93a
+      internalID: 1851619008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b218e6b53124849af4d57e096e429e
+      internalID: 1576051101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c7282b5145c294ebb00d957899cdea
+      internalID: -273055060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b067849537751a448bcf82bb07b0d7d
+      internalID: 1514113856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb2efbdcc27e3844a136806320cae07
+      internalID: 1451299804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037492304fa52fb478d4ab574b57a06e
+      internalID: -47928157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb8be45c19020443b6bcb5e7ed39c8a
+      internalID: 433779458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a93cff562fed33458ff6df0c45650f1
+      internalID: 1544933124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbccc39c8fd7174bb6797f23d24fea0
+      internalID: 819737893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d933d1943060acf4281e3ccafcdb5ebe
+      internalID: -1331243713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbaaffa86f61a841aa48a44e2572dad
+      internalID: 1428078975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41df74def3a9a244a2e5fbafe2a406b
+      internalID: -789159577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c81dc2fa8463f24e862107784912390
+      internalID: -2122078767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c0c5bc8eb201248811c5dd0e955b38
+      internalID: -697663096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eede5a7aef6184c438b055acccbefb61
+      internalID: 1471240067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdf9b05d1d993d4fb87f7fe320de54f
+      internalID: 79527271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4a640dc481b5c45b8ff7f558ba2fe7
+      internalID: -417469081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dust_smoke_white-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5601e22a0badee4f801c0c124dcb5ac
+      internalID: 1486927610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 14b5d3e8b91641f4fa2d617cac47c8b1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx_dust_smoke_white-Sheet_0: 789100227
+      vfx_dust_smoke_white-Sheet_1: 775375216
+      vfx_dust_smoke_white-Sheet_10: -1894496563
+      vfx_dust_smoke_white-Sheet_11: -1817722811
+      vfx_dust_smoke_white-Sheet_12: -352142137
+      vfx_dust_smoke_white-Sheet_13: -188627460
+      vfx_dust_smoke_white-Sheet_14: -262962538
+      vfx_dust_smoke_white-Sheet_15: -357462948
+      vfx_dust_smoke_white-Sheet_16: 1255015538
+      vfx_dust_smoke_white-Sheet_17: -1024707243
+      vfx_dust_smoke_white-Sheet_18: -1271269881
+      vfx_dust_smoke_white-Sheet_19: -1560347911
+      vfx_dust_smoke_white-Sheet_2: 1387398185
+      vfx_dust_smoke_white-Sheet_20: -1807054791
+      vfx_dust_smoke_white-Sheet_21: -692865507
+      vfx_dust_smoke_white-Sheet_22: 633678482
+      vfx_dust_smoke_white-Sheet_23: -823731373
+      vfx_dust_smoke_white-Sheet_24: -1239690829
+      vfx_dust_smoke_white-Sheet_25: 1822632674
+      vfx_dust_smoke_white-Sheet_26: 918644487
+      vfx_dust_smoke_white-Sheet_27: -1860025196
+      vfx_dust_smoke_white-Sheet_28: 1428268229
+      vfx_dust_smoke_white-Sheet_29: 22386852
+      vfx_dust_smoke_white-Sheet_3: -1139910478
+      vfx_dust_smoke_white-Sheet_30: -1743718994
+      vfx_dust_smoke_white-Sheet_31: -2039443672
+      vfx_dust_smoke_white-Sheet_32: 999330445
+      vfx_dust_smoke_white-Sheet_33: 1131113707
+      vfx_dust_smoke_white-Sheet_34: -95105542
+      vfx_dust_smoke_white-Sheet_35: 1273919910
+      vfx_dust_smoke_white-Sheet_36: 1971825587
+      vfx_dust_smoke_white-Sheet_37: -128092283
+      vfx_dust_smoke_white-Sheet_38: 1702601062
+      vfx_dust_smoke_white-Sheet_39: -1437556106
+      vfx_dust_smoke_white-Sheet_4: -1796128051
+      vfx_dust_smoke_white-Sheet_40: 85859549
+      vfx_dust_smoke_white-Sheet_41: 951689007
+      vfx_dust_smoke_white-Sheet_42: 1944180163
+      vfx_dust_smoke_white-Sheet_43: -1442427283
+      vfx_dust_smoke_white-Sheet_44: 697749211
+      vfx_dust_smoke_white-Sheet_45: -880807617
+      vfx_dust_smoke_white-Sheet_46: -871905984
+      vfx_dust_smoke_white-Sheet_47: 1566347661
+      vfx_dust_smoke_white-Sheet_48: -237476723
+      vfx_dust_smoke_white-Sheet_49: 1901861535
+      vfx_dust_smoke_white-Sheet_5: 911399524
+      vfx_dust_smoke_white-Sheet_50: 1831296638
+      vfx_dust_smoke_white-Sheet_51: 1577191131
+      vfx_dust_smoke_white-Sheet_52: 1786530837
+      vfx_dust_smoke_white-Sheet_53: -1644912619
+      vfx_dust_smoke_white-Sheet_54: 2084817156
+      vfx_dust_smoke_white-Sheet_55: -404275130
+      vfx_dust_smoke_white-Sheet_56: -1874265697
+      vfx_dust_smoke_white-Sheet_57: 564482537
+      vfx_dust_smoke_white-Sheet_58: -1854798204
+      vfx_dust_smoke_white-Sheet_59: -1050046033
+      vfx_dust_smoke_white-Sheet_6: 1533606265
+      vfx_dust_smoke_white-Sheet_60: 465030077
+      vfx_dust_smoke_white-Sheet_61: 404619579
+      vfx_dust_smoke_white-Sheet_62: 514641430
+      vfx_dust_smoke_white-Sheet_63: 129249758
+      vfx_dust_smoke_white-Sheet_64: -1169074104
+      vfx_dust_smoke_white-Sheet_65: -1087135336
+      vfx_dust_smoke_white-Sheet_66: 1144616773
+      vfx_dust_smoke_white-Sheet_67: -1919974170
+      vfx_dust_smoke_white-Sheet_68: 1338640818
+      vfx_dust_smoke_white-Sheet_69: -894115321
+      vfx_dust_smoke_white-Sheet_7: -1028392435
+      vfx_dust_smoke_white-Sheet_70: 1462327485
+      vfx_dust_smoke_white-Sheet_71: -631841768
+      vfx_dust_smoke_white-Sheet_72: 2001349570
+      vfx_dust_smoke_white-Sheet_73: -1050734464
+      vfx_dust_smoke_white-Sheet_74: 1938376787
+      vfx_dust_smoke_white-Sheet_75: 618482082
+      vfx_dust_smoke_white-Sheet_76: -134008050
+      vfx_dust_smoke_white-Sheet_77: -210884132
+      vfx_dust_smoke_white-Sheet_78: 908356781
+      vfx_dust_smoke_white-Sheet_79: 1447681431
+      vfx_dust_smoke_white-Sheet_8: -1089927598
+      vfx_dust_smoke_white-Sheet_80: -417885246
+      vfx_dust_smoke_white-Sheet_81: 1851619008
+      vfx_dust_smoke_white-Sheet_82: 1576051101
+      vfx_dust_smoke_white-Sheet_83: -273055060
+      vfx_dust_smoke_white-Sheet_84: 1514113856
+      vfx_dust_smoke_white-Sheet_85: 1451299804
+      vfx_dust_smoke_white-Sheet_86: -47928157
+      vfx_dust_smoke_white-Sheet_87: 433779458
+      vfx_dust_smoke_white-Sheet_88: 1544933124
+      vfx_dust_smoke_white-Sheet_89: 819737893
+      vfx_dust_smoke_white-Sheet_9: 1228783996
+      vfx_dust_smoke_white-Sheet_90: -1331243713
+      vfx_dust_smoke_white-Sheet_91: 1428078975
+      vfx_dust_smoke_white-Sheet_92: -789159577
+      vfx_dust_smoke_white-Sheet_93: -2122078767
+      vfx_dust_smoke_white-Sheet_94: -697663096
+      vfx_dust_smoke_white-Sheet_95: 1471240067
+      vfx_dust_smoke_white-Sheet_96: 79527271
+      vfx_dust_smoke_white-Sheet_97: -417469081
+      vfx_dust_smoke_white-Sheet_98: 1486927610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
