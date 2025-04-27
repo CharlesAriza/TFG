@@ -13377,7 +13377,7 @@ MonoBehaviour:
   - label: Ha_Visto_Precio
     id: 3
     type: 1
-    val: 3
+    val: 0
     floatVal: 0
     textVal: 
     gameObjectVal: {fileID: 0}
