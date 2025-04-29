@@ -337,6 +337,11 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 92879d878a1ea3b439925c32d4c5069f, type: 3}
     relativeVolume: 0.5
     overrideMixerGroup: {fileID: 0}
+  - ID: 2
+    label: Charging_Fire
+    audioClip: {fileID: 8300000, guid: 0e58b3d2a96bc1d469dc4e913b6cd962, type: 3}
+    relativeVolume: 0.5
+    overrideMixerGroup: {fileID: 0}
   loadAmbienceFadeTime: 0
   crossfadeAmbienceWhenLoading: 0
   restartAmbienceTrackWhenLoading: 0

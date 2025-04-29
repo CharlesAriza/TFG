@@ -58,10 +58,33 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6332399384003490809, guid: ddce693813826c046bb8918d5c8692e7, type: 3}
       propertyPath: m_Name
-      value: Electricity_Green_VFX
+      value: Electricity_Green_VFX Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6332399384003490809, guid: ddce693813826c046bb8918d5c8692e7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2279517455878785306}
   m_SourcePrefab: {fileID: 100100000, guid: ddce693813826c046bb8918d5c8692e7, type: 3}
+--- !u!1 &5503885953097079859 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6332399384003490809, guid: ddce693813826c046bb8918d5c8692e7, type: 3}
+  m_PrefabInstance: {fileID: 1981734114766827466}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2279517455878785306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5503885953097079859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f72e60470f1fa4fd1825cd67ce482cf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 122636
+  retainInPrefab: 1
+  autoManual: 0

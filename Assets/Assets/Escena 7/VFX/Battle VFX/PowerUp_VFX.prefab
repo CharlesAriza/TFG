@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3749823019638908891}
   - component: {fileID: 218713410720725402}
   - component: {fileID: 6129470384241734544}
+  - component: {fileID: 995926384623720649}
   m_Layer: 0
   m_Name: PowerUp_VFX
   m_TagString: Untagged
@@ -110,3 +111,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &995926384623720649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 790702127629224704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f72e60470f1fa4fd1825cd67ce482cf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 104438
+  retainInPrefab: 1
+  autoManual: 0
