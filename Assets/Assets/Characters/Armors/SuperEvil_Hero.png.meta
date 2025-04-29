@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: a3924721e8c018742ba1eac39cd30399
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -515467682947571878
+    second: SuperEvil_Hero_0
+  - first:
+      213: -7206922496541190652
+    second: SuperEvil_Hero_1
+  - first:
+      213: -832088345987544646
+    second: SuperEvil_Hero_2
+  - first:
+      213: 4186029040750638436
+    second: SuperEvil_Hero_3
+  - first:
+      213: -1813012819819815358
+    second: SuperEvil_Hero_4
+  - first:
+      213: -8521606024593572841
+    second: SuperEvil_Hero_5
+  - first:
+      213: 8804342187281975664
+    second: SuperEvil_Hero_6
+  - first:
+      213: 2097594720675703682
+    second: SuperEvil_Hero_7
+  - first:
+      213: -6047698697128880866
+    second: SuperEvil_Hero_8
+  - first:
+      213: 8372319157510882584
+    second: SuperEvil_Hero_9
+  - first:
+      213: -3967380916686499268
+    second: SuperEvil_Hero_10
+  - first:
+      213: -3440416365238948670
+    second: SuperEvil_Hero_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuperEvil_Hero_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f57b89fd0b8d8f0800000000000000
+      internalID: -515467682947571878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperEvil_Hero_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 108
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40614ed5c2edbfb90800000000000000
+      internalID: -7206922496541190652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperEvil_Hero_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 108
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab98ba3de04d374f0800000000000000
+      internalID: -832088345987544646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperEvil_Hero_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 17
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4653969eb33c71a30800000000000000
+      internalID: 4186029040750638436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperEvil_Hero_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 72
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e19653272e6d6e0800000000000000
+      internalID: -1813012819819815358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperEvil_Hero_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 72
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c7544587c2db980800000000000000
+      internalID: -8521606024593572841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperEvil_Hero_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 36
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0798de9629e4f2a70800000000000000
+      internalID: 8804342187281975664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperEvil_Hero_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 36
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b2c90f8472c1d10800000000000000
+      internalID: 2097594720675703682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperEvil_Hero_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 17
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e155a09b312421ca0800000000000000
+      internalID: -6047698697128880866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperEvil_Hero_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81542a15ae3703470800000000000000
+      internalID: 8372319157510882584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperEvil_Hero_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32dc3c831801f8c0800000000000000
+      internalID: -3967380916686499268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperEvil_Hero_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cced7e3b8f2140d0800000000000000
+      internalID: -3440416365238948670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8cb88136305b19d4185429bbe1cd81dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SuperEvil_Hero_0: -515467682947571878
+      SuperEvil_Hero_1: -7206922496541190652
+      SuperEvil_Hero_10: -3967380916686499268
+      SuperEvil_Hero_11: -3440416365238948670
+      SuperEvil_Hero_2: -832088345987544646
+      SuperEvil_Hero_3: 4186029040750638436
+      SuperEvil_Hero_4: -1813012819819815358
+      SuperEvil_Hero_5: -8521606024593572841
+      SuperEvil_Hero_6: 8804342187281975664
+      SuperEvil_Hero_7: 2097594720675703682
+      SuperEvil_Hero_8: -6047698697128880866
+      SuperEvil_Hero_9: 8372319157510882584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
