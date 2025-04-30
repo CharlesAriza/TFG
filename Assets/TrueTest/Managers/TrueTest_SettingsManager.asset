@@ -326,6 +326,16 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 5d2b928ada7f6664e8043bfaac0ab7b8, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
+  - ID: 16
+    label: The_Truth
+    audioClip: {fileID: 8300000, guid: aa766fef010be354fbb5a1c756f7c29e, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 17
+    label: Final_Fight
+    audioClip: {fileID: 8300000, guid: 17cb42691213c66428e79fc58f281119, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages:
   - ID: 0
     label: Sad Theme
@@ -341,6 +351,11 @@ MonoBehaviour:
     label: Charging_Fire
     audioClip: {fileID: 8300000, guid: 0e58b3d2a96bc1d469dc4e913b6cd962, type: 3}
     relativeVolume: 0.5
+    overrideMixerGroup: {fileID: 0}
+  - ID: 4
+    label: 
+    audioClip: {fileID: 8300000, guid: 57b6a78537a561c4e9ae373da1494e19, type: 3}
+    relativeVolume: 0.6
     overrideMixerGroup: {fileID: 0}
   loadAmbienceFadeTime: 0
   crossfadeAmbienceWhenLoading: 0

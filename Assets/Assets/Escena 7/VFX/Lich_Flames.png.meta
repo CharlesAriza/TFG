@@ -1,43 +1,82 @@
 fileFormatVersion: 2
-guid: 98234d26e0908fd47817a63207df5e9e
+guid: 6e2ae8b5be6b8b348b600a89c29dd00e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8333935444271702674
-    second: Velmorth_0
+      213: -526410141176191472
+    second: Lich_Flames_0
   - first:
-      213: 9196077423943057660
-    second: Velmorth_1
+      213: 8253888125833132176
+    second: Lich_Flames_1
   - first:
-      213: -2410309932339270546
-    second: Velmorth_2
+      213: -6068538051388260627
+    second: Lich_Flames_2
   - first:
-      213: -9016308120632077636
-    second: Velmorth_3
+      213: -3877433267263243744
+    second: Lich_Flames_3
   - first:
-      213: 2263305466066861301
-    second: Velmorth_4
+      213: -1058669400001793664
+    second: Lich_Flames_4
   - first:
-      213: 2557845678755999743
-    second: Velmorth_5
+      213: 91988300135507588
+    second: Lich_Flames_5
   - first:
-      213: 44679052795749932
-    second: Velmorth_6
+      213: -4386986359770037980
+    second: Lich_Flames_6
   - first:
-      213: 5685055850901989464
-    second: Velmorth_7
+      213: -5938280124733581865
+    second: Lich_Flames_7
   - first:
-      213: -5785325745606553499
-    second: Velmorth_8
+      213: 4358365293570654080
+    second: Lich_Flames_8
   - first:
-      213: -4313505067196836898
-    second: Velmorth_9
+      213: 3445231663102788954
+    second: Lich_Flames_9
   - first:
-      213: -7190168174886770438
-    second: Velmorth_10
+      213: -5288874499833500707
+    second: Lich_Flames_10
   - first:
-      213: -9037951331146506657
-    second: Velmorth_11
+      213: -3274445867728783239
+    second: Lich_Flames_11
+  - first:
+      213: -6426863215557125657
+    second: Lich_Flames_12
+  - first:
+      213: -7341784795600351477
+    second: Lich_Flames_13
+  - first:
+      213: -3020349418226104353
+    second: Lich_Flames_14
+  - first:
+      213: 468981646661090695
+    second: Lich_Flames_15
+  - first:
+      213: -4095562889401749950
+    second: Lich_Flames_16
+  - first:
+      213: 7272426648594323957
+    second: Lich_Flames_17
+  - first:
+      213: 146311766638799687
+    second: Lich_Flames_18
+  - first:
+      213: 4789238841452854083
+    second: Lich_Flames_19
+  - first:
+      213: -7628688619213503642
+    second: Lich_Flames_20
+  - first:
+      213: -3945501760376870712
+    second: Lich_Flames_21
+  - first:
+      213: 23524571042283282
+    second: Lich_Flames_22
+  - first:
+      213: -4176042847414613609
+    second: Lich_Flames_23
+  - first:
+      213: -5533154285978311731
+    second: Lich_Flames_24
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +123,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 22
+  spritePixelsToUnits: 80
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -159,265 +198,265 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Velmorth_0
+      name: Lich_Flames_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 150
-        width: 32
-        height: 47
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6dd5275ed9e75c80800000000000000
-      internalID: -8333935444271702674
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Velmorth_1
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 150
-        width: 33
-        height: 48
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf08d15b1b70f9f70800000000000000
-      internalID: 9196077423943057660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Velmorth_2
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 150
-        width: 32
-        height: 47
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6c625c03ebdc8ed0800000000000000
-      internalID: -2410309932339270546
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Velmorth_3
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 100
-        width: 35
-        height: 47
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb25144e883afd280800000000000000
-      internalID: -9016308120632077636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Velmorth_4
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 100
-        width: 32
-        height: 48
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5fc7d137450e86f10800000000000000
-      internalID: 2263305466066861301
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Velmorth_5
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 100
-        width: 32
-        height: 47
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fffe480c71b4f7320800000000000000
-      internalID: 2557845678755999743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Velmorth_6
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 50
-        width: 32
-        height: 47
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c26aace9c5bbe9000800000000000000
-      internalID: 44679052795749932
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Velmorth_7
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 50
-        width: 32
-        height: 48
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 858e449fc2065ee40800000000000000
-      internalID: 5685055850901989464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Velmorth_8
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 50
-        width: 35
-        height: 47
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5601337e2e466bfa0800000000000000
-      internalID: -5785325745606553499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Velmorth_9
-      rect:
-        serializedVersion: 2
-        x: 6
+        x: 0
         y: 0
-        width: 33
-        height: 47
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed392eccef95324c0800000000000000
-      internalID: -4313505067196836898
+      spriteID: 016a70104c0d1b8f0800000000000000
+      internalID: -526410141176191472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Velmorth_10
+      name: Lich_Flames_1
       rect:
         serializedVersion: 2
-        x: 53
+        x: 96
         y: 0
-        width: 33
-        height: 48
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af82e8cd324673c90800000000000000
-      internalID: -7190168174886770438
+      spriteID: 098391cf483bb8270800000000000000
+      internalID: 8253888125833132176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Velmorth_11
+      name: Lich_Flames_2
       rect:
         serializedVersion: 2
-        x: 100
+        x: 192
         y: 0
-        width: 33
-        height: 47
-      alignment: 9
-      pivot: {x: 0.5428572, y: 0.3}
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5e5eb1462fb29280800000000000000
-      internalID: -9037951331146506657
+      spriteID: deebf057bc838cba0800000000000000
+      internalID: -6068538051388260627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_Flames_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02afd78acf6903ac0800000000000000
+      internalID: -3877433267263243744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_Flames_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081315e2ac9de41f0800000000000000
+      internalID: -1058669400001793664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_Flames_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486a1112fdec64100800000000000000
+      internalID: 91988300135507588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_Flames_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4214c67262b4e13c0800000000000000
+      internalID: -4386986359770037980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_Flames_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d51e7c50bdf69da0800000000000000
+      internalID: -5938280124733581865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_Flames_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f7ba494260c7c30800000000000000
+      internalID: 4358365293570654080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_Flames_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a558b28a1fbefcf20800000000000000
+      internalID: 3445231663102788954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_Flames_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb6dcff9a42a96b0800000000000000
+      internalID: -5288874499833500707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_Flames_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978b7c105d4de82d0800000000000000
+      internalID: -3274445867728783239
       vertices: []
       indices: 
       edges: []
@@ -426,7 +465,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ee85262e798079d4ba65c5f644492ffd
+    spriteID: 115a1424e003e9244ad5769c51c16121
     internalID: 0
     vertices: []
     indices: 
@@ -436,18 +475,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Velmorth_0: -8333935444271702674
-      Velmorth_1: 9196077423943057660
-      Velmorth_10: -7190168174886770438
-      Velmorth_11: -9037951331146506657
-      Velmorth_2: -2410309932339270546
-      Velmorth_3: -9016308120632077636
-      Velmorth_4: 2263305466066861301
-      Velmorth_5: 2557845678755999743
-      Velmorth_6: 44679052795749932
-      Velmorth_7: 5685055850901989464
-      Velmorth_8: -5785325745606553499
-      Velmorth_9: -4313505067196836898
+      Lich_Flames_0: -526410141176191472
+      Lich_Flames_1: 8253888125833132176
+      Lich_Flames_10: -5288874499833500707
+      Lich_Flames_11: -3274445867728783239
+      Lich_Flames_2: -6068538051388260627
+      Lich_Flames_3: -3877433267263243744
+      Lich_Flames_4: -1058669400001793664
+      Lich_Flames_5: 91988300135507588
+      Lich_Flames_6: -4386986359770037980
+      Lich_Flames_7: -5938280124733581865
+      Lich_Flames_8: 4358365293570654080
+      Lich_Flames_9: 3445231663102788954
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
