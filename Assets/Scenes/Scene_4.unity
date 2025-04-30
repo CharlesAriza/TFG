@@ -11555,8 +11555,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 271
-    y: 1654.7677
+    x: 14
+    y: 1674
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -15867,8 +15867,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 276
-    y: 1850.7677
+    x: 14
+    y: 1836
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -23137,8 +23137,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 17
-    y: 1705
+    x: 14
+    y: 2018
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}

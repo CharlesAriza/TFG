@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5609016459817708074}
   - component: {fileID: 8114884023342502820}
   - component: {fileID: 5717563454641186610}
+  - component: {fileID: -3814881332956776875}
   m_Layer: 0
   m_Name: ChargePowerVFX
   m_TagString: Untagged
@@ -126,3 +127,18 @@ MonoBehaviour:
   constantID: 162724
   retainInPrefab: 1
   autoManual: 0
+--- !u!114 &-3814881332956776875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4481369123695776073}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3565967755831406682197d72852d7ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  affectChildren: 1
+  minAlpha: 0
+  maxAlpha: 1
