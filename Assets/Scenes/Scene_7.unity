@@ -61615,7 +61615,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "*Ejecuci\xF3n abortada por entidad superior.*"
+  messageText: "*Acci\xF3n denegada: movimiento bloqueado.*"
   lineID: -1
   multiLineIDs: 
   isBackground: 0
