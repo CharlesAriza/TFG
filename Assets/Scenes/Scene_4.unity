@@ -23147,7 +23147,7 @@ MonoBehaviour:
   groupID: 0
   changeType: 0
   removeJournalPageMethod: 0
-  menuToChange: Tienda
+  menuToChange: TiendaExclusiva
   menuToChangeParameterID: -1
   elementToChange: 
   elementToChangeParameterID: -1
