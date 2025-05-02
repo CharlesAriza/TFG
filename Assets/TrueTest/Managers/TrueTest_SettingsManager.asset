@@ -372,6 +372,16 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 5158225088061544aabaa680439f7b20, type: 3}
     relativeVolume: 0.5
     overrideMixerGroup: {fileID: 0}
+  - ID: 5
+    label: 
+    audioClip: {fileID: 8300000, guid: b34c32af91fb1a94a88850a77923eae2, type: 3}
+    relativeVolume: 0.5
+    overrideMixerGroup: {fileID: 0}
+  - ID: 6
+    label: Milo_Charging
+    audioClip: {fileID: 8300000, guid: 1b405c5e2f153fd4c8230cc8be936013, type: 3}
+    relativeVolume: 0.5
+    overrideMixerGroup: {fileID: 0}
   loadAmbienceFadeTime: 0
   crossfadeAmbienceWhenLoading: 0
   restartAmbienceTrackWhenLoading: 0
