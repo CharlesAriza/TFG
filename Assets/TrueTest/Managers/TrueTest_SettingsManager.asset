@@ -346,6 +346,11 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: dafd6b952968e7a49844581d8a5084cf, type: 3}
     relativeVolume: 0.5
     overrideMixerGroup: {fileID: 0}
+  - ID: 20
+    label: End_Rex
+    audioClip: {fileID: 8300000, guid: 835244295418f8e48b2642f05e21d938, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages:
   - ID: 0
     label: Sad Theme

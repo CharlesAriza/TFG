@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 0cbbcb1e7b8376548824b1355e7f8d1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7118792593712205817
+    second: Velmorth_Destruction_Damage_0
+  - first:
+      213: -5713203331109653798
+    second: Velmorth_Destruction_Damage_1
+  - first:
+      213: -8657651438021679017
+    second: Velmorth_Destruction_Damage_2
+  - first:
+      213: -3444196873058746693
+    second: Velmorth_Destruction_Damage_3
+  - first:
+      213: 7600957036534393075
+    second: Velmorth_Destruction_Damage_4
+  - first:
+      213: 1689516088311818907
+    second: Velmorth_Destruction_Damage_5
+  - first:
+      213: -3878239366317139180
+    second: Velmorth_Destruction_Damage_6
+  - first:
+      213: 5700475903877313924
+    second: Velmorth_Destruction_Damage_7
+  - first:
+      213: 4200223817654782492
+    second: Velmorth_Destruction_Damage_8
+  - first:
+      213: 7285131665649140810
+    second: Velmorth_Destruction_Damage_9
+  - first:
+      213: 8361255780032434638
+    second: Velmorth_Destruction_Damage_10
+  - first:
+      213: 2407648211944482779
+    second: Velmorth_Destruction_Damage_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 149
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffc5e1a5280bc260800000000000000
+      internalID: 7118792593712205817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 149
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad271a717df96b0b0800000000000000
+      internalID: -5713203331109653798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 99
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758619723e7d9d780800000000000000
+      internalID: -8657651438021679017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 149
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe72dc2131c330d0800000000000000
+      internalID: -3444196873058746693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f863a337260c7960800000000000000
+      internalID: 7600957036534393075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 49
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a222e4eed527710800000000000000
+      internalID: 1689516088311818907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b1bb818d9bd2ac0800000000000000
+      internalID: -3878239366317139180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f745d1a82c1f40800000000000000
+      internalID: 5700475903877313924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ac274fe413a4a30800000000000000
+      internalID: 4200223817654782492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4487f0d6acf91560800000000000000
+      internalID: 7285131665649140810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1d30505d5290470800000000000000
+      internalID: 8361255780032434638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velmorth_Destruction_Damage_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd72e01ea4fa96120800000000000000
+      internalID: 2407648211944482779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Velmorth_Destruction_Damage_0: 7118792593712205817
+      Velmorth_Destruction_Damage_1: -5713203331109653798
+      Velmorth_Destruction_Damage_10: 8361255780032434638
+      Velmorth_Destruction_Damage_11: 2407648211944482779
+      Velmorth_Destruction_Damage_2: -8657651438021679017
+      Velmorth_Destruction_Damage_3: -3444196873058746693
+      Velmorth_Destruction_Damage_4: 7600957036534393075
+      Velmorth_Destruction_Damage_5: 1689516088311818907
+      Velmorth_Destruction_Damage_6: -3878239366317139180
+      Velmorth_Destruction_Damage_7: 5700475903877313924
+      Velmorth_Destruction_Damage_8: 4200223817654782492
+      Velmorth_Destruction_Damage_9: 7285131665649140810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
