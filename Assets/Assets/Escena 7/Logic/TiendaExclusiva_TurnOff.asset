@@ -34,7 +34,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 297
+    y: 547
     width: 300
     height: 227
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -85,7 +85,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 10
+    skipAction: 11
     skipActionActual: {fileID: 4849488852032890388}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -95,7 +95,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 2481.1902
+    y: 2731.1902
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -145,7 +145,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 554
+    y: 804
     width: 300
     height: 227
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -206,7 +206,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 811
+    y: 1061
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -262,7 +262,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 2920.1902
+    y: 3170.1902
     width: 300
     height: 159
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -304,7 +304,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 7
+    skipAction: 8
     skipActionActual: {fileID: -2219362671831009193}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -314,7 +314,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1512
+    y: 1762
     width: 300
     height: 275.57
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -366,7 +366,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 5
+    skipAction: 6
     skipActionActual: {fileID: -4551715077059323632}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -376,7 +376,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1290
+    y: 1540
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -427,7 +427,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 9
+    skipAction: 10
     skipActionActual: {fileID: 5524943514514912143}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -437,7 +437,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 2048.1401
+    y: 2298.1401
     width: 300
     height: 261.05
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -498,7 +498,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1817.5701
+    y: 2067.57
     width: 300
     height: 200.57
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -550,7 +550,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 6
+    skipAction: 7
     skipActionActual: {fileID: -2633115121165870353}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -560,7 +560,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1013
+    y: 1263
     width: 300
     height: 247
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -600,6 +600,7 @@ MonoBehaviour:
   m_Name: TiendaExclusiva_TurnOff
   m_EditorClassIdentifier: 
   actions:
+  - {fileID: 3857000193733166362}
   - {fileID: 6343589618508388764}
   - {fileID: -9104727569963515439}
   - {fileID: -7099995385604777582}
@@ -624,6 +625,86 @@ MonoBehaviour:
   tagID: 0
   groups: []
   backupData: []
+--- !u!114 &3857000193733166362
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdaacaae7eb224bd2b2b6d336bb7b1a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 1
+    skipAction: 10
+    skipActionActual: {fileID: 4849488852032890388}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  - resultAction: 2
+    skipAction: 1
+    skipActionActual: {fileID: 6343589618508388764}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 14
+    width: 300
+    height: 220
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  groupID: 0
+  resultActionTrue: 0
+  skipActionTrue: -1
+  skipActionTrueActual: {fileID: 0}
+  linkedCutsceneTrue: {fileID: 0}
+  linkedAssetTrue: {fileID: 0}
+  resultActionFail: 1
+  skipActionFail: -1
+  skipActionFailActual: {fileID: 0}
+  linkedCutsceneFail: {fileID: 0}
+  linkedAssetFail: {fileID: 0}
+  parameterID: -1
+  variableID: 23
+  checkParameterID: -1
+  getVarMethod: 0
+  compareVariableID: 0
+  intValue: 0
+  floatValue: 0
+  intCondition: 0
+  isAdditive: 0
+  boolValue: 1
+  boolCondition: 0
+  stringValue: 
+  checkCase: 1
+  vector3Value: {x: 0, y: 0, z: 0}
+  vectorCondition: 0
+  gameObjectValue: {fileID: 0}
+  unityObjectValue: {fileID: 0}
+  location: 0
+  variables: {fileID: 0}
+  variablesConstantID: 0
+  compareVariables: {fileID: 0}
+  compareVariablesConstantID: 0
+  placeholderType: 0
+  placeholderPopUpLabelDataID: 0
 --- !u!114 &4849488852032890388
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -658,7 +739,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 2663.1902
+    y: 2913.1902
     width: 300
     height: 227
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -709,7 +790,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 12
+    skipAction: 13
     skipActionActual: {fileID: -7366630492663408312}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -719,7 +800,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 2339.1902
+    y: 2589.1902
     width: 300
     height: 112
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -762,7 +843,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 14
+    y: 264
     width: 300
     height: 253
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
