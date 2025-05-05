@@ -10992,7 +10992,7 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 0}
+  actionListOnTurnOn: {fileID: 11400000, guid: 77255653d2cfd654eab46a63acbb5898, type: 2}
   actionListOnTurnOff: {fileID: 11400000, guid: 9f7062fa0c7fe794b9d446aebc204602, type: 2}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
