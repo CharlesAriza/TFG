@@ -356,6 +356,16 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 1344fe940ca224447a895446d07c9018, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
+  - ID: 22
+    label: Max Path
+    audioClip: {fileID: 8300000, guid: cdb0db7e3dec42a4899e4e345610a168, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 23
+    label: Max_Side
+    audioClip: {fileID: 8300000, guid: f13ab1f6d6e03ad438ed7e8bc9e35a19, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages:
   - ID: 0
     label: Sad Theme
