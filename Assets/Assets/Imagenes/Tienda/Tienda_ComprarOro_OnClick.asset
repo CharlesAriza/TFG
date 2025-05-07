@@ -438,9 +438,9 @@ MonoBehaviour:
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   groupID: 0
-  changeType: 0
+  changeType: 1
   removeJournalPageMethod: 0
-  menuToChange: TiendaExit
+  menuToChange: Tienda
   menuToChangeParameterID: -1
   elementToChange: 
   elementToChangeParameterID: -1
@@ -499,7 +499,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: '*Has recibido 25.000 de oro.*'
+  messageText: '*Has recibido 50.000 de oro.*'
   lineID: -1
   multiLineIDs: 
   isBackground: 0

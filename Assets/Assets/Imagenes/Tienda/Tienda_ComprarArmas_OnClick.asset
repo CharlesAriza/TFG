@@ -302,9 +302,9 @@ MonoBehaviour:
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   groupID: 0
-  changeType: 0
+  changeType: 1
   removeJournalPageMethod: 0
-  menuToChange: TiendaExit
+  menuToChange: Tienda
   menuToChangeParameterID: -1
   elementToChange: 
   elementToChangeParameterID: -1
@@ -930,7 +930,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "*Espada Dorada y Escudo Real a\xF1adidos correctamente.*"
+  messageText: "*Equipo b\xE1sico a\xF1adido correctamente a tu inventario.*"
   lineID: -1
   multiLineIDs: 
   isBackground: 0

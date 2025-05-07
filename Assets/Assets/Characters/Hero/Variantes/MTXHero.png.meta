@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 4e4525f898cd6984a88dcd2cbd2bdbc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -630760719165884039
+    second: MTXHero_0
+  - first:
+      213: -21896999879226682
+    second: MTXHero_1
+  - first:
+      213: -7705839823004918306
+    second: MTXHero_2
+  - first:
+      213: -4645358762314986547
+    second: MTXHero_3
+  - first:
+      213: 7376331664397223711
+    second: MTXHero_4
+  - first:
+      213: 6171476725321075295
+    second: MTXHero_5
+  - first:
+      213: 3444292378159636755
+    second: MTXHero_6
+  - first:
+      213: 8937734011102512658
+    second: MTXHero_7
+  - first:
+      213: 5544283562203242532
+    second: MTXHero_8
+  - first:
+      213: 439195468825419242
+    second: MTXHero_9
+  - first:
+      213: 72724226424564403
+    second: MTXHero_10
+  - first:
+      213: -7090810251490278502
+    second: MTXHero_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MTXHero_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 111
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f8d3c7761f37f0800000000000000
+      internalID: -630760719165884039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MTXHero_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 111
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca4d8c6bc432bff0800000000000000
+      internalID: -21896999879226682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MTXHero_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 111
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd9bbd128b5f0590800000000000000
+      internalID: -7705839823004918306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MTXHero_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb87fd51de588fb0800000000000000
+      internalID: -4645358762314986547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MTXHero_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 75
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17ccd9319efd5660800000000000000
+      internalID: 7376331664397223711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MTXHero_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 75
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a8a50426d75a550800000000000000
+      internalID: 6171476725321075295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MTXHero_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 39
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3116ac65ba59ccf20800000000000000
+      internalID: 3444292378159636755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MTXHero_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 39
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21641bc9ab5390c70800000000000000
+      internalID: 8937734011102512658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MTXHero_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 39
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4206923668041fc40800000000000000
+      internalID: 5544283562203242532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MTXHero_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeddc42b3f5581600800000000000000
+      internalID: 439195468825419242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MTXHero_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bae9927c4e520100800000000000000
+      internalID: 72724226424564403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MTXHero_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5238096, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93493e15a1689d90800000000000000
+      internalID: -7090810251490278502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5a52316723841e449a9631a7c251691
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MTXHero_0: -630760719165884039
+      MTXHero_1: -21896999879226682
+      MTXHero_10: 72724226424564403
+      MTXHero_11: -7090810251490278502
+      MTXHero_2: -7705839823004918306
+      MTXHero_3: -4645358762314986547
+      MTXHero_4: 7376331664397223711
+      MTXHero_5: 6171476725321075295
+      MTXHero_6: 3444292378159636755
+      MTXHero_7: 8937734011102512658
+      MTXHero_8: 5544283562203242532
+      MTXHero_9: 439195468825419242
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
