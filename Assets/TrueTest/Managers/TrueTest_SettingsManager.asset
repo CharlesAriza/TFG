@@ -358,7 +358,7 @@ MonoBehaviour:
     overrideMixerGroup: {fileID: 0}
   - ID: 22
     label: Max Path
-    audioClip: {fileID: 8300000, guid: cdb0db7e3dec42a4899e4e345610a168, type: 3}
+    audioClip: {fileID: 8300000, guid: 587653a8f32e7a94e816410af5bc2551, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
   - ID: 23
