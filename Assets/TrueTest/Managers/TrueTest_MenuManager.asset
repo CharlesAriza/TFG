@@ -975,8 +975,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 221.67801
     y: 244.91501
-    width: 332.937
-    height: 157.696
+    width: 89.452
+    height: 42.416004
   relativePosition: {x: 40.9, y: 80.3}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -4741,10 +4741,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 928.719
-    y: 578.816
-    width: 79.65
-    height: 105.28
+    x: 249.524
+    y: 155.686
+    width: 21.400002
+    height: 28.317501
   relativePosition: {x: 58.3, y: 64.6}
   numSlots: 1
   uiImage: {fileID: 0}
@@ -5811,7 +5811,7 @@ MonoBehaviour:
   title: TiendaExclusiva2
   manualSize: {x: 100, y: 100}
   positionType: 0
-  manualPosition: {x: 796.5, y: 448}
+  manualPosition: {x: 214, y: 120.5}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -5893,8 +5893,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1593
-    height: 896
+    width: 428
+    height: 241
 --- !u!114 &464328528468203624
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6076,10 +6076,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 1193.1571
-    y: 767.87195
-    width: 356.832
-    height: 92.288
+    x: 320.57202
+    y: 206.537
+    width: 95.872
+    height: 24.823002
   relativePosition: {x: 74.9, y: 85.7}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -7971,10 +7971,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 629.235
-    y: 184.576
-    width: 79.65
-    height: 105.28
+    x: 169.06001
+    y: 49.646004
+    width: 21.400002
+    height: 28.317501
   relativePosition: {x: 39.5, y: 20.6}
   numSlots: 1
   uiImage: {fileID: 0}
@@ -9772,10 +9772,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 651.53705
-    y: 719.48804
-    width: 332.937
-    height: 154.11201
+    x: 175.05202
+    y: 193.52301
+    width: 89.452
+    height: 41.452003
   relativePosition: {x: 40.9, y: 80.3}
   numSlots: 1
   uiButton: {fileID: 0}

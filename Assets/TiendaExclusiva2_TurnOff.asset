@@ -24,7 +24,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 10
+    skipAction: 9
     skipActionActual: {fileID: -5475532363140696689}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -114,7 +114,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 21
+    skipAction: 20
     skipActionActual: {fileID: 3988270266747515171}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -185,7 +185,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 770.62
+    y: 676.57
     width: 300
     height: 92
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -218,7 +218,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 8
+    skipAction: 7
     skipActionActual: {fileID: 3582136762339251522}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -279,7 +279,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 12
+    skipAction: 11
     skipActionActual: {fileID: 7513157333708417479}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -330,7 +330,7 @@ MonoBehaviour:
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
-    skipAction: 35
+    skipAction: 34
     skipActionActual: {fileID: -281960591316093788}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -409,8 +409,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 369.97437
-    y: 2235.6274
+    x: 364
+    y: 2121.1401
     width: 300
     height: 159
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -505,7 +505,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 892.62
+    y: 798.57
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -556,7 +556,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 6
+    skipAction: 5
     skipActionActual: {fileID: 2875197044171529585}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -616,7 +616,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1094.62
+    y: 1000.57
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -677,7 +677,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1700.62
+    y: 1606.5701
     width: 300
     height: 92
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -753,7 +753,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 3
+    skipAction: 2
     skipActionActual: {fileID: -6449601786483305891}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -814,8 +814,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 2
-    skipActionActual: {fileID: 2332459962222019360}
+    skipAction: 24
+    skipActionActual: {fileID: 8895664626698143819}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -823,8 +823,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 357
-    y: 41
+    x: 364
+    y: 264
     width: 300
     height: 112
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -848,7 +848,6 @@ MonoBehaviour:
   actions:
   - {fileID: -5144953155530666446}
   - {fileID: -718435454175689029}
-  - {fileID: 2332459962222019360}
   - {fileID: -6449601786483305891}
   - {fileID: 2379022324603473599}
   - {fileID: 6900413244343028133}
@@ -893,67 +892,6 @@ MonoBehaviour:
   tagID: 0
   groups: []
   backupData: []
---- !u!114 &2332459962222019360
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 25
-    skipActionActual: {fileID: 8895664626698143819}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 363
-    y: 205
-    width: 300
-    height: 246.05
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  groupID: 0
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 0
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: "<i>Cierras los men\xFAs. Levantas la vista.</i>"
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 1
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
 --- !u!114 &2379022324603473599
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1024,7 +962,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 23
+    skipAction: 22
     skipActionActual: {fileID: -7909479667403381373}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1098,7 +1036,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 22
+    skipAction: 21
     skipActionActual: {fileID: -9057053376840876319}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1144,7 +1082,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 7
+    skipAction: 6
     skipActionActual: {fileID: 7206176822396964015}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1187,7 +1125,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 24
+    skipAction: 23
     skipActionActual: {fileID: 2697101233260789996}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1248,7 +1186,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 19
+    skipAction: 18
     skipActionActual: {fileID: 5461289792994070555}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1380,7 +1318,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1498.62
+    y: 1404.5701
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1441,7 +1379,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 2093.19
+    y: 1999.1401
     width: 300
     height: 92
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1474,7 +1412,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 9
+    skipAction: 8
     skipActionActual: {fileID: -4105201911086112363}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1520,7 +1458,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 4
+    skipAction: 3
     skipActionActual: {fileID: 2379022324603473599}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1592,7 +1530,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1296.62
+    y: 1202.5701
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1643,7 +1581,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 16
+    skipAction: 15
     skipActionActual: {fileID: -5058581152426784274}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1704,7 +1642,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 11
+    skipAction: 10
     skipActionActual: {fileID: 8276288138931487737}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1828,7 +1766,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 13
+    skipAction: 12
     skipActionActual: {fileID: -1835768160208272486}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1899,7 +1837,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1822.62
+    y: 1728.5701
     width: 300
     height: 240.57
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1961,7 +1899,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 500.05
+    y: 406
     width: 300
     height: 240.57
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -2012,7 +1950,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 15
+    skipAction: 14
     skipActionActual: {fileID: 4103311889093702978}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
