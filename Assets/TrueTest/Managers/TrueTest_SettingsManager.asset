@@ -366,6 +366,16 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: f13ab1f6d6e03ad438ed7e8bc9e35a19, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
+  - ID: 24
+    label: Max_Dungeon
+    audioClip: {fileID: 8300000, guid: 3b2b31f7a116b154fae0e011303991d6, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 25
+    label: Last_Boss_Max
+    audioClip: {fileID: 8300000, guid: d3975e8d926ce0b4fba130b2caf5cd46, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages:
   - ID: 0
     label: Sad Theme
