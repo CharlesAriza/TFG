@@ -975,8 +975,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 221.67801
     y: 244.91501
-    width: 70.433
-    height: 33.44
+    width: 332.937
+    height: 157.696
   relativePosition: {x: 40.9, y: 80.3}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -4741,10 +4741,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 196.471
-    y: 122.74
-    width: 16.849998
-    height: 22.324999
+    x: 928.719
+    y: 578.816
+    width: 79.65
+    height: 105.28
   relativePosition: {x: 58.3, y: 64.6}
   numSlots: 1
   uiImage: {fileID: 0}
@@ -5210,10 +5210,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 99.44
-    y: 174.096
-    width: 237.6
-    height: 49.6
+    x: 76.161995
+    y: 133.37999
+    width: 181.98
+    height: 38
   relativePosition: {x: 22.6, y: 70.2}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -5465,7 +5465,7 @@ MonoBehaviour:
   title: TiendaCompradaExclusivo
   manualSize: {x: 100, y: 100}
   positionType: 0
-  manualPosition: {x: 220, y: 124}
+  manualPosition: {x: 168.5, y: 95}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -5540,8 +5540,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 440
-    height: 248
+    width: 337
+    height: 190
 --- !u!114 &215827704131517190
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5811,7 +5811,7 @@ MonoBehaviour:
   title: TiendaExclusiva2
   manualSize: {x: 100, y: 100}
   positionType: 0
-  manualPosition: {x: 168.5, y: 95}
+  manualPosition: {x: 796.5, y: 448}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -5893,8 +5893,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 337
-    height: 190
+    width: 1593
+    height: 896
 --- !u!114 &464328528468203624
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6076,10 +6076,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 252.413
-    y: 162.82999
-    width: 75.488
-    height: 19.57
+    x: 1193.1571
+    y: 767.87195
+    width: 356.832
+    height: 92.288
   relativePosition: {x: 74.9, y: 85.7}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -7971,10 +7971,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 133.11499
-    y: 39.14
-    width: 16.849998
-    height: 22.324999
+    x: 629.235
+    y: 184.576
+    width: 79.65
+    height: 105.28
   relativePosition: {x: 39.5, y: 20.6}
   numSlots: 1
   uiImage: {fileID: 0}
@@ -9772,10 +9772,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 137.83301
-    y: 152.57
-    width: 70.433
-    height: 32.68
+    x: 651.53705
+    y: 719.48804
+    width: 332.937
+    height: 154.11201
   relativePosition: {x: 40.9, y: 80.3}
   numSlots: 1
   uiButton: {fileID: 0}
