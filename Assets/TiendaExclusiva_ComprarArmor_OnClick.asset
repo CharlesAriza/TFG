@@ -157,7 +157,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "*Armadura del Juicio Final premium a\xF1adida a tu inventario.*"
+  messageText: "*Armadura del Eclipse Real premium a\xF1adida a tu inventario.*"
   lineID: -1
   multiLineIDs: 
   isBackground: 0
