@@ -1,5 +1,61 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9085098876709287516
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121171f8ebaeb4bd7b6c0895aff04676, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 23
+    skipActionActual: {fileID: -6264446102915292761}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 4233.13
+    width: 300
+    height: 262.31
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  groupID: 0
+  menuName: Final_Rex_A
+  menuNameParameterID: -1
+  elementName: Final_Rex_Imagen
+  elementNameParameterID: -1
+  newLabel: 
+  newLabelParameterID: -1
+  newLabelLineID: -1
+  preProcessTokens: 0
+  setMenuInputBoxSource: 0
+  elementContentType: 1
+  varID: 0
+  varParameterID: -1
+  selectedObjectiveLabelType: 0
+  newTexture: {fileID: 2800000, guid: 69458e874a0b57b4a85a4574dc82fc3e, type: 3}
+  newTextureParameterID: -1
 --- !u!114 &-9027584692937256091
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -24,7 +80,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 15
+    skipAction: 13
     skipActionActual: {fileID: 754427373438261736}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -34,7 +90,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 2640.2402
+    y: 2256.72
     width: 300
     height: 112
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -79,14 +135,14 @@ MonoBehaviour:
     x: 14
     y: 832.31
     width: 300
-    height: 253
+    height: 273
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   groupID: 0
-  trackID: 1
+  trackID: 11
   trackIDParameterID: -1
-  fadeTime: 0
+  fadeTime: 0.5
   fadeTimeParameterID: -1
   loop: 1
   isQueued: 0
@@ -119,8 +175,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 24
-    skipActionActual: {fileID: 548389051658466081}
+    skipAction: 15
+    skipActionActual: {fileID: 1473383436591011073}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -129,7 +185,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1115.31
+    y: 1135.31
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -203,7 +259,81 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 3513.9604
+    y: 2674.77
+    width: 300
+    height: 232
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  groupID: 0
+  fadeType: 0
+  isInstant: 0
+  fadeSpeed: 2
+  fadeSpeedParameterID: -1
+  setTexture: 0
+  tempTexture: {fileID: 0}
+  tempTextureParameterID: -1
+  forceCompleteTransition: 1
+  cameraFadePauseBehaviour: 0
+  fadeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &-7870935603461307414
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b04ecc3c200434bdbae730cccfddb10a, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 20
+    skipActionActual: {fileID: -9085098876709287516}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 3971.1301
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -277,7 +407,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 3775.9604
+    y: 2936.77
     width: 300
     height: 262.31
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -323,8 +453,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 12
-    skipActionActual: {fileID: 8273754692457634415}
+    skipAction: 5
+    skipActionActual: {fileID: 3449654877611522474}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -333,7 +463,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 4898.89
+    y: 5191.44
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -429,6 +559,67 @@ MonoBehaviour:
   selectedObjectiveLabelType: 0
   newTexture: {fileID: 2800000, guid: 784ea47af94593342b5067a466baeb90, type: 3}
   newTextureParameterID: -1
+--- !u!114 &-6264446102915292761
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 24
+    skipActionActual: {fileID: -255739250185010263}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 4525.44
+    width: 300
+    height: 232
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  groupID: 0
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 0
+  playerID: -1
+  speaker: {fileID: 0}
+  messageText: Has conseguido el Final A.
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
 --- !u!114 &-6090204869179509210
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -462,8 +653,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 11
-    y: 6272.9336
+    x: 14
+    y: 5655.44
     width: 300
     height: 268.41
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -473,7 +664,7 @@ MonoBehaviour:
   chooseSceneBy: 1
   sceneNumber: 0
   sceneNumberParameterID: -1
-  sceneName: StartScene
+  sceneName: EndingScene
   sceneNameParameterID: -1
   assignScreenOverlay: 1
   onlyPreload: 0
@@ -507,8 +698,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 16
-    skipActionActual: {fileID: 5017099121741404536}
+    skipAction: 18
+    skipActionActual: {fileID: 2280072836401164100}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -517,7 +708,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 4068.2705
+    y: 3229.08
     width: 300
     height: 112
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -550,7 +741,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 26
+    skipAction: 16
     skipActionActual: {fileID: 1094899982400409726}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -581,7 +772,7 @@ MonoBehaviour:
   journalPageIndex: -1
   journalPageIndexParameterID: -1
   preprocessTextTokens: 0
---- !u!114 &-4667358331828735573
+--- !u!114 &-3633067659828334244
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -590,10 +781,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Script: {fileID: 11500000, guid: 9289eb0ca58ef471f9062a5f77161403, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
-  id: 0
+  id: 4
   isDisplayed: 1
   showComment: 0
   comment: 
@@ -605,7 +796,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 13
+    skipAction: 12
     skipActionActual: {fileID: -7626908361243683815}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -615,216 +806,15 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 4676.89
+    y: 5049.44
     width: 300
-    height: 192
+    height: 112
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   groupID: 0
-  constantID: 0
   parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: "Y claro\u2026 no pod\xEDa perd\xE9rmelo."
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 1
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
---- !u!114 &-3394880067332785757
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 18
-    skipActionActual: {fileID: 1473383436591011073}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 1599.31
-    width: 300
-    height: 206.05
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  groupID: 0
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: "Desde que era peque\xF1o, los videojuegos me han acompa\xF1ado."
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 1
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
---- !u!114 &-2285564575210835279
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 4446.3203
-    width: 300
-    height: 200.57
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  groupID: 0
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: "\u201C\xA1Vamos, que empieza la mazmorra legendaria!\u201D, me dijeron."
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 1
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
---- !u!114 &-1399643407800893279
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 10
-    skipActionActual: {fileID: -8384522825420895421}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 3263.3904
-    width: 300
-    height: 220.57
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  groupID: 0
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: Es nuestra forma de vivir aventuras, incluso cuando estamos lejos.
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 1
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
+  timeToPause: 1
 --- !u!114 &-1378707807148719516
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -880,7 +870,7 @@ MonoBehaviour:
   journalPageIndex: -1
   journalPageIndexParameterID: -1
   preprocessTextTokens: 0
---- !u!114 &-745686543557653892
+--- !u!114 &-255739250185010263
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -890,69 +880,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 3018.2903
-    width: 300
-    height: 215.1
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  groupID: 0
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: "Cada misi\xF3n, cada victoria... la vivimos juntos. Jugar se volvi\xF3
-    nuestra forma de estar conectados."
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 1
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
---- !u!114 &-229203553895202340
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: (Clone)
+  m_Name: 
   m_EditorClassIdentifier: 
   id: 0
   isDisplayed: 1
@@ -966,8 +894,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 5
-    skipActionActual: {fileID: 3449654877611522474}
+    skipAction: 21
+    skipActionActual: {fileID: -3633067659828334244}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -976,9 +904,9 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 5845.77
+    y: 4787.44
     width: 300
-    height: 192
+    height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -986,14 +914,14 @@ MonoBehaviour:
   constantID: 0
   parameterID: -1
   messageParameterID: -1
-  isPlayer: 1
+  isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "\xA1Es hora de entrar en GrindCraft!"
+  messageText: Gracias por jugar GrindCraft.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
-  noAnimation: 1
+  noAnimation: 0
   headClip: {fileID: 0}
   mouthClip: {fileID: 0}
   play2DHeadAnim: 0
@@ -1028,22 +956,19 @@ MonoBehaviour:
   - {fileID: 5744517555615617499}
   - {fileID: -8384522825420895421}
   - {fileID: -9027584692937256091}
-  - {fileID: 8273754692457634415}
   - {fileID: -7626908361243683815}
-  - {fileID: -3394880067332785757}
   - {fileID: 754427373438261736}
   - {fileID: 5017099121741404536}
-  - {fileID: 7015235052260585395}
   - {fileID: 1473383436591011073}
-  - {fileID: -745686543557653892}
-  - {fileID: -1399643407800893279}
-  - {fileID: -2285564575210835279}
-  - {fileID: -4667358331828735573}
-  - {fileID: -229203553895202340}
-  - {fileID: 548389051658466081}
-  - {fileID: 6689698427713963219}
   - {fileID: 1094899982400409726}
   - {fileID: -6090204869179509210}
+  - {fileID: 2280072836401164100}
+  - {fileID: 1813838450902228877}
+  - {fileID: -9085098876709287516}
+  - {fileID: -3633067659828334244}
+  - {fileID: -7870935603461307414}
+  - {fileID: -6264446102915292761}
+  - {fileID: -255739250185010263}
   isSkippable: 1
   actionListType: 0
   unfreezePauseMenus: 1
@@ -1055,67 +980,6 @@ MonoBehaviour:
   tagID: 0
   groups: []
   backupData: []
---- !u!114 &548389051658466081
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 14
-    skipActionActual: {fileID: -3394880067332785757}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 1377.31
-    width: 300
-    height: 192
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  groupID: 0
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: Me llamo Hero.
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 1
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
 --- !u!114 &754427373438261736
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1140,8 +1004,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 19
-    skipActionActual: {fileID: -745686543557653892}
+    skipAction: 10
+    skipActionActual: {fileID: -8384522825420895421}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -1150,9 +1014,9 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 2782.2402
+    y: 2398.72
     width: 300
-    height: 206.05
+    height: 246.05
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -1160,10 +1024,10 @@ MonoBehaviour:
   constantID: 0
   parameterID: -1
   messageParameterID: -1
-  isPlayer: 1
+  isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "Con el tiempo, los juegos online nos unieron a\xFAn m\xE1s."
+  messageText: "No te dejaste llevar. Y a\xFAn as\xED\u2026 lo conseguiste."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -1266,9 +1130,9 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1835.3601
+    y: 1397.31
     width: 300
-    height: 220.57
+    height: 275.1
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -1276,11 +1140,11 @@ MonoBehaviour:
   constantID: 0
   parameterID: -1
   messageParameterID: -1
-  isPlayer: 1
+  isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Me encanta explorar, superar retos... y sobre todo, compartir cada
-    partida con mis amigos.
+  messageText: "Has llegado hasta el final. Has pensado por ti mismo. Y has aprendido
+    que no todo lo que brilla\u2026 vale la pena."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -1294,6 +1158,99 @@ MonoBehaviour:
   mouthClip2D: 
   mouthLayer: 0
   waitTimeOffset: 0
+--- !u!114 &1813838450902228877
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9289eb0ca58ef471f9062a5f77161403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 2
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 22
+    skipActionActual: {fileID: -7870935603461307414}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 3829.1301
+    width: 300
+    height: 112
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  groupID: 0
+  parameterID: -1
+  timeToPause: 1
+--- !u!114 &2280072836401164100
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cbf837c7ba24dda959b0c08f753c33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 14
+    skipActionActual: {fileID: 5017099121741404536}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 3371.08
+    width: 300
+    height: 152
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  groupID: 0
+  constantID: 0
+  parameterID: -1
+  origin: {fileID: 0}
+  playFromDefaultSound: 1
+  audioSource: {fileID: 0}
+  audioSourceConstantID: 0
+  audioSourceParameterID: -1
+  audioClip: {fileID: 8300000, guid: aa041a7aebcadf9449b9d084654dfa6c, type: 3}
+  audioClipParameterID: -1
 --- !u!114 &3449654877611522474
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1318,7 +1275,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 27
+    skipAction: 17
     skipActionActual: {fileID: -6090204869179509210}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1328,7 +1285,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 6067.77
+    y: 5453.44
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1337,7 +1294,7 @@ MonoBehaviour:
   groupID: 0
   changeType: 1
   removeJournalPageMethod: 0
-  menuToChange: Intro
+  menuToChange: Final_Rex_A
   menuToChangeParameterID: -1
   elementToChange: 
   elementToChangeParameterID: -1
@@ -1373,8 +1330,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 21
-    skipActionActual: {fileID: -2285564575210835279}
+    skipAction: 19
+    skipActionActual: {fileID: 1813838450902228877}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -1383,9 +1340,9 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 4210.2705
+    y: 3553.08
     width: 300
-    height: 206.05
+    height: 246.05
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -1393,10 +1350,10 @@ MonoBehaviour:
   constantID: 0
   parameterID: -1
   messageParameterID: -1
-  isPlayer: 1
+  isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Hoy me hablaron de GrindCraft, un nuevo juego free to play.
+  messageText: "*\xA1Felicidades! Has completado GrindCraft*"
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -1444,7 +1401,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 2085.9302
+    y: 1702.41
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1518,7 +1475,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 2347.9302
+    y: 1964.41
     width: 300
     height: 262.31
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1539,165 +1496,4 @@ MonoBehaviour:
   varParameterID: -1
   selectedObjectiveLabelType: 0
   newTexture: {fileID: 2800000, guid: 28b873be756defb4e87d761b82f85d42, type: 3}
-  newTextureParameterID: -1
---- !u!114 &6689698427713963219
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9289eb0ca58ef471f9062a5f77161403, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 2
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 17
-    skipActionActual: {fileID: 7015235052260585395}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 5453.2
-    width: 300
-    height: 112
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  groupID: 0
-  parameterID: -1
-  timeToPause: 1
---- !u!114 &7015235052260585395
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 23
-    skipActionActual: {fileID: -229203553895202340}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 5595.2
-    width: 300
-    height: 220.57
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  groupID: 0
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: "Ahora empieza la aventura. Solo tengo que encontrarlos\u2026 y unirme
-    al grupo."
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 1
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
---- !u!114 &8273754692457634415
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 121171f8ebaeb4bd7b6c0895aff04676, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 25
-    skipActionActual: {fileID: 6689698427713963219}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 5160.89
-    width: 300
-    height: 262.31
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  groupID: 0
-  menuName: Intro
-  menuNameParameterID: -1
-  elementName: Intro_1_Imagen
-  elementNameParameterID: -1
-  newLabel: 
-  newLabelParameterID: -1
-  newLabelLineID: -1
-  preProcessTokens: 0
-  setMenuInputBoxSource: 0
-  elementContentType: 1
-  varID: 0
-  varParameterID: -1
-  selectedObjectiveLabelType: 0
-  newTexture: {fileID: 2800000, guid: b353f663e265476469cbaa4f9124f7e6, type: 3}
   newTextureParameterID: -1
