@@ -574,7 +574,7 @@ MonoBehaviour:
   uiImage: {fileID: 0}
   graphicType: 0
   graphic:
-    texture: {fileID: 2800000, guid: f67d20092502987408a0b2fdcabdf900, type: 3}
+    texture: {fileID: 2800000, guid: 2aaae68683823fa4c94a28f754d4d229, type: 3}
     isAnimated: 0
     numFrames: 1
     numRows: 1
@@ -3228,10 +3228,9 @@ MonoBehaviour:
   hideDuringSaveScreenshots: 1
   useTextMeshProComponents: 0
   fitWithinScreen: 1
-  backgroundTexture: {fileID: 2800000, guid: f67d20092502987408a0b2fdcabdf900, type: 3}
+  backgroundTexture: {fileID: 2800000, guid: 2aaae68683823fa4c94a28f754d4d229, type: 3}
   visibleElements:
   - {fileID: -8664831749392511540}
-  - {fileID: 965560800840021679}
   - {fileID: -3027903726349569676}
   - {fileID: 5166856628652984542}
   transitionProgress: 0
@@ -4438,7 +4437,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 4
   title: Cargar
-  slotSize: {x: 23, y: 15.3}
+  slotSize: {x: 22.5, y: 15.7}
   sizeType: 1
   positionType: 2
   slotSpacing: 0
@@ -4463,11 +4462,11 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 180.01
-    y: 158.664
-    width: 108.1
-    height: 40.392002
-  relativePosition: {x: 38.3, y: 60.1}
+    x: 180.48
+    y: 137.016
+    width: 105.74999
+    height: 41.448
+  relativePosition: {x: 38.4, y: 51.9}
   numSlots: 1
   uiButton: {fileID: 0}
   uiPointerState: 0
@@ -6938,7 +6937,7 @@ MonoBehaviour:
   fontScaleFactor: 1
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
-  isVisible: 1
+  isVisible: 0
   isClickable: 1
   orientation: 1
   gridWidth: 3
@@ -9859,7 +9858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 5
   title: Salir
-  slotSize: {x: 19, y: 13.9}
+  slotSize: {x: 21.3, y: 15.7}
   sizeType: 1
   positionType: 2
   slotSpacing: 0
@@ -9884,11 +9883,11 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 188
-    y: 206.184
-    width: 89.299995
-    height: 36.696
-  relativePosition: {x: 40, y: 78.1}
+    x: 181.89
+    y: 185.85602
+    width: 100.10999
+    height: 41.448
+  relativePosition: {x: 38.7, y: 70.4}
   numSlots: 1
   uiButton: {fileID: 0}
   uiPointerState: 0
