@@ -1262,8 +1262,8 @@ MonoBehaviour:
   - ID: 2
     title: Talar Madera
     titleLineID: -1
-    description: "Necesito recolectar madera en la arboleda cerca del lago. Por cada
-      5 maderas, el mercader me dar\xE1 1 moneda."
+    description: "Necesito recolectar madera. Por cada 5 maderas, el mercader me
+      dar\xE1 1 moneda."
     descriptionLineID: -1
     perPlayer: 0
     texture: {fileID: 0}
