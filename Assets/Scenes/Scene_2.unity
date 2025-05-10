@@ -11002,6 +11002,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6459219377478693120, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
+      propertyPath: speechLabel
+      value: Mercader
+      objectReference: {fileID: 0}
+    - target: {fileID: 6459219377478693120, guid: 730a6848befdfc54f9b7c47c8ced20f5, type: 3}
       propertyPath: textScrollClip
       value: 
       objectReference: {fileID: 8300000, guid: d6e5d94279631d0448af54ef4aff73ee, type: 3}
