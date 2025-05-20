@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rex_UltraV2_MOD 1_0: -2743819860369607534
+      Rex_UltraV2_MOD 1_1: 8828509264673631325
+      Rex_UltraV2_MOD 1_10: 2323148035318875371
+      Rex_UltraV2_MOD 1_11: -8880745102987800323
+      Rex_UltraV2_MOD 1_2: 4456323063384017729
+      Rex_UltraV2_MOD 1_3: -3258621447902051569
+      Rex_UltraV2_MOD 1_4: 4390964526903861315
+      Rex_UltraV2_MOD 1_5: 3317312657013276369
+      Rex_UltraV2_MOD 1_6: -6904623137570364820
+      Rex_UltraV2_MOD 1_7: 7586922172068840406
+      Rex_UltraV2_MOD 1_8: -6046623421314459254
+      Rex_UltraV2_MOD 1_9: 4953781492152456957
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

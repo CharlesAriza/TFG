@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tenebris_Shadow_Bird_0: -5597431063647671004
+      Tenebris_Shadow_Bird_1: -3469128518196582498
+      Tenebris_Shadow_Bird_10: -6818536604534060582
+      Tenebris_Shadow_Bird_11: 1139227241766811533
+      Tenebris_Shadow_Bird_12: -6249304850460197880
+      Tenebris_Shadow_Bird_13: 2277957977913953586
+      Tenebris_Shadow_Bird_14: 3566027117078947904
+      Tenebris_Shadow_Bird_15: 3607106056500836914
+      Tenebris_Shadow_Bird_16: 2119598211661325545
+      Tenebris_Shadow_Bird_17: -1221618864695802108
+      Tenebris_Shadow_Bird_18: 8675743901272107442
+      Tenebris_Shadow_Bird_19: -9175180093330961341
+      Tenebris_Shadow_Bird_2: 1065303800136928998
+      Tenebris_Shadow_Bird_20: -7066375907051727323
+      Tenebris_Shadow_Bird_21: -9053506127895597019
+      Tenebris_Shadow_Bird_22: 1170906150827400408
+      Tenebris_Shadow_Bird_23: -1219157136311770210
+      Tenebris_Shadow_Bird_3: -7146595365939454072
+      Tenebris_Shadow_Bird_4: 1674330988668124380
+      Tenebris_Shadow_Bird_5: 5977696781159862750
+      Tenebris_Shadow_Bird_6: 3029684790620772726
+      Tenebris_Shadow_Bird_7: -4521197820899362785
+      Tenebris_Shadow_Bird_8: -6806097430678853834
+      Tenebris_Shadow_Bird_9: 3227492516234232030
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

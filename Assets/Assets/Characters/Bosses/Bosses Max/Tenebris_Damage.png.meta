@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tenebris_Damage_0: 8442464889644895872
+      Tenebris_Damage_1: -4887221875701551038
+      Tenebris_Damage_10: 5665067577277706839
+      Tenebris_Damage_11: -2698831460139694571
+      Tenebris_Damage_12: 9097816863131599901
+      Tenebris_Damage_13: 6582429449881512188
+      Tenebris_Damage_14: -3420632331807684210
+      Tenebris_Damage_15: -6786328517928949612
+      Tenebris_Damage_16: 3146131641974099443
+      Tenebris_Damage_17: -8201093990748058137
+      Tenebris_Damage_18: 3692412431534950137
+      Tenebris_Damage_19: 1782937490781778236
+      Tenebris_Damage_2: -6920777820672813062
+      Tenebris_Damage_20: 6254129409220089443
+      Tenebris_Damage_21: -800083586358807223
+      Tenebris_Damage_22: 6520132184203170605
+      Tenebris_Damage_23: 3991298347531281284
+      Tenebris_Damage_3: 334636909736123847
+      Tenebris_Damage_4: 6362825139048636096
+      Tenebris_Damage_5: -3689924274789725694
+      Tenebris_Damage_6: -3988226627131690868
+      Tenebris_Damage_7: -349064102751935385
+      Tenebris_Damage_8: 1136764189500943319
+      Tenebris_Damage_9: -6466443860271803933
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Zephibris_Damage_0: -5333218068424907406
+      Zephibris_Damage_1: 8087196201193008462
+      Zephibris_Damage_10: 6754270852559747787
+      Zephibris_Damage_11: -5294505543766334858
+      Zephibris_Damage_12: -5390150192281884700
+      Zephibris_Damage_13: -4277394031794423299
+      Zephibris_Damage_14: -3125705167913001361
+      Zephibris_Damage_15: -3425531866232256901
+      Zephibris_Damage_16: -5041687451795276635
+      Zephibris_Damage_17: -4348127787974770062
+      Zephibris_Damage_18: -9032067977012140859
+      Zephibris_Damage_19: 5853144642768334809
+      Zephibris_Damage_2: -2517502661758050267
+      Zephibris_Damage_20: 79336371068450828
+      Zephibris_Damage_21: -1385985937735625272
+      Zephibris_Damage_22: -1230177327160131382
+      Zephibris_Damage_23: 6148450819132245557
+      Zephibris_Damage_3: -2994348424755635161
+      Zephibris_Damage_4: 6699766642421068147
+      Zephibris_Damage_5: 304915463983234624
+      Zephibris_Damage_6: -6225848071604692281
+      Zephibris_Damage_7: 5336529714789689805
+      Zephibris_Damage_8: 3073705626436822689
+      Zephibris_Damage_9: -978986058304470988
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Questlog_OnClick_Logo_Alt_0: 5944447697085721543
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

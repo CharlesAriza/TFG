@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cerrar_Logo_UI_On_Click_0: -2115989242978436987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

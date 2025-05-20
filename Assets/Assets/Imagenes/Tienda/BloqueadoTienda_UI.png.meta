@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BloqueadoTienda_UI_0: -3875803115018602136
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

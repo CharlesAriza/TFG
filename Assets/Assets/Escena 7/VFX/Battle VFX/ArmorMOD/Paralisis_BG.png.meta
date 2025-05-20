@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Paralisis_BG_0: 7774877026324432415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

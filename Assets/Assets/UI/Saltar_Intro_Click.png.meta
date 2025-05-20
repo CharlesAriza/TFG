@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Saltar_Intro_Click_0: -5348614717286289479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

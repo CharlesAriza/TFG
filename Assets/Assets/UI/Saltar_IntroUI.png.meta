@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Saltar_IntroUI_0: -7983068963725553144
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
