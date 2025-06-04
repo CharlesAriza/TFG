@@ -189,7 +189,6 @@ MonoBehaviour:
   cameraPerspective: 0
   cacheCameraMain: 0
   linearColorTextures: 0
-  relyOnSafeArea: 1
   movingTurning: 3
   hotspotDetection: 0
   closeInteractionMenusIfPlayerLeavesVicinity: 0
